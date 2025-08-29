@@ -1,0 +1,2001 @@
+Status,Age Group,Education,Industry,Location,AI Risk,Years of Experience,Monthly Salary (INR),Date Recorded
+Employed,25-34,High School,Technology,Urban,Unknown,Unknown,40700,2023-01-01
+Employed,18-24,Diploma,Fintech,Rural,Medium,Unknown,17500,2023-02-01
+Employed,25-34,High School,Retail,Delhi,Low,16,77600,2023-03-01
+Unemployed,18-24,Master’s,Retail,Urban,Low,30,100200,2023-04-01
+Unknown,45-54,Diploma,Fintech,Hyderabad,Low,9,19500,2023-05-01
+Unemployed,25-34,PhD,Technology,Bangalore,High,Unknown,54500,2023-06-01
+Employed,35-44,Master’s,unknown,Mumbai,Medium,20,136500,2023-07-01
+Unemployed,35-44,Master’s,unknown,Rural,Low,28,25300,2023-08-01
+Employed,35-44,PhD,Retail,Unknown,Medium,0,103600,2023-09-01
+Unemployed,55+,PhD,Technology,Unknown,Unknown,3,126500,2023-10-01
+Unemployed,45-54,Master’s,unknown,Bangalore,High,Unknown,73400,2023-11-01
+Unemployed,45-54,High School,Technology,Delhi,High,Unknown,27000,2023-12-01
+Unemployed,35-44,High School,Retail,Delhi,Unknown,Unknown,33200,
+Employed,18-24,PhD,Technology,Rural,Low,Unknown,121700,
+Unknown,45-54,High School,Healthcare,Urban,Low,Unknown,132100,
+Unemployed,18-24,Bachelor's,Healthcare,Bangalore,Medium,18,28700,
+Employed,25-34,High School,Retail,Urban,Low,Unknown,109300,
+Employed,18-24,PhD,Technology,Rural,Unknown,6,136000,
+Unemployed,25-34,Unknown,Fintech,Rural,Low,Unknown,62400,
+Employed,18-24,Unknown,Retail,Delhi,Medium,0,101100,
+Unemployed,35-44,High School,unknown,Hyderabad,Low,Unknown,108000,
+Unemployed,18-24,Unknown,Healthcare,Delhi,Medium,5,128000,
+Unknown,35-44,Bachelor's,Healthcare,Hyderabad,High,5,125000,
+Employed,Unknown,Master’s,Retail,Delhi,Unknown,Unknown,33200,
+Unemployed,25-34,PhD,Technology,Hyderabad,Medium,24,107700,
+Unemployed,Unknown,Master’s,Healthcare,Bangalore,Low,18,33200,
+Employed,18-24,Unknown,Technology,Rural,Medium,Unknown,59000,
+Unemployed,18-24,Unknown,Healthcare,Delhi,Medium,12,132200,
+Unemployed,35-44,Bachelor's,Education,Suburban,Unknown,22,80800,
+Employed,18-24,Master’s,Healthcare,Urban,Low,15,13300,
+Unemployed,18-24,Unknown,Healthcare,Unknown,High,Unknown,23500,
+Unemployed,25-34,High School,Technology,Hyderabad,High,Unknown,13100,2023-01-02
+Employed,25-34,High School,Finance,Urban,High,2,134500,2023-02-02
+Unemployed,45-54,PhD,unknown,Urban,Low,8,86800,2023-03-02
+Employed,18-24,Master’s,Finance,Unknown,Medium,Unknown,31200,2023-04-02
+Employed,55+,Unknown,Fintech,Unknown,Low,Unknown,106900,2023-05-02
+Unknown,18-24,PhD,Retail,Bangalore,High,Unknown,93300,2023-06-02
+Employed,18-24,High School,Fintech,Unknown,Low,Unknown,73500,2023-07-02
+Unemployed,25-34,Diploma,Healthcare,Unknown,High,9,21500,2023-08-02
+Unemployed,18-24,High School,Finance,Unknown,Medium,Unknown,33200,2023-09-02
+Employed,45-54,High School,Healthcare,Unknown,Low,3,33200,2023-10-02
+Employed,25-34,Bachelor's,Fintech,Delhi,Low,25,7700,2023-11-02
+Unemployed,45-54,Master’s,Technology,Hyderabad,Low,10,12900,2023-12-02
+Unknown,25-34,PhD,Retail,Bangalore,Medium,1,31800,
+Employed,25-34,High School,Healthcare,Hyderabad,Medium,11,97900,
+Unemployed,18-24,PhD,Fintech,Rural,Medium,4,14200,
+Unemployed,25-34,PhD,Retail,Suburban,High,17,106500,
+Unknown,25-34,Diploma,Education,Delhi,Low,Unknown,39500,
+Unknown,55+,Master’s,Retail,Unknown,High,30,126600,
+Unemployed,18-24,PhD,Retail,Delhi,High,7,15700,
+Employed,35-44,Unknown,Finance,Delhi,High,27,115700,
+Employed,18-24,High School,Retail,Mumbai,Low,Unknown,18800,
+Employed,45-54,Bachelor's,Technology,Urban,Low,Unknown,127400,
+Employed,Unknown,PhD,Finance,Mumbai,High,26,21600,
+Unemployed,45-54,Master’s,Healthcare,Delhi,Medium,6,42100,
+Employed,25-34,Master’s,Education,Urban,Medium,28,137400,
+Employed,25-34,High School,Healthcare,Bangalore,Low,Unknown,33200,
+Unemployed,18-24,High School,Retail,Suburban,Unknown,Unknown,83000,
+Unemployed,18-24,Master’s,Healthcare,Delhi,Low,24,126300,
+Employed,25-34,PhD,Finance,Suburban,Unknown,Unknown,33200,2023-01-03
+Unemployed,55+,Diploma,Retail,Suburban,Medium,Unknown,26300,2023-02-03
+Unemployed,25-34,Master’s,Education,Mumbai,Low,24,78900,2023-03-03
+Unemployed,18-24,Diploma,Fintech,Unknown,High,Unknown,51000,2023-04-03
+Employed,18-24,PhD,Technology,Urban,Medium,Unknown,48900,2023-05-03
+Unknown,45-54,Diploma,unknown,Urban,Medium,Unknown,113200,2023-06-03
+Unemployed,18-24,Master’s,Technology,Rural,Medium,18,33200,2023-07-03
+Unemployed,18-24,PhD,unknown,Unknown,Medium,Unknown,33200,2023-08-03
+Unemployed,45-54,Bachelor's,Finance,Suburban,Medium,17,57200,2023-09-03
+Employed,45-54,Diploma,Healthcare,Urban,Unknown,Unknown,84000,2023-10-03
+Employed,25-34,Unknown,unknown,Rural,Low,Unknown,63700,2023-11-03
+Unemployed,25-34,PhD,Retail,Bangalore,Low,Unknown,90500,2023-12-03
+Employed,35-44,High School,Retail,Bangalore,Medium,15,33400,
+Employed,25-34,PhD,Fintech,Bangalore,Low,12,33200,
+Unemployed,45-54,Diploma,Fintech,Rural,High,20,130700,
+Unemployed,18-24,High School,Retail,Delhi,Medium,Unknown,90000,
+Unemployed,25-34,High School,unknown,Urban,Unknown,27,142200,
+Unemployed,18-24,Master’s,Finance,Suburban,Low,Unknown,125800,
+Employed,25-34,Bachelor's,Technology,Urban,Medium,Unknown,33200,
+Unemployed,35-44,High School,Education,Mumbai,Unknown,Unknown,100200,
+Unemployed,Unknown,Master’s,Technology,Suburban,Low,Unknown,140200,
+Employed,25-34,Bachelor's,Education,Delhi,Low,Unknown,17900,
+Employed,25-34,Bachelor's,Healthcare,Hyderabad,High,22,79100,
+Unemployed,18-24,Master’s,Technology,Rural,Low,Unknown,33200,
+Employed,18-24,High School,Healthcare,Suburban,Medium,4,46100,
+Employed,25-34,Diploma,Finance,Mumbai,Unknown,26,120100,
+Unknown,55+,Bachelor's,Technology,Bangalore,Medium,Unknown,135100,
+Unemployed,55+,Bachelor's,Retail,Delhi,Low,Unknown,56300,
+Unemployed,25-34,PhD,Retail,Suburban,High,Unknown,105400,
+Unknown,55+,Bachelor's,Fintech,Delhi,Unknown,12,148700,
+Employed,35-44,Unknown,Fintech,Hyderabad,Low,26,88400,
+Employed,45-54,Diploma,Finance,Bangalore,High,16,124600,2023-01-04
+Employed,35-44,Bachelor's,Fintech,Hyderabad,Medium,20,19000,2023-02-04
+Employed,35-44,Master’s,Retail,Bangalore,High,21,66200,2023-03-04
+Employed,Unknown,PhD,Education,Mumbai,High,Unknown,81600,2023-04-04
+Unknown,25-34,High School,Healthcare,Urban,Low,Unknown,33200,2023-05-04
+Unemployed,25-34,PhD,Fintech,Hyderabad,Low,26,33200,2023-06-04
+Employed,25-34,Diploma,Healthcare,Hyderabad,Medium,Unknown,33200,2023-07-04
+Employed,25-34,PhD,unknown,Urban,High,2,8900,2023-08-04
+Unemployed,25-34,Diploma,Retail,Hyderabad,High,Unknown,124300,2023-09-04
+Employed,45-54,PhD,Healthcare,Unknown,Low,12,141400,2023-10-04
+Employed,18-24,PhD,Technology,Bangalore,Unknown,Unknown,50600,2023-11-04
+Employed,45-54,Unknown,Technology,Delhi,Medium,25,76500,2023-12-04
+Unemployed,25-34,High School,Retail,Mumbai,Medium,Unknown,33200,
+Employed,Unknown,Diploma,Healthcare,Rural,Medium,Unknown,44200,
+Employed,45-54,Bachelor's,Retail,Urban,High,0,137100,
+Employed,18-24,Master’s,Healthcare,Urban,High,Unknown,33200,
+Unemployed,25-34,Bachelor's,Healthcare,Urban,Low,16,73800,
+Employed,25-34,Master’s,Retail,Urban,Low,Unknown,33200,
+Employed,18-24,Diploma,Technology,Delhi,High,Unknown,40300,
+Unknown,18-24,Master’s,Healthcare,Mumbai,Medium,26,25900,
+Unknown,25-34,Unknown,Education,Unknown,High,5,68500,
+Unemployed,35-44,PhD,Finance,Delhi,Low,28,44700,
+Unemployed,18-24,PhD,Healthcare,Urban,High,10,20200,
+Employed,25-34,Unknown,unknown,Urban,Medium,1,130200,
+Employed,25-34,Master’s,Education,Suburban,Low,15,7600,
+Unemployed,45-54,High School,Finance,Delhi,Low,Unknown,109500,
+Employed,25-34,PhD,Retail,Urban,Low,Unknown,26900,
+Employed,35-44,High School,Technology,Rural,Low,7,21000,
+Unknown,25-34,Unknown,Finance,Urban,Medium,Unknown,5400,
+Employed,18-24,PhD,unknown,Mumbai,High,Unknown,35200,
+Employed,18-24,Master’s,Healthcare,Suburban,Medium,Unknown,33200,2023-01-05
+Employed,45-54,PhD,Technology,Hyderabad,High,18,10500,2023-02-05
+Unknown,45-54,High School,Healthcare,Urban,High,0,123100,2023-03-05
+Employed,Unknown,High School,Technology,Mumbai,Medium,8,43400,2023-04-05
+Employed,45-54,Unknown,Finance,Unknown,Medium,20,79000,2023-05-05
+Employed,25-34,Diploma,Education,Urban,High,Unknown,125300,2023-06-05
+Unemployed,25-34,PhD,Technology,Urban,Medium,23,11500,2023-07-05
+Unemployed,55+,PhD,Technology,Unknown,Medium,Unknown,33200,2023-08-05
+Employed,Unknown,High School,Healthcare,Bangalore,Low,6,33200,2023-09-05
+Unemployed,35-44,High School,Retail,Hyderabad,Medium,Unknown,23500,2023-10-05
+Unemployed,18-24,Bachelor's,Education,Delhi,Unknown,Unknown,54800,2023-11-05
+Unknown,35-44,Bachelor's,Fintech,Unknown,Medium,Unknown,140000,2023-12-05
+Unemployed,18-24,Master’s,Fintech,Urban,Low,Unknown,33200,
+Unknown,45-54,High School,Retail,Urban,High,Unknown,110800,
+Employed,25-34,Master’s,Finance,Suburban,Unknown,11,67000,
+Employed,25-34,High School,Finance,Bangalore,Unknown,Unknown,109800,
+Employed,45-54,PhD,Healthcare,Urban,Low,Unknown,33200,
+Employed,18-24,Bachelor's,Retail,Bangalore,Unknown,18,33200,
+Unemployed,35-44,Master’s,Retail,Mumbai,Medium,Unknown,65300,
+Employed,35-44,High School,Technology,Urban,Low,Unknown,76500,
+Employed,25-34,Unknown,Technology,Hyderabad,Low,5,141000,
+Employed,18-24,Diploma,Healthcare,Delhi,High,Unknown,8000,
+Unemployed,25-34,Unknown,Healthcare,Bangalore,Unknown,Unknown,52800,
+Employed,25-34,Bachelor's,Education,Suburban,Unknown,Unknown,96300,
+Employed,Unknown,Unknown,Retail,Bangalore,High,0,103700,
+Employed,25-34,Bachelor's,Education,Rural,Low,Unknown,100700,
+Unemployed,18-24,Master’s,Fintech,Urban,High,17,122200,
+Unemployed,25-34,High School,Fintech,Unknown,Medium,Unknown,33200,
+Employed,25-34,Unknown,Healthcare,Rural,Unknown,Unknown,22700,
+Employed,18-24,PhD,Healthcare,Urban,Medium,28,33200,
+Unemployed,18-24,Bachelor's,Technology,Bangalore,Medium,Unknown,89900,
+Employed,18-24,Master’s,unknown,Delhi,Low,30,65200,2023-01-06
+Employed,18-24,High School,Healthcare,Delhi,High,Unknown,33200,2023-02-06
+Employed,25-34,Diploma,Retail,Hyderabad,High,Unknown,97100,2023-03-06
+Unknown,18-24,High School,Education,Bangalore,Unknown,5,40400,2023-04-06
+Employed,18-24,Master’s,Retail,Suburban,High,Unknown,102600,2023-05-06
+Unemployed,55+,Master’s,Retail,Urban,High,Unknown,125900,2023-06-06
+Unemployed,25-34,Unknown,Fintech,Bangalore,Unknown,5,135500,2023-07-06
+Employed,55+,Master’s,Education,Rural,Medium,Unknown,33200,2023-08-06
+Employed,25-34,Bachelor's,Education,Hyderabad,Unknown,0,22400,2023-09-06
+Unemployed,45-54,Unknown,Healthcare,Unknown,Medium,Unknown,50000,2023-10-06
+Employed,55+,Bachelor's,Healthcare,Urban,Unknown,Unknown,81200,2023-11-06
+Employed,55+,Master’s,Retail,Unknown,High,Unknown,119200,2023-12-06
+Employed,35-44,Diploma,Retail,Hyderabad,High,Unknown,106600,
+Employed,18-24,Master’s,Healthcare,Mumbai,Medium,3,44700,
+Unknown,25-34,Diploma,Education,Bangalore,Medium,19,37600,
+Unemployed,18-24,Bachelor's,Healthcare,Hyderabad,High,Unknown,131300,
+Employed,Unknown,PhD,Education,Suburban,Medium,Unknown,118300,
+Employed,25-34,PhD,Retail,Urban,Low,Unknown,75300,
+Unemployed,55+,Diploma,Technology,Unknown,High,19,53300,
+Unemployed,18-24,Bachelor's,Healthcare,Urban,Low,Unknown,88400,
+Unemployed,55+,Master’s,Education,Mumbai,Low,19,110800,
+Unemployed,55+,Bachelor's,Education,Hyderabad,Low,28,115100,
+Employed,25-34,Bachelor's,Education,Hyderabad,Unknown,9,11800,
+Employed,55+,High School,Retail,Unknown,High,Unknown,41000,
+Unemployed,35-44,PhD,Retail,Urban,High,23,16400,
+Unemployed,Unknown,Master’s,Technology,Hyderabad,Low,18,80100,
+Unemployed,25-34,High School,Retail,Urban,Unknown,26,33200,
+Unemployed,45-54,Unknown,Retail,Urban,High,Unknown,21200,
+Unemployed,18-24,High School,Technology,Urban,Low,Unknown,12500,
+Unemployed,45-54,PhD,Retail,Suburban,High,Unknown,70700,
+Unemployed,18-24,High School,Retail,Suburban,Low,29,96000,2023-01-07
+Employed,18-24,Master’s,Healthcare,Suburban,Low,Unknown,123200,2023-02-07
+Employed,25-34,Master’s,unknown,Suburban,Unknown,Unknown,33200,2023-03-07
+Unemployed,35-44,PhD,Healthcare,Urban,Medium,5,54200,2023-04-07
+Unemployed,55+,Master’s,Healthcare,Suburban,Medium,Unknown,24000,2023-05-07
+Unemployed,55+,Bachelor's,Healthcare,Rural,Unknown,Unknown,65100,2023-06-07
+Unknown,25-34,Master’s,unknown,Suburban,High,Unknown,85900,2023-07-07
+Unknown,Unknown,Bachelor's,Healthcare,Suburban,High,Unknown,67000,2023-08-07
+Unemployed,55+,Bachelor's,Finance,Mumbai,Medium,Unknown,114100,2023-09-07
+Employed,25-34,High School,Education,Mumbai,Medium,Unknown,30100,2023-10-07
+Unemployed,Unknown,Bachelor's,Technology,Bangalore,Low,17,139100,2023-11-07
+Unemployed,Unknown,High School,Retail,Rural,High,Unknown,140500,2023-12-07
+Unemployed,18-24,Bachelor's,Healthcare,Hyderabad,Low,Unknown,60500,
+Employed,18-24,High School,Technology,Delhi,Low,Unknown,58000,
+Employed,Unknown,Diploma,Finance,Mumbai,Medium,24,118200,
+Employed,18-24,High School,Technology,Mumbai,High,29,77200,
+Employed,45-54,Bachelor's,Finance,Urban,High,24,96400,
+Employed,25-34,Bachelor's,Technology,Suburban,Medium,14,33200,
+Unemployed,18-24,Master’s,Retail,Delhi,High,Unknown,33200,
+Employed,55+,Diploma,Education,Urban,Low,Unknown,116300,
+Employed,45-54,Bachelor's,Retail,Unknown,Medium,29,33200,
+Employed,18-24,Unknown,Education,Mumbai,Medium,Unknown,66400,
+Unknown,25-34,Diploma,Fintech,Mumbai,Medium,13,32900,
+Unemployed,35-44,Unknown,Healthcare,Urban,Medium,Unknown,125900,
+Employed,18-24,Unknown,unknown,Urban,Medium,22,82700,
+Unknown,55+,Bachelor's,Retail,Bangalore,High,6,33200,
+Unemployed,35-44,Unknown,unknown,Rural,Unknown,28,102300,
+Employed,25-34,PhD,Healthcare,Delhi,High,Unknown,121300,
+Unknown,18-24,PhD,Education,Unknown,Low,20,64500,
+Unemployed,25-34,Diploma,Retail,Urban,Low,Unknown,75200,
+Unemployed,45-54,Bachelor's,Healthcare,Rural,Medium,11,74200,
+Unemployed,55+,Master’s,Technology,Suburban,Medium,18,127100,2023-01-08
+Employed,25-34,High School,Education,Rural,High,14,68600,2023-02-08
+Employed,25-34,Diploma,Healthcare,Delhi,Unknown,Unknown,33200,2023-03-08
+Unknown,25-34,PhD,Technology,Mumbai,Unknown,Unknown,37700,2023-04-08
+Employed,35-44,Bachelor's,Healthcare,Delhi,Low,Unknown,76000,2023-05-08
+Employed,Unknown,PhD,Education,Delhi,High,24,33200,2023-06-08
+Employed,55+,PhD,Education,Hyderabad,High,21,31500,2023-07-08
+Unemployed,25-34,Bachelor's,Healthcare,Rural,Low,Unknown,126700,2023-08-08
+Unemployed,55+,PhD,Finance,Hyderabad,Unknown,0,33200,2023-09-08
+Unknown,35-44,Diploma,Technology,Mumbai,Low,13,6500,2023-10-08
+Unknown,45-54,Bachelor's,Retail,Hyderabad,High,Unknown,45500,2023-11-08
+Employed,18-24,Bachelor's,Retail,Hyderabad,Medium,20,22300,2023-12-08
+Unknown,18-24,Unknown,Technology,Urban,High,Unknown,6500,
+Unemployed,45-54,High School,Healthcare,Urban,High,Unknown,33200,
+Employed,25-34,Master’s,Technology,Hyderabad,High,27,33200,
+Unemployed,Unknown,Unknown,Retail,Urban,High,22,107400,
+Unemployed,Unknown,Bachelor's,Technology,Bangalore,Low,Unknown,83800,
+Unemployed,18-24,High School,Retail,Delhi,High,25,70400,
+Employed,25-34,PhD,Technology,Hyderabad,Low,2,105700,
+Unemployed,35-44,Diploma,unknown,Mumbai,Medium,10,11300,
+Employed,25-34,High School,Education,Unknown,Medium,Unknown,33200,
+Unemployed,45-54,Unknown,Healthcare,Urban,High,22,33200,
+Unemployed,18-24,Bachelor's,Finance,Delhi,High,7,17600,
+Unemployed,Unknown,Master’s,Retail,Urban,Medium,Unknown,8000,
+Employed,Unknown,Master’s,Finance,Delhi,High,29,33200,
+Employed,45-54,Unknown,Education,Mumbai,Low,28,7100,
+Unemployed,18-24,PhD,Technology,Unknown,Low,27,35500,
+Unemployed,45-54,PhD,Finance,Unknown,Low,0,96600,
+Employed,45-54,PhD,Technology,Unknown,High,Unknown,136200,
+Employed,Unknown,Master’s,Healthcare,Unknown,High,15,35100,
+Unemployed,Unknown,Bachelor's,Education,Mumbai,High,Unknown,39900,
+Employed,Unknown,Diploma,Retail,Bangalore,High,Unknown,77600,2023-01-09
+Unknown,18-24,Master’s,Retail,Delhi,Unknown,7,15000,2023-02-09
+Unknown,18-24,Bachelor's,Healthcare,Urban,Low,Unknown,92500,2023-03-09
+Unemployed,25-34,Master’s,Healthcare,Rural,High,Unknown,106800,2023-04-09
+Unemployed,18-24,Bachelor's,Technology,Urban,Medium,Unknown,79900,2023-05-09
+Unknown,25-34,Bachelor's,Fintech,Bangalore,Medium,Unknown,125300,2023-06-09
+Unemployed,25-34,Bachelor's,Fintech,Hyderabad,High,Unknown,33200,2023-07-09
+Unemployed,25-34,Master’s,Technology,Hyderabad,Medium,23,102200,2023-08-09
+Employed,45-54,Bachelor's,unknown,Urban,High,Unknown,82300,2023-09-09
+Employed,25-34,PhD,Healthcare,Mumbai,Low,23,102800,2023-10-09
+Employed,18-24,Unknown,Education,Suburban,High,17,84100,2023-11-09
+Employed,18-24,Master’s,Healthcare,Hyderabad,Low,6,68500,2023-12-09
+Unemployed,Unknown,High School,Fintech,Hyderabad,Medium,Unknown,33200,
+Unknown,18-24,Bachelor's,Technology,Suburban,Medium,1,126900,
+Employed,Unknown,High School,unknown,Urban,Medium,6,120300,
+Employed,18-24,Master’s,Technology,Urban,Low,Unknown,37000,
+Employed,25-34,PhD,Retail,Bangalore,High,Unknown,119400,
+Employed,18-24,PhD,Healthcare,Rural,Unknown,30,144200,
+Employed,Unknown,Bachelor's,Finance,Unknown,Medium,29,37500,
+Employed,35-44,Diploma,Healthcare,Unknown,Medium,Unknown,26100,
+Unemployed,35-44,Master’s,Finance,Unknown,Unknown,3,104000,
+Employed,45-54,High School,Education,Bangalore,High,6,66200,
+Unemployed,18-24,Diploma,Fintech,Unknown,Medium,8,106700,
+Unemployed,55+,Bachelor's,Fintech,Hyderabad,Medium,5,88000,
+Employed,25-34,Bachelor's,Technology,Hyderabad,High,26,103000,
+Employed,18-24,PhD,unknown,Suburban,High,13,114200,
+Employed,25-34,PhD,Retail,Suburban,Low,Unknown,8900,
+Unknown,45-54,PhD,Healthcare,Rural,Medium,Unknown,44300,
+Unknown,Unknown,PhD,Technology,Unknown,Low,Unknown,104400,
+Unemployed,45-54,PhD,Retail,Unknown,High,0,33200,
+Employed,Unknown,Diploma,Retail,Urban,Unknown,14,129800,2023-01-10
+Unknown,25-34,Bachelor's,Retail,Mumbai,High,Unknown,66100,2023-02-10
+Employed,18-24,Bachelor's,Finance,Bangalore,Low,Unknown,114500,2023-03-10
+Unemployed,18-24,High School,Retail,Mumbai,Low,Unknown,112900,2023-04-10
+Employed,18-24,PhD,unknown,Mumbai,Low,3,88300,2023-05-10
+Employed,18-24,Bachelor's,Retail,Rural,High,Unknown,34400,2023-06-10
+Employed,25-34,High School,Retail,Delhi,Low,26,144200,2023-07-10
+Employed,45-54,Bachelor's,Technology,Suburban,Low,Unknown,8700,2023-08-10
+Unemployed,18-24,Master’s,Technology,Urban,Medium,Unknown,13900,2023-09-10
+Unemployed,18-24,Unknown,Healthcare,Unknown,Low,4,33200,2023-10-10
+Unemployed,25-34,High School,Fintech,Mumbai,Unknown,Unknown,33200,2023-11-10
+Employed,18-24,Bachelor's,Fintech,Urban,High,17,78200,2023-12-10
+Unemployed,45-54,Diploma,Technology,Bangalore,High,Unknown,135100,2023-13-10
+Unemployed,18-24,Bachelor's,Education,Urban,Medium,Unknown,33200,2023-14-10
+Employed,35-44,PhD,unknown,Suburban,Low,Unknown,33200,2023-15-10
+Employed,55+,PhD,Fintech,Suburban,Medium,7,109300,2023-16-10
+Unemployed,25-34,Diploma,unknown,Delhi,High,Unknown,57800,2023-17-10
+Employed,25-34,Master’s,unknown,Mumbai,High,Unknown,33200,2023-18-10
+Unknown,18-24,Bachelor's,Healthcare,Unknown,High,Unknown,113000,2023-19-10
+Employed,25-34,Bachelor's,Retail,Delhi,High,Unknown,32100,2023-20-10
+Unemployed,18-24,High School,Fintech,Mumbai,Low,3,12600,2023-21-10
+Employed,25-34,Diploma,Retail,Hyderabad,High,Unknown,71800,2023-22-10
+Unemployed,25-34,PhD,Technology,Hyderabad,Low,22,33200,2023-23-10
+Employed,25-34,PhD,Technology,Urban,Medium,Unknown,101500,2023-24-10
+Employed,25-34,Master’s,Healthcare,Bangalore,Unknown,30,30500,2023-25-10
+Unknown,18-24,Bachelor's,Healthcare,Suburban,Low,12,78300,2023-26-10
+Unemployed,18-24,Master’s,unknown,Urban,High,24,98200,2023-27-10
+Employed,45-54,Bachelor's,Education,Suburban,Unknown,22,105000,2023-28-10
+Unemployed,25-34,PhD,Healthcare,Urban,High,21,141700,2023-29-10
+Employed,35-44,Bachelor's,Fintech,Suburban,Unknown,Unknown,146900,2023-30-10
+Employed,55+,Bachelor's,Retail,Urban,Medium,Unknown,22100,2023-31-10
+Unknown,45-54,High School,Healthcare,Hyderabad,Unknown,13,83800,2023-01-11
+Unemployed,18-24,PhD,unknown,Delhi,Medium,Unknown,133600,2023-02-11
+Employed,18-24,High School,Retail,Rural,Low,15,102800,2023-03-11
+Employed,45-54,PhD,Finance,Urban,High,25,89300,2023-04-11
+Unemployed,25-34,Master’s,Healthcare,Urban,Low,Unknown,61200,2023-05-11
+Unemployed,18-24,Bachelor's,Technology,Delhi,Unknown,2,108300,2023-06-11
+Unemployed,25-34,High School,unknown,Urban,High,Unknown,128500,2023-07-11
+Employed,18-24,PhD,unknown,Urban,High,Unknown,117600,2023-08-11
+Employed,25-34,High School,Retail,Rural,Medium,Unknown,21400,2023-09-11
+Unemployed,35-44,Unknown,Technology,Urban,Low,6,137300,2023-10-11
+Unemployed,55+,PhD,Fintech,Bangalore,Low,Unknown,62300,2023-11-11
+Employed,18-24,High School,Healthcare,Mumbai,Unknown,15,88500,2023-12-11
+Unemployed,Unknown,High School,Education,Unknown,Low,Unknown,33200,2023-13-11
+Unemployed,25-34,PhD,Fintech,Hyderabad,Low,23,141200,2023-14-11
+Unemployed,18-24,Master’s,Finance,Unknown,Low,Unknown,142300,2023-15-11
+Unknown,25-34,PhD,Education,Mumbai,Low,1,115000,2023-16-11
+Unemployed,55+,Master’s,Technology,Bangalore,High,21,33200,2023-17-11
+Employed,45-54,PhD,Fintech,Suburban,Medium,0,89600,2023-18-11
+Unemployed,35-44,Master’s,Education,Suburban,Medium,0,42700,2023-19-11
+Employed,25-34,Bachelor's,Education,Mumbai,Low,18,33200,2023-20-11
+Employed,55+,Master’s,Fintech,Rural,Medium,25,38000,2023-21-11
+Unemployed,18-24,High School,Healthcare,Delhi,Medium,20,39800,2023-22-11
+Unknown,45-54,Unknown,unknown,Hyderabad,Medium,1,31000,2023-23-11
+Employed,35-44,Bachelor's,Fintech,Unknown,High,12,61500,2023-24-11
+Employed,35-44,Master’s,unknown,Suburban,Medium,28,56800,2023-25-11
+Employed,35-44,PhD,Healthcare,Suburban,Unknown,7,15900,2023-26-11
+Unemployed,55+,Diploma,Retail,Urban,Medium,20,96600,2023-27-11
+Unemployed,55+,Diploma,Technology,Delhi,High,Unknown,33200,2023-28-11
+Unemployed,25-34,PhD,Healthcare,Bangalore,Unknown,Unknown,96100,2023-29-11
+Employed,35-44,Diploma,unknown,Rural,High,Unknown,33200,2023-30-11
+Employed,18-24,Bachelor's,Finance,Bangalore,Unknown,26,72400,2023-01-12
+Unemployed,55+,PhD,unknown,Delhi,Medium,Unknown,143000,2023-02-12
+Employed,35-44,Master’s,Healthcare,Hyderabad,High,Unknown,35700,2023-03-12
+Unknown,Unknown,Bachelor's,unknown,Suburban,High,9,33200,2023-04-12
+Unemployed,18-24,Unknown,Retail,Urban,Unknown,13,8700,2023-05-12
+Unknown,25-34,Diploma,Technology,Unknown,High,22,141800,2023-06-12
+Unemployed,35-44,Unknown,Healthcare,Urban,Low,Unknown,21500,2023-07-12
+Unemployed,35-44,High School,Finance,Unknown,Medium,4,126000,2023-08-12
+Employed,Unknown,PhD,Healthcare,Hyderabad,Medium,Unknown,33200,2023-09-12
+Employed,25-34,Master’s,unknown,Unknown,Medium,Unknown,92700,2023-10-12
+Unemployed,25-34,PhD,Retail,Urban,Medium,Unknown,33200,2023-11-12
+Unemployed,25-34,Master’s,Fintech,Delhi,High,Unknown,139900,2023-12-12
+Employed,55+,PhD,Retail,Urban,High,Unknown,26900,2023-13-12
+Unemployed,18-24,Master’s,Technology,Mumbai,Low,16,33200,2023-14-12
+Employed,25-34,Bachelor's,unknown,Urban,High,3,5400,2023-15-12
+Unemployed,55+,High School,Finance,Unknown,Low,Unknown,81100,2023-16-12
+Unemployed,55+,Bachelor's,Education,Mumbai,Medium,16,33200,2023-17-12
+Unemployed,45-54,Unknown,Retail,Bangalore,High,14,139700,2023-18-12
+Unemployed,45-54,Bachelor's,Fintech,Suburban,Low,Unknown,112900,2023-19-12
+Employed,55+,Master’s,unknown,Mumbai,Medium,30,109900,2023-20-12
+Employed,18-24,High School,Finance,Suburban,Medium,Unknown,112400,2023-21-12
+Employed,Unknown,Bachelor's,unknown,Suburban,Medium,26,108300,2023-22-12
+Employed,18-24,PhD,Education,Delhi,High,Unknown,71400,2023-23-12
+Unemployed,Unknown,Bachelor's,Education,Urban,Medium,Unknown,17600,2023-24-12
+Unemployed,18-24,Master’s,Education,Suburban,Low,10,51000,2023-25-12
+Unemployed,25-34,High School,Finance,Delhi,High,Unknown,109800,2023-26-12
+Unemployed,18-24,Master’s,Finance,Mumbai,High,Unknown,111300,2023-27-12
+Unknown,18-24,Master’s,Education,Unknown,Medium,22,92900,2023-28-12
+Unknown,55+,Unknown,Technology,Urban,High,24,28100,2023-29-12
+Employed,35-44,Bachelor's,Education,Suburban,Low,16,100400,2023-30-12
+Employed,45-54,PhD,Finance,Suburban,Unknown,30,33200,2023-31-12
+Employed,25-34,Bachelor's,Retail,Bangalore,Low,Unknown,138600,2024-01-01
+Unemployed,25-34,High School,Healthcare,Hyderabad,Medium,11,33200,2024-02-01
+Unknown,18-24,Bachelor's,Healthcare,Delhi,Medium,30,40100,2024-03-01
+Employed,55+,Bachelor's,Healthcare,Delhi,Medium,Unknown,104800,2024-04-01
+Unemployed,35-44,Master’s,unknown,Bangalore,Low,7,95700,2024-05-01
+Unknown,Unknown,High School,Finance,Hyderabad,Unknown,Unknown,36700,2024-06-01
+Employed,Unknown,High School,Retail,Bangalore,Unknown,28,33200,2024-07-01
+Unemployed,45-54,PhD,Education,Suburban,High,13,33200,2024-08-01
+Unemployed,45-54,Diploma,Healthcare,Hyderabad,High,Unknown,116000,2024-09-01
+Unemployed,45-54,Master’s,Education,Rural,Medium,2,29300,2024-10-01
+Unemployed,18-24,High School,unknown,Bangalore,High,Unknown,24700,2024-11-01
+Employed,55+,PhD,Retail,Mumbai,Low,Unknown,36200,2024-12-01
+Unemployed,25-34,Master’s,Education,Delhi,Medium,10,17800,
+Unemployed,18-24,Master’s,Healthcare,Urban,Medium,11,52900,
+Unemployed,35-44,Master’s,Retail,Unknown,Low,Unknown,141000,
+Unemployed,45-54,High School,Retail,Rural,High,Unknown,90300,
+Employed,25-34,Unknown,Finance,Urban,Unknown,30,139000,
+Employed,35-44,Bachelor's,Technology,Bangalore,High,Unknown,63200,
+Unemployed,Unknown,PhD,Technology,Urban,Medium,Unknown,94400,
+Unemployed,35-44,PhD,Technology,Delhi,Low,0,34800,
+Unknown,25-34,Master’s,Finance,Rural,High,Unknown,61200,
+Employed,35-44,Unknown,Healthcare,Rural,High,29,138400,
+Employed,18-24,High School,Technology,Urban,Medium,Unknown,97300,
+Unemployed,18-24,High School,Healthcare,Mumbai,Medium,29,64300,
+Employed,25-34,Bachelor's,unknown,Bangalore,Medium,Unknown,59100,
+Unemployed,Unknown,Master’s,Retail,Suburban,Unknown,19,92700,
+Unemployed,25-34,Master’s,Retail,Urban,Medium,24,64900,
+Unemployed,18-24,Master’s,Technology,Delhi,High,Unknown,45800,
+Unknown,25-34,Master’s,Retail,Urban,High,26,120000,
+Employed,35-44,Unknown,Technology,Mumbai,High,11,134400,
+Unemployed,25-34,Bachelor's,Education,Bangalore,Low,1,106500,
+Unemployed,55+,Master’s,unknown,Bangalore,Unknown,Unknown,140000,2024-01-02
+Employed,18-24,Master’s,Retail,Urban,Low,16,33200,2024-02-02
+Unknown,18-24,Master’s,Education,Delhi,Medium,Unknown,33200,2024-03-02
+Employed,45-54,Bachelor's,Education,Hyderabad,Low,Unknown,86300,2024-04-02
+Unemployed,35-44,PhD,Retail,Suburban,Medium,Unknown,39500,2024-05-02
+Unemployed,25-34,Unknown,Retail,Delhi,Medium,Unknown,71000,2024-06-02
+Unemployed,18-24,Unknown,Healthcare,Unknown,Low,29,33200,2024-07-02
+Employed,Unknown,Master’s,Healthcare,Delhi,Medium,Unknown,131000,2024-08-02
+Employed,18-24,PhD,Education,Mumbai,High,Unknown,42600,2024-09-02
+Unknown,18-24,Bachelor's,Technology,Mumbai,High,10,86700,2024-10-02
+Unemployed,18-24,Bachelor's,Education,Urban,High,Unknown,33200,2024-11-02
+Employed,25-34,Master’s,unknown,Rural,Medium,Unknown,21500,2024-12-02
+Unemployed,Unknown,Diploma,unknown,Rural,Low,15,100400,
+Employed,45-54,Master’s,Technology,Mumbai,High,Unknown,33200,
+Employed,45-54,PhD,Retail,Rural,Unknown,15,111300,
+Employed,45-54,High School,Fintech,Rural,High,Unknown,33200,
+Employed,Unknown,Master’s,Finance,Urban,High,23,100900,
+Employed,25-34,Unknown,Education,Delhi,Unknown,Unknown,36600,
+Unemployed,18-24,PhD,Retail,Suburban,High,5,46300,
+Employed,25-34,PhD,Technology,Suburban,Medium,19,33200,
+Unemployed,25-34,PhD,Technology,Urban,Medium,Unknown,33200,
+Employed,Unknown,Master’s,Technology,Rural,Low,Unknown,115600,
+Unemployed,45-54,PhD,Retail,Unknown,Low,Unknown,33200,
+Unemployed,Unknown,High School,Healthcare,Suburban,Medium,30,8600,
+Unknown,35-44,High School,Education,Bangalore,High,Unknown,117600,
+Employed,35-44,High School,Finance,Bangalore,Low,Unknown,12400,
+Employed,45-54,Bachelor's,Education,Hyderabad,High,5,119200,
+Unemployed,18-24,Master’s,Technology,Hyderabad,High,Unknown,109300,
+Employed,45-54,Master’s,Retail,Hyderabad,Medium,Unknown,84700,
+Employed,18-24,Bachelor's,Fintech,Urban,Low,Unknown,9100,2024-01-03
+Employed,Unknown,Bachelor's,Education,Urban,Unknown,9,88800,2024-02-03
+Unemployed,25-34,Bachelor's,Technology,Hyderabad,Medium,2,16000,2024-03-03
+Employed,25-34,High School,Retail,Unknown,Low,Unknown,58000,2024-04-03
+Unemployed,18-24,Master’s,Education,Suburban,Low,6,18300,2024-05-03
+Unemployed,55+,Bachelor's,Technology,Rural,Medium,Unknown,33200,2024-06-03
+Unemployed,18-24,Bachelor's,Healthcare,Suburban,High,Unknown,33200,2024-07-03
+Employed,18-24,High School,Fintech,Unknown,High,Unknown,33200,2024-08-03
+Unemployed,18-24,High School,Education,Hyderabad,Low,20,14700,2024-09-03
+Employed,18-24,High School,Retail,Bangalore,Low,21,33200,2024-10-03
+Employed,18-24,High School,Healthcare,Urban,Medium,Unknown,117800,2024-11-03
+Unemployed,55+,Master’s,Fintech,Bangalore,Medium,Unknown,50800,2024-12-03
+Unemployed,55+,Diploma,Healthcare,Delhi,High,4,73300,
+Employed,25-34,Master’s,Healthcare,Bangalore,Low,Unknown,17700,
+Unemployed,25-34,Master’s,Fintech,Urban,Medium,3,33200,
+Employed,45-54,Bachelor's,Retail,Hyderabad,High,23,120500,
+Employed,25-34,PhD,Fintech,Urban,Low,Unknown,15000,
+Employed,Unknown,Master’s,Technology,Mumbai,Low,14,21300,
+Unemployed,45-54,Bachelor's,unknown,Delhi,Low,Unknown,116000,
+Employed,18-24,Master’s,Technology,Suburban,Low,16,33200,
+Unemployed,18-24,Unknown,Finance,Rural,High,7,121300,
+Employed,Unknown,Diploma,Retail,Delhi,Medium,3,103300,
+Employed,25-34,PhD,Technology,Urban,High,29,90500,
+Unknown,45-54,High School,Healthcare,Mumbai,Unknown,4,131700,
+Unknown,25-34,High School,unknown,Bangalore,Medium,Unknown,20600,
+Employed,25-34,Bachelor's,Healthcare,Mumbai,High,Unknown,135400,
+Unemployed,25-34,PhD,Retail,Urban,High,Unknown,47700,
+Employed,Unknown,High School,Technology,Bangalore,Unknown,19,130300,
+Employed,25-34,High School,Healthcare,Urban,High,29,144500,
+Unemployed,18-24,High School,unknown,Mumbai,Medium,Unknown,106600,
+Unknown,Unknown,Bachelor's,Finance,Delhi,High,30,75200,
+Unemployed,35-44,Master’s,Technology,Suburban,High,Unknown,5100,2024-01-04
+Unknown,35-44,PhD,Healthcare,Hyderabad,Low,7,145100,2024-02-04
+Unknown,25-34,High School,Healthcare,Unknown,Medium,Unknown,57500,2024-03-04
+Employed,25-34,Master’s,Fintech,Urban,High,Unknown,74500,2024-04-04
+Unemployed,55+,Master’s,Fintech,Suburban,High,Unknown,105900,2024-05-04
+Unknown,Unknown,Diploma,Technology,Mumbai,High,17,28200,2024-06-04
+Unemployed,45-54,PhD,Technology,Delhi,Medium,Unknown,84500,2024-07-04
+Unemployed,55+,High School,Healthcare,Bangalore,High,Unknown,147100,2024-08-04
+Unknown,25-34,Bachelor's,Technology,Suburban,High,17,10500,2024-09-04
+Employed,45-54,Unknown,Finance,Urban,Low,16,86900,2024-10-04
+Unemployed,25-34,Bachelor's,Fintech,Hyderabad,Low,Unknown,105200,2024-11-04
+Employed,35-44,Unknown,Technology,Urban,Unknown,Unknown,33200,2024-12-04
+Employed,55+,PhD,Healthcare,Urban,Medium,Unknown,134500,
+Unknown,35-44,Unknown,Education,Rural,High,Unknown,147200,
+Unemployed,35-44,PhD,Retail,Unknown,Low,Unknown,81500,
+Employed,55+,Bachelor's,Technology,Mumbai,Medium,5,16200,
+Employed,35-44,High School,Technology,Bangalore,Medium,20,136000,
+Employed,Unknown,High School,Fintech,Delhi,Unknown,Unknown,33200,
+Unemployed,18-24,Unknown,Retail,Bangalore,High,Unknown,29800,
+Unemployed,25-34,Diploma,Retail,Bangalore,Unknown,5,33200,
+Employed,55+,PhD,unknown,Hyderabad,Medium,22,115100,
+Employed,45-54,Unknown,Healthcare,Suburban,Medium,0,75100,
+Employed,25-34,Bachelor's,Healthcare,Urban,High,17,98200,
+Unemployed,55+,PhD,unknown,Suburban,High,18,86000,
+Employed,45-54,Bachelor's,Education,Unknown,High,6,29900,
+Employed,25-34,Bachelor's,Healthcare,Unknown,Low,1,114500,
+Unemployed,45-54,PhD,Technology,Urban,Medium,25,33200,
+Unemployed,35-44,Bachelor's,Technology,Unknown,Medium,Unknown,67500,
+Unemployed,Unknown,Diploma,Finance,Unknown,Unknown,Unknown,149000,
+Employed,18-24,PhD,Healthcare,Urban,High,26,6800,
+Employed,25-34,Bachelor's,Fintech,Bangalore,High,26,64900,2024-01-05
+Unemployed,18-24,Bachelor's,Retail,Urban,High,7,146300,2024-02-05
+Unemployed,35-44,Bachelor's,Healthcare,Suburban,Medium,Unknown,55600,2024-03-05
+Employed,18-24,Diploma,Finance,Urban,Low,Unknown,33200,2024-04-05
+Employed,Unknown,Diploma,Retail,Unknown,High,Unknown,33200,2024-05-05
+Employed,18-24,Bachelor's,Finance,Mumbai,Low,29,51100,2024-06-05
+Unemployed,35-44,Master’s,Retail,Urban,High,16,11000,2024-07-05
+Employed,55+,PhD,Technology,Urban,Medium,19,62800,2024-08-05
+Unemployed,18-24,Bachelor's,Healthcare,Delhi,Medium,Unknown,33200,2024-09-05
+Employed,18-24,Bachelor's,Technology,Urban,High,26,46000,2024-10-05
+Employed,18-24,Master’s,Education,Urban,Medium,24,33200,2024-11-05
+Employed,55+,Master’s,Technology,Mumbai,Medium,0,105500,2024-12-05
+Unknown,Unknown,Bachelor's,Finance,Suburban,High,Unknown,62600,
+Employed,25-34,High School,Retail,Urban,High,Unknown,60200,
+Unemployed,55+,Bachelor's,unknown,Suburban,Low,5,87200,
+Employed,35-44,PhD,Retail,Mumbai,Unknown,Unknown,118000,
+Unemployed,Unknown,PhD,Healthcare,Urban,High,Unknown,33200,
+Employed,55+,Diploma,Education,Urban,Low,5,17400,
+Employed,25-34,PhD,Fintech,Urban,Unknown,27,33200,
+Unknown,25-34,PhD,Healthcare,Hyderabad,Medium,10,33200,
+Employed,25-34,PhD,Healthcare,Mumbai,Unknown,11,137600,
+Unknown,18-24,PhD,Healthcare,Rural,Low,14,33200,
+Employed,18-24,Unknown,Healthcare,Rural,High,Unknown,68800,
+Employed,Unknown,Bachelor's,Retail,Urban,High,Unknown,107000,
+Employed,45-54,High School,unknown,Urban,Low,7,63500,
+Unemployed,18-24,High School,unknown,Bangalore,Low,0,47400,
+Unknown,Unknown,Bachelor's,Fintech,Urban,Medium,3,99800,
+Employed,35-44,Master’s,Technology,Suburban,Medium,23,34900,
+Employed,35-44,PhD,Fintech,Bangalore,Medium,Unknown,82800,
+Employed,18-24,PhD,Technology,Mumbai,Unknown,27,107800,
+Unemployed,18-24,Bachelor's,Education,Urban,Low,Unknown,54500,
+Employed,18-24,PhD,Retail,Urban,Medium,Unknown,47100,2024-01-06
+Employed,Unknown,Diploma,Retail,Urban,Low,1,15000,2024-02-06
+Employed,18-24,Diploma,Retail,Delhi,Low,Unknown,94500,2024-03-06
+Unemployed,18-24,PhD,Technology,Unknown,High,Unknown,27200,2024-04-06
+Unemployed,18-24,Master’s,Retail,Suburban,Low,18,100400,2024-05-06
+Unemployed,Unknown,PhD,Technology,Suburban,High,5,34100,2024-06-06
+Unemployed,55+,Unknown,unknown,Mumbai,Medium,Unknown,33200,2024-07-06
+Unemployed,45-54,High School,Education,Unknown,Medium,Unknown,8000,2024-08-06
+Unknown,45-54,Unknown,Technology,Suburban,Low,Unknown,33200,2024-09-06
+Unemployed,35-44,PhD,Technology,Hyderabad,Low,Unknown,130500,2024-10-06
+Unemployed,35-44,Master’s,Fintech,Urban,Low,Unknown,122900,2024-11-06
+Unemployed,55+,Bachelor's,Healthcare,Mumbai,High,4,93400,2024-12-06
+Employed,35-44,Unknown,Retail,Urban,Medium,21,77700,
+Unemployed,45-54,Master’s,Technology,Hyderabad,Low,Unknown,52400,
+Unknown,Unknown,Bachelor's,Fintech,Rural,Low,27,33200,
+Unemployed,Unknown,High School,Technology,Hyderabad,Medium,13,37300,
+Unemployed,55+,Master’s,Education,Urban,High,19,96700,
+Employed,55+,Bachelor's,unknown,Urban,High,Unknown,8200,
+Unknown,18-24,PhD,Healthcare,Urban,Low,Unknown,33200,
+Unemployed,55+,Unknown,Fintech,Urban,High,11,72100,
+Employed,55+,Unknown,Technology,Unknown,Medium,Unknown,9800,
+Unemployed,25-34,Diploma,Education,Bangalore,High,Unknown,24600,
+Unemployed,55+,Diploma,Education,Bangalore,High,Unknown,133700,
+Employed,Unknown,High School,Retail,Bangalore,Medium,Unknown,21400,
+Employed,18-24,PhD,Retail,Delhi,Medium,0,138700,
+Unknown,45-54,Unknown,Fintech,Mumbai,Unknown,Unknown,125500,
+Employed,18-24,High School,Education,Rural,Medium,Unknown,87400,
+Unemployed,18-24,Master’s,Healthcare,Hyderabad,Low,13,133300,
+Employed,45-54,Bachelor's,Fintech,Mumbai,High,28,24100,
+Employed,25-34,Unknown,Finance,Suburban,Medium,25,64600,
+Unknown,25-34,Bachelor's,Technology,Urban,Low,23,108700,2024-01-07
+Employed,Unknown,Master’s,Fintech,Unknown,Medium,Unknown,38500,2024-02-07
+Unknown,55+,Bachelor's,Technology,Delhi,Medium,28,40400,2024-03-07
+Unemployed,Unknown,Bachelor's,Healthcare,Bangalore,Low,20,17200,2024-04-07
+Unemployed,18-24,High School,Finance,Bangalore,Medium,Unknown,132900,2024-05-07
+Unemployed,35-44,Diploma,Education,Rural,Unknown,13,102800,2024-06-07
+Employed,55+,Bachelor's,Finance,Hyderabad,Unknown,25,95600,2024-07-07
+Unemployed,25-34,Unknown,Finance,Rural,Medium,Unknown,69500,2024-08-07
+Unknown,45-54,Bachelor's,Healthcare,Urban,Medium,10,86000,2024-09-07
+Employed,18-24,Master’s,Healthcare,Urban,Unknown,3,140800,2024-10-07
+Unemployed,55+,High School,Technology,Hyderabad,High,Unknown,84700,2024-11-07
+Unemployed,25-34,PhD,Finance,Unknown,High,Unknown,56600,2024-12-07
+Unknown,35-44,Unknown,Retail,Delhi,High,22,66700,
+Unemployed,55+,Master’s,Finance,Bangalore,Medium,Unknown,96400,
+Employed,18-24,Unknown,Retail,Rural,High,0,101400,
+Employed,18-24,Unknown,Fintech,Bangalore,Unknown,21,37300,
+Unemployed,35-44,PhD,Retail,Bangalore,High,Unknown,124400,
+Unemployed,18-24,Bachelor's,Technology,Bangalore,High,Unknown,128000,
+Unemployed,45-54,Diploma,Retail,Rural,Low,16,33200,
+Employed,18-24,Master’s,Healthcare,Hyderabad,Medium,Unknown,34700,
+Unemployed,45-54,High School,Technology,Urban,Medium,Unknown,34700,
+Unemployed,45-54,Bachelor's,Technology,Delhi,Low,7,33200,
+Unemployed,45-54,High School,Healthcare,Hyderabad,Low,3,33200,
+Unemployed,18-24,Bachelor's,Healthcare,Urban,Low,Unknown,117800,
+Employed,25-34,PhD,Retail,Urban,Medium,Unknown,69500,
+Unknown,18-24,PhD,Retail,Mumbai,Medium,18,148400,
+Unemployed,25-34,PhD,Retail,Urban,Low,Unknown,33200,
+Employed,25-34,High School,Retail,Rural,Unknown,Unknown,61600,
+Unemployed,Unknown,PhD,Education,Unknown,Low,Unknown,83100,
+Employed,55+,Master’s,Education,Mumbai,Low,Unknown,33200,
+Unemployed,25-34,Bachelor's,Fintech,Rural,Medium,23,140600,
+Employed,18-24,Bachelor's,Education,Hyderabad,Low,28,33200,2024-01-08
+Unemployed,25-34,Master’s,unknown,Urban,Low,13,57100,2024-02-08
+Employed,55+,Master’s,Retail,Suburban,High,4,97800,2024-03-08
+Employed,18-24,PhD,Retail,Hyderabad,Medium,0,86600,2024-04-08
+Employed,45-54,Bachelor's,Healthcare,Hyderabad,Low,Unknown,33200,2024-05-08
+Unemployed,25-34,PhD,Healthcare,Urban,Unknown,Unknown,33200,2024-06-08
+Employed,Unknown,Master’s,Healthcare,Urban,Low,27,103400,2024-07-08
+Unemployed,55+,Unknown,Retail,Hyderabad,High,10,88800,2024-08-08
+Unknown,45-54,Unknown,Education,Urban,Low,29,133800,2024-09-08
+Employed,25-34,Unknown,Healthcare,Urban,Unknown,Unknown,36200,2024-10-08
+Unemployed,Unknown,High School,Fintech,Mumbai,Low,Unknown,33200,2024-11-08
+Employed,Unknown,Master’s,Finance,Urban,Medium,Unknown,103800,2024-12-08
+Unemployed,18-24,High School,Healthcare,Rural,Low,1,109300,
+Unemployed,25-34,Master’s,Technology,Hyderabad,High,28,73000,
+Unemployed,18-24,Master’s,Healthcare,Suburban,High,Unknown,102400,
+Unemployed,45-54,Master’s,Healthcare,Delhi,Low,Unknown,140300,
+Employed,35-44,High School,Healthcare,Urban,High,Unknown,32800,
+Employed,45-54,Unknown,Healthcare,Delhi,Medium,Unknown,132400,
+Employed,55+,PhD,Retail,Hyderabad,Unknown,Unknown,15200,
+Unemployed,45-54,Bachelor's,unknown,Urban,High,Unknown,60600,
+Unemployed,45-54,Diploma,Retail,Urban,High,19,70900,
+Employed,25-34,Master’s,Healthcare,Hyderabad,Low,11,132100,
+Employed,45-54,High School,Finance,Bangalore,Medium,Unknown,146900,
+Unemployed,35-44,Master’s,Healthcare,Delhi,Low,18,74600,
+Employed,Unknown,Diploma,Fintech,Delhi,High,Unknown,145600,
+Employed,Unknown,Diploma,Technology,Delhi,Unknown,Unknown,33200,
+Unemployed,35-44,PhD,Technology,Hyderabad,Low,29,30700,
+Employed,45-54,PhD,Technology,Suburban,High,15,33200,
+Employed,55+,PhD,Technology,Suburban,High,Unknown,11200,
+Unemployed,Unknown,Master’s,Retail,Bangalore,Medium,Unknown,18100,
+Employed,Unknown,High School,Education,Urban,High,Unknown,43100,
+Unemployed,45-54,PhD,Technology,Urban,Medium,Unknown,62600,2024-01-09
+Unemployed,25-34,Master’s,unknown,Rural,Unknown,19,137500,2024-02-09
+Employed,18-24,Bachelor's,Healthcare,Suburban,Medium,7,87900,2024-03-09
+Employed,Unknown,Bachelor's,unknown,Rural,Unknown,28,33200,2024-04-09
+Employed,25-34,High School,Fintech,Rural,Medium,Unknown,33200,2024-05-09
+Employed,25-34,PhD,Retail,Suburban,Low,Unknown,118800,2024-06-09
+Unemployed,25-34,High School,Education,Bangalore,High,21,144100,2024-07-09
+Employed,18-24,Bachelor's,Healthcare,Mumbai,Low,9,33200,2024-08-09
+Unemployed,Unknown,Unknown,Technology,Suburban,Medium,22,49500,2024-09-09
+Unemployed,25-34,Diploma,Healthcare,Unknown,Low,29,117500,2024-10-09
+Unemployed,18-24,High School,Technology,Delhi,High,Unknown,109800,2024-11-09
+Employed,18-24,Unknown,Finance,Urban,High,Unknown,65500,2024-12-09
+Unknown,45-54,PhD,Technology,Urban,Low,14,30000,
+Employed,18-24,Master’s,Education,Rural,Medium,Unknown,62100,
+Employed,25-34,Master’s,unknown,Urban,Low,14,104400,
+Unemployed,Unknown,PhD,Education,Delhi,Low,Unknown,116100,
+Employed,Unknown,High School,Technology,Hyderabad,High,Unknown,58700,
+Unemployed,18-24,Master’s,Technology,Unknown,Medium,Unknown,19000,
+Employed,18-24,Diploma,Retail,Urban,Low,14,143200,
+Unknown,25-34,Unknown,Retail,Bangalore,Low,Unknown,10100,
+Unknown,35-44,Bachelor's,Healthcare,Hyderabad,Medium,22,147100,
+Employed,45-54,Unknown,Healthcare,Delhi,High,Unknown,33200,
+Employed,25-34,Bachelor's,Technology,Hyderabad,High,Unknown,87800,
+Employed,55+,High School,Technology,Rural,Low,Unknown,75000,
+Unemployed,25-34,Bachelor's,Fintech,Bangalore,Medium,14,51800,
+Employed,Unknown,Bachelor's,Education,Unknown,Medium,Unknown,33200,
+Employed,18-24,High School,Technology,Hyderabad,High,Unknown,96300,
+Unemployed,35-44,PhD,Retail,Delhi,High,Unknown,64500,
+Unemployed,55+,High School,Technology,Delhi,High,9,33200,
+Unknown,18-24,Master’s,Retail,Urban,Medium,17,33200,
+Employed,18-24,Unknown,Healthcare,Suburban,High,15,30100,2024-01-10
+Unemployed,45-54,PhD,Technology,Suburban,Low,Unknown,101500,2024-02-10
+Unemployed,25-34,High School,unknown,Hyderabad,Medium,18,86300,2024-03-10
+Employed,55+,High School,Finance,Unknown,High,Unknown,33200,2024-04-10
+Unemployed,Unknown,Master’s,Finance,Hyderabad,High,Unknown,90400,2024-05-10
+Unemployed,35-44,Bachelor's,Technology,Mumbai,Low,16,118500,2024-06-10
+Employed,18-24,Unknown,Education,Delhi,Unknown,2,23900,2024-07-10
+Unemployed,25-34,Diploma,unknown,Mumbai,Low,10,33200,2024-08-10
+Employed,18-24,Bachelor's,Healthcare,Bangalore,Medium,23,113800,2024-09-10
+Unemployed,55+,Master’s,Technology,Delhi,Low,8,132700,2024-10-10
+Employed,25-34,Master’s,Technology,Bangalore,High,2,26800,2024-11-10
+Unemployed,18-24,Master’s,unknown,Rural,Medium,10,52200,2024-12-10
+Employed,35-44,High School,Healthcare,Mumbai,Unknown,Unknown,55000,2024-13-10
+Unemployed,18-24,Master’s,Technology,Delhi,Unknown,30,99500,2024-14-10
+Employed,45-54,Master’s,Technology,Unknown,High,Unknown,104400,2024-15-10
+Unknown,18-24,PhD,Healthcare,Urban,High,7,99600,2024-16-10
+Employed,25-34,Bachelor's,Healthcare,Urban,Medium,26,112300,2024-17-10
+Employed,18-24,Diploma,Retail,Rural,Medium,Unknown,33200,2024-18-10
+Unknown,55+,Diploma,Fintech,Unknown,High,9,9500,2024-19-10
+Employed,18-24,Master’s,Retail,Rural,Unknown,Unknown,16400,2024-20-10
+Employed,35-44,Unknown,unknown,Hyderabad,Medium,0,147800,2024-21-10
+Unemployed,55+,Bachelor's,Healthcare,Hyderabad,Unknown,2,33200,2024-22-10
+Unemployed,25-34,PhD,Finance,Urban,High,26,43900,2024-23-10
+Unemployed,25-34,Diploma,Technology,Rural,Medium,Unknown,33200,2024-24-10
+Unemployed,18-24,High School,Fintech,Bangalore,High,Unknown,123100,2024-25-10
+Employed,35-44,Unknown,Retail,Mumbai,Low,Unknown,59500,2024-26-10
+Employed,18-24,Diploma,Retail,Hyderabad,High,Unknown,33200,2024-27-10
+Unemployed,25-34,Bachelor's,Technology,Unknown,High,Unknown,115400,2024-28-10
+Unemployed,45-54,Diploma,unknown,Urban,Medium,Unknown,13100,2024-29-10
+Employed,35-44,PhD,Fintech,Unknown,Low,5,33200,2024-30-10
+Employed,55+,PhD,Healthcare,Unknown,Unknown,16,33200,2024-31-10
+Employed,Unknown,Bachelor's,Retail,Urban,High,28,33200,2024-01-11
+Employed,25-34,Unknown,Technology,Bangalore,High,Unknown,130800,2024-02-11
+Employed,55+,PhD,Technology,Suburban,Unknown,Unknown,133400,2024-03-11
+Unknown,25-34,PhD,Finance,Rural,Unknown,24,100300,2024-04-11
+Employed,55+,Unknown,Healthcare,Delhi,Low,Unknown,68800,2024-05-11
+Employed,55+,PhD,unknown,Urban,High,5,22700,2024-06-11
+Employed,18-24,PhD,Technology,Unknown,Unknown,2,58400,2024-07-11
+Employed,25-34,PhD,Education,Mumbai,Low,21,40200,2024-08-11
+Employed,18-24,High School,Finance,Bangalore,High,Unknown,33200,2024-09-11
+Employed,25-34,Bachelor's,Retail,Bangalore,Low,22,33200,2024-10-11
+Unknown,55+,PhD,Retail,Bangalore,Low,Unknown,99100,2024-11-11
+Employed,25-34,PhD,Education,Unknown,Medium,Unknown,37200,2024-12-11
+Employed,35-44,Master’s,Healthcare,Hyderabad,High,Unknown,142900,2024-13-11
+Unemployed,55+,High School,Technology,Unknown,High,Unknown,20300,2024-14-11
+Unknown,Unknown,High School,Education,Unknown,Unknown,23,56600,2024-15-11
+Unknown,45-54,PhD,unknown,Urban,Unknown,Unknown,117800,2024-16-11
+Employed,25-34,Bachelor's,Retail,Hyderabad,High,Unknown,64800,2024-17-11
+Unknown,55+,Bachelor's,Healthcare,Unknown,Medium,0,28000,2024-18-11
+Unemployed,45-54,Master’s,Education,Urban,Medium,Unknown,33200,2024-19-11
+Employed,55+,Unknown,Education,Suburban,High,Unknown,94900,2024-20-11
+Unemployed,45-54,High School,Healthcare,Hyderabad,High,Unknown,16400,2024-21-11
+Unemployed,45-54,Master’s,Technology,Urban,High,Unknown,67300,2024-22-11
+Employed,35-44,Diploma,Technology,Suburban,Low,Unknown,6300,2024-23-11
+Unknown,25-34,Master’s,Healthcare,Hyderabad,High,Unknown,33200,2024-24-11
+Employed,35-44,PhD,Technology,Suburban,High,7,63200,2024-25-11
+Unemployed,55+,Master’s,Technology,Unknown,Medium,29,53800,2024-26-11
+Unemployed,25-34,High School,Technology,Delhi,Medium,Unknown,106700,2024-27-11
+Unemployed,55+,High School,Retail,Bangalore,High,Unknown,33200,2024-28-11
+Unknown,25-34,Bachelor's,Finance,Mumbai,Low,Unknown,15500,2024-29-11
+Employed,Unknown,Master’s,Healthcare,Urban,Medium,11,107100,2024-30-11
+Employed,18-24,PhD,Healthcare,Delhi,Low,18,53800,2024-01-12
+Unemployed,35-44,Master’s,Technology,Urban,High,21,35200,2024-02-12
+Employed,35-44,Diploma,Healthcare,Urban,Low,Unknown,33200,2024-03-12
+Unknown,25-34,Bachelor's,Technology,Hyderabad,Unknown,Unknown,46900,2024-04-12
+Unemployed,45-54,High School,Technology,Rural,Low,23,149200,2024-05-12
+Employed,18-24,PhD,Retail,Urban,Low,Unknown,37700,2024-06-12
+Employed,45-54,Master’s,unknown,Rural,High,Unknown,121300,2024-07-12
+Employed,25-34,Bachelor's,unknown,Urban,High,6,33200,2024-08-12
+Employed,18-24,PhD,Retail,Unknown,Medium,Unknown,95900,2024-09-12
+Employed,25-34,PhD,Healthcare,Rural,High,Unknown,100300,2024-10-12
+Employed,18-24,Unknown,Healthcare,Mumbai,Unknown,Unknown,50400,2024-11-12
+Employed,35-44,Diploma,Technology,Bangalore,Medium,Unknown,49900,2024-12-12
+Unknown,18-24,Unknown,Technology,Urban,Unknown,Unknown,77300,2024-13-12
+Employed,25-34,High School,Retail,Urban,Low,Unknown,8300,2024-14-12
+Employed,45-54,High School,Retail,Delhi,Medium,28,112100,2024-15-12
+Unemployed,25-34,Master’s,Healthcare,Mumbai,High,Unknown,86900,2024-16-12
+Unemployed,45-54,High School,Healthcare,Unknown,Medium,26,103800,2024-17-12
+Employed,35-44,PhD,Healthcare,Suburban,Medium,26,33200,2024-18-12
+Unemployed,55+,Master’s,Healthcare,Unknown,Medium,9,33200,2024-19-12
+Unemployed,25-34,Bachelor's,Healthcare,Urban,Unknown,15,38400,2024-20-12
+Unknown,18-24,High School,Education,Unknown,Low,10,82300,2024-21-12
+Unemployed,25-34,High School,unknown,Urban,High,Unknown,33200,2024-22-12
+Employed,45-54,Master’s,unknown,Rural,Low,5,117600,2024-23-12
+Unemployed,Unknown,Master’s,unknown,Suburban,High,Unknown,33200,2024-24-12
+Unemployed,35-44,Bachelor's,Technology,Bangalore,Low,Unknown,116700,2024-25-12
+Employed,25-34,High School,unknown,Mumbai,Medium,Unknown,33200,2024-26-12
+Unemployed,Unknown,PhD,Healthcare,Urban,Medium,Unknown,94700,2024-27-12
+Employed,Unknown,Diploma,Finance,Unknown,Medium,13,96200,2024-28-12
+Unemployed,18-24,Bachelor's,unknown,Urban,Low,16,38800,2024-29-12
+Employed,25-34,High School,Finance,Mumbai,High,Unknown,33200,2024-30-12
+Employed,Unknown,Master’s,Healthcare,Hyderabad,High,30,18100,2024-31-12
+Unemployed,25-34,PhD,unknown,Mumbai,High,8,128300,2025-01-01
+Unemployed,45-54,PhD,unknown,Mumbai,Medium,27,43200,2025-02-01
+Unemployed,55+,Bachelor's,unknown,Mumbai,Medium,1,43700,2025-03-01
+Unemployed,Unknown,High School,Healthcare,Unknown,Low,17,115300,2025-04-01
+Unemployed,25-34,Diploma,Retail,Bangalore,Low,1,55600,2025-05-01
+Unemployed,18-24,PhD,Technology,Urban,Medium,Unknown,105200,2025-06-01
+Employed,55+,High School,Technology,Bangalore,High,Unknown,33200,2025-07-01
+Unemployed,55+,High School,Education,Unknown,Unknown,19,145700,2025-08-01
+Employed,45-54,Bachelor's,Healthcare,Suburban,Low,Unknown,24000,2025-09-01
+Unemployed,55+,Master’s,unknown,Bangalore,Medium,17,33200,2025-10-01
+Employed,18-24,Bachelor's,Retail,Rural,Unknown,24,145300,2025-11-01
+Employed,55+,High School,Healthcare,Suburban,Medium,Unknown,30300,2025-12-01
+Employed,18-24,Master’s,Healthcare,Delhi,High,2,32900,
+Employed,35-44,High School,Finance,Hyderabad,High,6,52900,
+Employed,Unknown,Bachelor's,Fintech,Unknown,Medium,Unknown,89900,
+Employed,35-44,PhD,Technology,Suburban,Medium,Unknown,53900,
+Unemployed,55+,Bachelor's,Retail,Mumbai,Unknown,Unknown,126500,
+Unknown,25-34,Bachelor's,Finance,Rural,High,Unknown,33200,
+Unemployed,Unknown,Bachelor's,Retail,Suburban,Low,Unknown,67100,
+Unemployed,55+,Unknown,Retail,Rural,High,0,143300,
+Unknown,35-44,Bachelor's,Retail,Urban,Medium,Unknown,28000,
+Unknown,55+,High School,unknown,Urban,Low,Unknown,88000,
+Unemployed,18-24,PhD,Retail,Unknown,Medium,Unknown,113700,
+Employed,35-44,High School,Technology,Mumbai,High,Unknown,88500,
+Employed,55+,High School,Retail,Suburban,High,8,65500,
+Employed,55+,Unknown,Technology,Urban,High,22,41300,
+Unemployed,35-44,Bachelor's,Technology,Suburban,High,Unknown,148100,
+Employed,18-24,High School,Technology,Urban,High,27,59900,
+Employed,45-54,Bachelor's,Technology,Delhi,High,Unknown,84800,
+Unknown,25-34,Bachelor's,Retail,Urban,Unknown,Unknown,47700,
+Unemployed,55+,Master’s,Technology,Rural,Medium,11,68800,
+Employed,18-24,High School,Retail,Rural,Medium,10,42000,2025-01-02
+Unemployed,18-24,Bachelor's,Retail,Delhi,High,Unknown,22600,2025-02-02
+Unemployed,45-54,PhD,Retail,Urban,High,Unknown,30500,2025-03-02
+Employed,25-34,PhD,unknown,Mumbai,High,Unknown,33200,2025-04-02
+Employed,18-24,Master’s,Finance,Urban,Unknown,30,29800,2025-05-02
+Unemployed,55+,High School,Retail,Mumbai,Medium,Unknown,7300,2025-06-02
+Employed,Unknown,Unknown,unknown,Delhi,Low,1,131600,2025-07-02
+Employed,18-24,PhD,Technology,Hyderabad,Low,29,44500,2025-08-02
+Employed,18-24,Unknown,Technology,Mumbai,High,14,43200,2025-09-02
+Employed,25-34,Unknown,Fintech,Suburban,High,Unknown,33200,2025-10-02
+Unemployed,35-44,Master’s,Retail,Delhi,High,Unknown,33200,2025-11-02
+Unemployed,Unknown,Bachelor's,Education,Hyderabad,Unknown,Unknown,33200,2025-12-02
+Employed,25-34,Bachelor's,Finance,Urban,Low,30,104100,
+Unemployed,18-24,Bachelor's,Fintech,Delhi,High,Unknown,18100,
+Unemployed,55+,Bachelor's,unknown,Urban,Medium,Unknown,28200,
+Employed,55+,Bachelor's,Healthcare,Hyderabad,Low,18,143100,
+Unemployed,25-34,Bachelor's,Healthcare,Delhi,Low,25,33200,
+Unemployed,25-34,Bachelor's,Finance,Urban,Medium,Unknown,30000,
+Employed,45-54,Bachelor's,Finance,Unknown,Low,Unknown,114700,
+Employed,Unknown,PhD,Technology,Mumbai,Unknown,20,78000,
+Unemployed,55+,High School,unknown,Hyderabad,Medium,12,97400,
+Unemployed,25-34,PhD,Healthcare,Unknown,Low,Unknown,90000,
+Employed,Unknown,Bachelor's,Fintech,Delhi,High,18,71400,
+Unknown,45-54,High School,Retail,Hyderabad,Medium,Unknown,59600,
+Unemployed,25-34,Bachelor's,Healthcare,Mumbai,Unknown,Unknown,137900,
+Employed,25-34,Diploma,Finance,Hyderabad,High,Unknown,85600,
+Employed,Unknown,Unknown,Technology,Bangalore,Low,11,38800,
+Employed,18-24,Bachelor's,Healthcare,Delhi,Low,Unknown,84400,
+Employed,18-24,High School,Finance,Unknown,Low,Unknown,33200,2025-01-03
+Employed,35-44,Bachelor's,Fintech,Unknown,Medium,Unknown,38600,2025-02-03
+Unemployed,18-24,PhD,Fintech,Mumbai,Medium,11,105500,2025-03-03
+Unknown,25-34,Diploma,Healthcare,Mumbai,Medium,Unknown,61600,2025-04-03
+Unemployed,55+,Diploma,Technology,Bangalore,Medium,23,77300,2025-05-03
+Employed,25-34,PhD,Fintech,Urban,Medium,Unknown,144200,2025-06-03
+Unknown,55+,Diploma,Retail,Rural,High,Unknown,39800,2025-07-03
+Employed,18-24,Master’s,Healthcare,Bangalore,Medium,Unknown,33200,2025-08-03
+Employed,25-34,High School,Healthcare,Delhi,Medium,Unknown,110300,2025-09-03
+Unknown,25-34,Unknown,Finance,Mumbai,High,28,33200,2025-10-03
+Unknown,35-44,Bachelor's,Healthcare,Delhi,Unknown,20,138500,2025-11-03
+Unemployed,18-24,Master’s,Healthcare,Urban,Low,Unknown,109000,2025-12-03
+Employed,45-54,Diploma,Retail,Hyderabad,Low,Unknown,9900,
+Employed,45-54,PhD,Retail,Mumbai,Low,Unknown,33200,
+Unemployed,55+,Bachelor's,Healthcare,Suburban,Unknown,0,75800,
+Employed,35-44,Bachelor's,Technology,Hyderabad,High,14,47300,
+Unknown,55+,High School,Technology,Urban,High,29,33200,
+Employed,45-54,Unknown,Fintech,Delhi,Unknown,16,142700,
+Unknown,18-24,Bachelor's,Healthcare,Suburban,Unknown,Unknown,35800,
+Employed,35-44,High School,Retail,Delhi,Low,Unknown,32300,
+Unknown,25-34,High School,Technology,Suburban,High,Unknown,51000,
+Employed,18-24,Bachelor's,Technology,Urban,High,28,128000,
+Employed,25-34,High School,Finance,Urban,High,20,144700,
+Employed,18-24,Unknown,Technology,Delhi,Medium,Unknown,89800,
+Unemployed,Unknown,Master’s,Fintech,Urban,High,29,106200,
+Employed,45-54,Master’s,Healthcare,Hyderabad,Medium,Unknown,106200,
+Unemployed,Unknown,Unknown,Technology,Mumbai,Unknown,Unknown,66900,
+Unknown,18-24,High School,Education,Unknown,Unknown,22,81800,
+Employed,Unknown,PhD,Healthcare,Hyderabad,Medium,Unknown,7500,
+Unemployed,25-34,Master’s,Retail,Delhi,High,11,86800,
+Unemployed,18-24,High School,Healthcare,Urban,Low,Unknown,80800,
+Unknown,25-34,Master’s,Technology,Mumbai,High,Unknown,144800,2025-01-04
+Unemployed,18-24,Bachelor's,Education,Bangalore,Unknown,Unknown,45200,2025-02-04
+Employed,45-54,High School,Education,Delhi,Unknown,5,97600,2025-03-04
+Employed,55+,Master’s,unknown,Urban,Low,Unknown,29600,2025-04-04
+Unknown,55+,Unknown,unknown,Hyderabad,Low,20,88600,2025-05-04
+Employed,45-54,High School,Fintech,Urban,High,24,37100,2025-06-04
+Unknown,25-34,Bachelor's,Healthcare,Rural,Low,Unknown,41800,2025-07-04
+Unemployed,18-24,High School,Fintech,Urban,Unknown,Unknown,33200,2025-08-04
+Unemployed,45-54,Bachelor's,Healthcare,Bangalore,Low,Unknown,33200,2025-09-04
+Employed,Unknown,Master’s,Education,Delhi,Unknown,Unknown,38100,2025-10-04
+Employed,25-34,Bachelor's,Fintech,Rural,High,Unknown,33200,2025-11-04
+Unemployed,25-34,High School,Technology,Delhi,High,29,92200,2025-12-04
+Employed,55+,Master’s,Education,Delhi,Medium,14,117100,
+Unknown,25-34,High School,Healthcare,Suburban,High,Unknown,33200,
+Unknown,18-24,PhD,Education,Urban,High,Unknown,78600,
+Employed,18-24,PhD,unknown,Delhi,Medium,5,111000,
+Unemployed,18-24,Master’s,Technology,Unknown,Medium,Unknown,82600,
+Employed,35-44,High School,Retail,Suburban,Medium,Unknown,139600,
+Employed,25-34,Unknown,Education,Mumbai,Low,16,87900,
+Employed,45-54,Unknown,Education,Urban,Unknown,Unknown,24200,
+Unknown,55+,PhD,Education,Urban,Medium,Unknown,56100,
+Unknown,18-24,High School,Healthcare,Hyderabad,Medium,18,33200,
+Unemployed,18-24,Bachelor's,Finance,Hyderabad,Low,24,114400,
+Unemployed,55+,PhD,Technology,Delhi,High,25,139500,
+Employed,Unknown,Master’s,Fintech,Urban,Medium,21,102200,
+Unemployed,18-24,Unknown,Technology,Mumbai,Medium,Unknown,64500,
+Unemployed,55+,Unknown,Technology,Urban,Low,Unknown,33300,
+Employed,55+,High School,Healthcare,Unknown,Unknown,7,77700,
+Unemployed,18-24,PhD,Finance,Bangalore,Unknown,10,22200,
+Unknown,25-34,Master’s,Retail,Unknown,Low,5,33200,
+Unemployed,25-34,Master’s,Fintech,Suburban,Low,Unknown,33200,2025-01-05
+Employed,18-24,Unknown,Retail,Rural,Medium,Unknown,33200,2025-02-05
+Unknown,18-24,Diploma,Retail,Unknown,Low,Unknown,103800,2025-03-05
+Unknown,55+,Bachelor's,Finance,Unknown,High,Unknown,34800,2025-04-05
+Unemployed,35-44,Master’s,Education,Unknown,High,Unknown,33200,2025-05-05
+Employed,18-24,Unknown,Fintech,Hyderabad,Medium,14,11900,2025-06-05
+Unemployed,18-24,Master’s,Finance,Rural,Medium,Unknown,94800,2025-07-05
+Unemployed,25-34,High School,Retail,Suburban,Medium,20,113500,2025-08-05
+Employed,25-34,Bachelor's,Healthcare,Suburban,Low,Unknown,43900,2025-09-05
+Unemployed,18-24,Bachelor's,Technology,Mumbai,Low,6,25900,2025-10-05
+Unemployed,25-34,Bachelor's,Healthcare,Unknown,Unknown,28,110600,2025-11-05
+Unemployed,18-24,Master’s,Finance,Suburban,Low,19,121400,2025-12-05
+Unemployed,25-34,PhD,Education,Mumbai,Low,20,145700,
+Employed,Unknown,PhD,Education,Urban,Medium,Unknown,33200,
+Unemployed,18-24,Master’s,Fintech,Urban,Low,1,105700,
+Unemployed,25-34,PhD,Education,Unknown,Low,8,42200,
+Unknown,Unknown,PhD,Education,Delhi,Medium,Unknown,88300,
+Unemployed,25-34,Diploma,Healthcare,Bangalore,Medium,7,68600,
+Employed,25-34,High School,Retail,Suburban,Unknown,15,53800,
+Employed,55+,Diploma,Healthcare,Delhi,High,Unknown,102000,
+Unemployed,55+,Unknown,Healthcare,Hyderabad,Low,29,37800,
+Unknown,35-44,High School,Finance,Rural,Low,Unknown,33200,
+Employed,18-24,Bachelor's,Fintech,Suburban,High,22,120200,
+Employed,45-54,Bachelor's,Fintech,Delhi,Low,Unknown,28600,
+Unemployed,35-44,High School,Fintech,Mumbai,Low,Unknown,105900,
+Unemployed,Unknown,PhD,Fintech,Delhi,Low,5,91400,
+Employed,55+,Bachelor's,Education,Unknown,Unknown,3,80800,
+Unknown,55+,Bachelor's,Healthcare,Delhi,Low,Unknown,43200,
+Employed,35-44,Bachelor's,Retail,Suburban,Low,4,77600,
+Employed,25-34,High School,Fintech,Bangalore,High,Unknown,94100,
+Employed,25-34,High School,Healthcare,Delhi,High,Unknown,6400,
+Unemployed,25-34,Bachelor's,unknown,Urban,High,Unknown,46400,2025-01-06
+Unemployed,25-34,PhD,Technology,Rural,Low,4,145700,2025-02-06
+Unemployed,45-54,Unknown,Healthcare,Delhi,Low,Unknown,56000,2025-03-06
+Employed,45-54,High School,unknown,Mumbai,Medium,Unknown,73500,2025-04-06
+Unemployed,35-44,Master’s,Finance,Urban,Low,26,108400,2025-05-06
+Employed,25-34,Unknown,unknown,Urban,Medium,7,79300,2025-06-06
+Unemployed,45-54,Bachelor's,unknown,Unknown,Medium,Unknown,35900,2025-07-06
+Employed,18-24,Unknown,Healthcare,Rural,Unknown,Unknown,33200,2025-08-06
+Employed,Unknown,Bachelor's,Healthcare,Urban,Medium,Unknown,69700,2025-09-06
+Unemployed,18-24,High School,Finance,Suburban,Low,10,24700,2025-10-06
+Unemployed,Unknown,PhD,Technology,Rural,High,Unknown,9700,2025-11-06
+Employed,35-44,Unknown,Healthcare,Bangalore,Unknown,Unknown,33200,2025-12-06
+Employed,35-44,High School,Retail,Hyderabad,High,Unknown,33200,
+Unemployed,55+,Master’s,Retail,Bangalore,High,Unknown,117800,
+Unknown,45-54,Master’s,Technology,Urban,Medium,Unknown,145700,
+Unemployed,55+,Master’s,Healthcare,Suburban,Low,20,25000,
+Unemployed,45-54,Master’s,Fintech,Bangalore,Medium,8,43400,
+Unemployed,25-34,Diploma,Retail,Mumbai,Low,Unknown,121600,
+Employed,25-34,Diploma,Healthcare,Unknown,Medium,Unknown,82400,
+Employed,25-34,Unknown,Fintech,Urban,Low,Unknown,16200,
+Employed,45-54,Unknown,Finance,Suburban,Unknown,26,33200,
+Unemployed,18-24,Unknown,Finance,Suburban,Unknown,19,71300,
+Unemployed,55+,Master’s,Retail,Suburban,Low,Unknown,87600,
+Employed,Unknown,PhD,Fintech,Bangalore,Low,Unknown,122900,
+Unemployed,45-54,PhD,Healthcare,Unknown,High,Unknown,102100,
+Unknown,45-54,Bachelor's,Fintech,Bangalore,Medium,13,33200,
+Employed,25-34,PhD,Finance,Rural,Medium,Unknown,33200,
+Employed,55+,High School,unknown,Urban,Unknown,Unknown,107900,
+Unemployed,25-34,Master’s,Retail,Unknown,Unknown,Unknown,25100,
+Employed,25-34,Unknown,Healthcare,Bangalore,Medium,Unknown,33200,
+Unemployed,18-24,Master’s,Fintech,Hyderabad,Low,Unknown,43700,2025-01-07
+Unknown,25-34,Diploma,Technology,Urban,Low,Unknown,70600,2025-02-07
+Unknown,35-44,Diploma,Healthcare,Urban,Medium,Unknown,137900,2025-03-07
+Employed,25-34,Diploma,Finance,Bangalore,High,21,39700,2025-04-07
+Unemployed,55+,Diploma,Healthcare,Hyderabad,Low,Unknown,22900,2025-05-07
+Employed,18-24,Master’s,Finance,Rural,High,Unknown,6400,2025-06-07
+Employed,35-44,PhD,Retail,Suburban,High,Unknown,60700,2025-07-07
+Employed,45-54,Master’s,Finance,Urban,Unknown,Unknown,33200,2025-08-07
+Unknown,55+,Bachelor's,Education,Unknown,High,Unknown,33200,2025-09-07
+Employed,45-54,PhD,Healthcare,Delhi,Medium,10,146200,2025-10-07
+Unemployed,18-24,Bachelor's,Retail,Mumbai,High,9,33200,2025-11-07
+Employed,25-34,High School,Retail,Urban,Medium,21,28100,2025-12-07
+Unemployed,55+,Unknown,Fintech,Hyderabad,Medium,Unknown,142800,
+Employed,25-34,Bachelor's,Retail,Unknown,Medium,Unknown,107400,
+Employed,45-54,Bachelor's,Fintech,Delhi,Unknown,9,52600,
+Employed,45-54,Bachelor's,Fintech,Mumbai,Medium,12,32900,
+Employed,55+,Master’s,unknown,Hyderabad,Low,Unknown,33200,
+Unemployed,25-34,High School,Technology,Mumbai,Low,Unknown,33200,
+Unemployed,35-44,Bachelor's,Education,Urban,Medium,20,78600,
+Unemployed,55+,Unknown,Retail,Delhi,High,27,47600,
+Employed,35-44,PhD,Technology,Suburban,Unknown,Unknown,56200,
+Employed,35-44,Bachelor's,Retail,Suburban,High,Unknown,56700,
+Unemployed,25-34,PhD,Retail,Rural,Low,Unknown,18300,
+Unemployed,35-44,Bachelor's,Retail,Unknown,High,Unknown,124400,
+Unknown,35-44,PhD,Finance,Urban,Unknown,2,41900,
+Unemployed,Unknown,PhD,Healthcare,Delhi,High,7,26100,
+Unemployed,35-44,PhD,Retail,Bangalore,Medium,Unknown,41800,
+Employed,35-44,Diploma,unknown,Rural,High,Unknown,141200,
+Employed,25-34,High School,unknown,Delhi,Low,Unknown,132100,
+Employed,45-54,PhD,Fintech,Hyderabad,Low,26,110600,
+Unemployed,18-24,Bachelor's,Retail,Bangalore,Unknown,Unknown,94400,
+Unemployed,Unknown,Unknown,Healthcare,Urban,Medium,30,81600,2025-01-08
+Employed,18-24,Unknown,Finance,Mumbai,High,8,115800,2025-02-08
+Employed,25-34,Bachelor's,Healthcare,Delhi,Medium,Unknown,125000,2025-03-08
+Employed,55+,Master’s,Healthcare,Hyderabad,Low,Unknown,145400,2025-04-08
+Employed,18-24,High School,Healthcare,Bangalore,Low,5,108300,2025-05-08
+Unemployed,25-34,High School,Technology,Mumbai,Low,30,64500,2025-06-08
+Unemployed,18-24,PhD,Retail,Urban,Low,17,71300,2025-07-08
+Unemployed,55+,PhD,Technology,Urban,High,Unknown,69400,2025-08-08
+Employed,35-44,Master’s,Fintech,Hyderabad,Medium,Unknown,92500,2025-09-08
+Unemployed,18-24,High School,Fintech,Suburban,Unknown,6,135000,2025-10-08
+Employed,35-44,High School,unknown,Urban,High,Unknown,36300,2025-11-08
+Employed,18-24,Master’s,Healthcare,Mumbai,Medium,23,98700,2025-12-08
+Employed,45-54,High School,Fintech,Rural,Medium,Unknown,67400,
+Unknown,25-34,PhD,Technology,Delhi,Low,20,115700,
+Unemployed,18-24,Diploma,Retail,Mumbai,Low,17,12400,
+Unemployed,18-24,Bachelor's,unknown,Mumbai,High,Unknown,33200,
+Employed,55+,Master’s,Retail,Suburban,Unknown,Unknown,33200,
+Unknown,18-24,High School,Retail,Urban,High,1,90000,
+Unemployed,25-34,Master’s,unknown,Suburban,Medium,21,60800,
+Unemployed,18-24,Master’s,Fintech,Bangalore,Unknown,Unknown,55300,
+Unemployed,25-34,Unknown,Healthcare,Unknown,Medium,6,18000,
+Unemployed,25-34,PhD,Healthcare,Urban,High,2,13100,
+Unemployed,25-34,Bachelor's,Healthcare,Urban,Low,Unknown,114700,
+Employed,Unknown,PhD,Education,Hyderabad,Medium,Unknown,57300,
+Unemployed,25-34,Master’s,unknown,Rural,Low,Unknown,122000,
+Employed,18-24,Diploma,Retail,Suburban,High,Unknown,7900,
+Unknown,Unknown,Diploma,Healthcare,Unknown,Low,0,33200,
+Unemployed,25-34,PhD,Healthcare,Rural,Low,20,118600,
+Unemployed,55+,High School,Healthcare,Urban,Low,9,33200,
+Unemployed,25-34,Bachelor's,Finance,Mumbai,Low,Unknown,72200,
+Unemployed,25-34,Bachelor's,Education,Mumbai,Unknown,26,35500,
+Unemployed,18-24,PhD,Healthcare,Urban,High,Unknown,129300,2025-01-09
+Employed,55+,Diploma,Retail,Delhi,Medium,Unknown,126500,2025-02-09
+Employed,25-34,Master’s,Healthcare,Rural,Low,Unknown,36900,2025-03-09
+Employed,35-44,Bachelor's,Retail,Unknown,Low,2,33200,2025-04-09
+Unemployed,18-24,Bachelor's,Healthcare,Urban,Unknown,Unknown,47100,2025-05-09
+Unknown,45-54,Master’s,Technology,Urban,Medium,Unknown,33200,2025-06-09
+Unknown,18-24,PhD,Technology,Delhi,High,2,10800,2025-07-09
+Unemployed,18-24,High School,Technology,Mumbai,Medium,10,89900,2025-08-09
+Employed,18-24,Bachelor's,Education,Hyderabad,High,Unknown,147900,2025-09-09
+Unemployed,Unknown,Master’s,Fintech,Suburban,Medium,19,33200,2025-10-09
+Unemployed,45-54,PhD,Technology,Delhi,High,9,32300,2025-11-09
+Employed,55+,PhD,Education,Urban,High,Unknown,66800,2025-12-09
+Unemployed,25-34,Diploma,Retail,Rural,Low,28,70600,
+Unemployed,35-44,High School,Education,Delhi,Unknown,13,138600,
+Employed,35-44,PhD,Retail,Bangalore,High,Unknown,51800,
+Employed,25-34,Master’s,Healthcare,Bangalore,Medium,Unknown,119000,
+Employed,18-24,High School,Healthcare,Urban,Low,Unknown,8100,
+Unknown,18-24,PhD,Healthcare,Mumbai,Medium,5,112300,
+Employed,18-24,High School,Retail,Rural,Unknown,14,33700,
+Unknown,Unknown,PhD,Education,Unknown,Low,Unknown,67300,
+Unemployed,55+,Master’s,Retail,Unknown,Medium,11,107800,
+Unemployed,25-34,Bachelor's,Education,Rural,Low,25,137200,
+Unemployed,25-34,Unknown,Fintech,Bangalore,Medium,10,148600,
+Employed,Unknown,Diploma,Healthcare,Suburban,Unknown,25,88500,
+Employed,18-24,PhD,Finance,Mumbai,Medium,0,133700,
+Unemployed,55+,PhD,Education,Rural,Medium,Unknown,112100,
+Unemployed,45-54,Diploma,Fintech,Suburban,High,Unknown,115500,
+Employed,18-24,PhD,Technology,Urban,Low,30,122500,
+Unemployed,18-24,High School,Education,Suburban,High,Unknown,33200,
+Unemployed,18-24,Master’s,Retail,Urban,High,7,33200,
+Employed,18-24,High School,Finance,Bangalore,Unknown,Unknown,137700,2025-01-10
+Employed,Unknown,Unknown,Education,Urban,Low,Unknown,23600,2025-02-10
+Unemployed,18-24,High School,Retail,Urban,High,Unknown,114600,2025-03-10
+Unemployed,25-34,Bachelor's,Healthcare,Hyderabad,Medium,Unknown,145500,2025-04-10
+Unemployed,18-24,High School,Fintech,Suburban,Low,Unknown,65700,2025-05-10
+Employed,25-34,Master’s,Education,Delhi,Medium,Unknown,33200,2025-06-10
+Employed,18-24,Bachelor's,Retail,Suburban,High,Unknown,123700,2025-07-10
+Unemployed,45-54,High School,Retail,Suburban,Unknown,25,140300,2025-08-10
+Employed,18-24,Unknown,Healthcare,Suburban,Unknown,Unknown,42400,2025-09-10
+Unemployed,25-34,Unknown,unknown,Rural,Low,Unknown,33200,2025-10-10
+Employed,35-44,PhD,Technology,Unknown,Medium,Unknown,141100,2025-11-10
+Employed,25-34,Diploma,Education,Bangalore,Unknown,17,43000,2025-12-10
+Unemployed,18-24,Bachelor's,unknown,Bangalore,High,Unknown,33200,2025-13-10
+Unemployed,18-24,Master’s,Fintech,Rural,High,Unknown,44500,2025-14-10
+Unemployed,25-34,PhD,Healthcare,Urban,High,Unknown,107300,2025-15-10
+Unemployed,25-34,Diploma,Fintech,Urban,Low,Unknown,110800,2025-16-10
+Unknown,25-34,Master’s,Finance,Mumbai,Medium,Unknown,70000,2025-17-10
+Employed,25-34,Bachelor's,Healthcare,Delhi,Medium,Unknown,132300,2025-18-10
+Unknown,55+,Master’s,Education,Rural,High,15,109400,2025-19-10
+Employed,25-34,High School,Finance,Delhi,Medium,16,122400,2025-20-10
+Unknown,45-54,Unknown,unknown,Hyderabad,Low,Unknown,90400,2025-21-10
+Unknown,25-34,Bachelor's,unknown,Mumbai,High,22,142400,2025-22-10
+Unemployed,Unknown,Bachelor's,Healthcare,Delhi,Low,24,148100,2025-23-10
+Unemployed,35-44,PhD,unknown,Rural,High,26,12500,2025-24-10
+Unemployed,25-34,Master’s,Healthcare,Delhi,Medium,8,16300,2025-25-10
+Unemployed,45-54,Master’s,Healthcare,Suburban,Low,Unknown,33200,2025-26-10
+Employed,55+,Bachelor's,Retail,Mumbai,High,Unknown,46400,2025-27-10
+Unemployed,55+,Diploma,Healthcare,Suburban,High,24,59800,2025-28-10
+Unemployed,45-54,PhD,Finance,Rural,Unknown,Unknown,33200,2025-29-10
+Unemployed,45-54,Diploma,Retail,Delhi,Low,Unknown,58600,2025-30-10
+Unemployed,35-44,Bachelor's,Finance,Bangalore,Unknown,Unknown,142000,2025-31-10
+Unemployed,45-54,PhD,Technology,Unknown,High,Unknown,58300,2025-01-11
+Employed,55+,PhD,Retail,Urban,Medium,Unknown,126700,2025-02-11
+Unknown,35-44,PhD,unknown,Bangalore,Unknown,1,85500,2025-03-11
+Unemployed,45-54,Master’s,Healthcare,Hyderabad,Low,23,116900,2025-04-11
+Unknown,25-34,High School,unknown,Urban,Medium,28,115300,2025-05-11
+Employed,45-54,High School,Healthcare,Suburban,Medium,Unknown,10300,2025-06-11
+Employed,18-24,High School,Retail,Bangalore,Unknown,Unknown,55500,2025-07-11
+Unknown,55+,Bachelor's,Retail,Bangalore,Low,26,105500,2025-08-11
+Employed,35-44,PhD,unknown,Urban,High,19,33200,2025-09-11
+Unemployed,45-54,Unknown,Retail,Unknown,Low,Unknown,33200,2025-10-11
+Unknown,25-34,High School,Healthcare,Suburban,High,13,120700,2025-11-11
+Unknown,18-24,Diploma,Retail,Bangalore,Medium,2,28100,2025-12-11
+Employed,Unknown,Master’s,Technology,Urban,High,8,105800,2025-13-11
+Unemployed,45-54,High School,Healthcare,Urban,Low,6,63900,2025-14-11
+Employed,25-34,Master’s,Retail,Urban,Low,3,33200,2025-15-11
+Unknown,25-34,Unknown,Technology,Delhi,Medium,20,37300,2025-16-11
+Unemployed,55+,Master’s,Healthcare,Mumbai,Low,25,33200,2025-17-11
+Unemployed,25-34,Bachelor's,Technology,Hyderabad,High,4,103700,2025-18-11
+Employed,18-24,PhD,Retail,Bangalore,High,Unknown,89400,2025-19-11
+Unemployed,55+,Master’s,Healthcare,Urban,Low,21,102000,2025-20-11
+Unemployed,Unknown,High School,Retail,Urban,Medium,3,5500,2025-21-11
+Employed,35-44,Diploma,Technology,Rural,Low,Unknown,28100,2025-22-11
+Unemployed,35-44,Master’s,Retail,Unknown,High,Unknown,132100,2025-23-11
+Unemployed,45-54,Bachelor's,Fintech,Urban,Unknown,Unknown,58300,2025-24-11
+Employed,Unknown,Master’s,Healthcare,Urban,High,Unknown,88600,2025-25-11
+Unemployed,18-24,Master’s,Retail,Urban,Medium,5,33200,2025-26-11
+Unemployed,18-24,Master’s,Healthcare,Urban,Medium,Unknown,61700,2025-27-11
+Employed,25-34,Unknown,Retail,Bangalore,Low,26,91000,2025-28-11
+Unemployed,18-24,Master’s,Technology,Urban,Unknown,Unknown,133500,2025-29-11
+Employed,55+,Diploma,Healthcare,Suburban,High,Unknown,137300,2025-30-11
+Unknown,35-44,PhD,Retail,Rural,Low,Unknown,31300,2025-01-12
+Employed,18-24,Unknown,Healthcare,Urban,High,Unknown,5100,2025-02-12
+Unemployed,35-44,Diploma,Retail,Hyderabad,High,29,121700,2025-03-12
+Employed,18-24,Bachelor's,Education,Mumbai,Low,Unknown,53800,2025-04-12
+Unemployed,18-24,Bachelor's,Fintech,Suburban,High,16,17700,2025-05-12
+Employed,25-34,High School,Technology,Urban,Medium,29,33200,2025-06-12
+Unknown,18-24,Unknown,unknown,Mumbai,Medium,Unknown,7800,2025-07-12
+Unknown,35-44,High School,Healthcare,Rural,Low,Unknown,125500,2025-08-12
+Unknown,25-34,Master’s,Retail,Mumbai,Medium,19,29900,2025-09-12
+Employed,18-24,Diploma,Finance,Urban,High,Unknown,33200,2025-10-12
+Unknown,45-54,Diploma,Retail,Suburban,Medium,Unknown,33200,2025-11-12
+Unknown,55+,Bachelor's,Healthcare,Bangalore,High,Unknown,62500,2025-12-12
+Unemployed,45-54,Master’s,Finance,Rural,Low,Unknown,109900,2025-13-12
+Employed,18-24,Master’s,Fintech,Bangalore,Low,29,37800,2025-14-12
+Unemployed,18-24,Master’s,Retail,Urban,High,3,53400,2025-15-12
+Unemployed,25-34,High School,Retail,Urban,Medium,25,100600,2025-16-12
+Unknown,45-54,Bachelor's,Technology,Hyderabad,Medium,Unknown,94600,2025-17-12
+Unknown,18-24,PhD,unknown,Rural,Low,Unknown,32500,2025-18-12
+Unemployed,25-34,PhD,Technology,Unknown,High,11,33200,2025-19-12
+Unemployed,35-44,Diploma,Finance,Bangalore,Medium,2,34200,2025-20-12
+Unknown,Unknown,PhD,Finance,Mumbai,Medium,Unknown,7300,2025-21-12
+Unemployed,Unknown,PhD,Retail,Unknown,Medium,Unknown,130700,2025-22-12
+Employed,35-44,Master’s,Healthcare,Mumbai,Medium,Unknown,66100,2025-23-12
+Unknown,55+,High School,Technology,Bangalore,Low,Unknown,48500,2025-24-12
+Employed,55+,High School,Healthcare,Urban,Medium,Unknown,127100,2025-25-12
+Employed,18-24,PhD,Retail,Bangalore,Medium,9,46700,2025-26-12
+Unemployed,25-34,High School,Technology,Rural,Unknown,Unknown,24400,2025-27-12
+Unemployed,Unknown,Master’s,Healthcare,Unknown,Low,27,29800,2025-28-12
+Unemployed,45-54,Master’s,Technology,Urban,Low,18,41900,2025-29-12
+Employed,25-34,Unknown,Technology,Rural,High,20,8800,2025-30-12
+Employed,25-34,Master’s,Technology,Hyderabad,Low,Unknown,33200,2025-31-12
+Unemployed,45-54,Master’s,Retail,Suburban,Low,11,39400,2026-01-01
+Unknown,25-34,High School,Finance,Suburban,Low,Unknown,121700,2026-02-01
+Unemployed,25-34,Bachelor's,Technology,Suburban,Low,28,33200,2026-03-01
+Unemployed,25-34,Bachelor's,Healthcare,Mumbai,Low,23,128500,2026-04-01
+Employed,25-34,PhD,Finance,Rural,Low,22,48400,2026-05-01
+Unemployed,Unknown,Diploma,Retail,Urban,High,23,83500,2026-06-01
+Unemployed,55+,Bachelor's,Retail,Bangalore,Low,Unknown,98800,2026-07-01
+Employed,45-54,Master’s,Retail,Delhi,Low,Unknown,34300,2026-08-01
+Unemployed,25-34,High School,Finance,Bangalore,High,Unknown,118100,2026-09-01
+Unknown,Unknown,Unknown,Technology,Bangalore,Low,23,33200,2026-10-01
+Unknown,55+,PhD,Fintech,Rural,Medium,16,33200,2026-11-01
+Employed,25-34,PhD,Technology,Suburban,Medium,Unknown,48400,2026-12-01
+Unemployed,45-54,High School,Retail,Unknown,Medium,Unknown,96000,
+Employed,25-34,Master’s,Retail,Urban,Unknown,Unknown,79900,
+Employed,25-34,Master’s,Finance,Urban,High,13,14500,
+Employed,25-34,Diploma,Fintech,Mumbai,Medium,16,31900,
+Unknown,25-34,PhD,Retail,Urban,High,2,59500,
+Unknown,35-44,High School,Technology,Urban,High,15,33200,
+Unemployed,25-34,Master’s,Retail,Hyderabad,Low,Unknown,14100,
+Unemployed,35-44,Bachelor's,Technology,Urban,Low,23,7600,
+Unemployed,18-24,Diploma,Healthcare,Rural,Medium,13,57500,
+Unknown,25-34,Bachelor's,Fintech,Delhi,Medium,Unknown,36900,
+Employed,18-24,PhD,Healthcare,Hyderabad,Low,Unknown,130100,
+Unemployed,18-24,Master’s,Technology,Suburban,High,Unknown,45200,
+Unemployed,25-34,PhD,unknown,Mumbai,Low,16,93400,
+Unemployed,35-44,Diploma,Finance,Rural,High,Unknown,149900,
+Employed,35-44,High School,Retail,Delhi,High,Unknown,47800,
+Unemployed,18-24,High School,Fintech,Mumbai,Low,Unknown,76800,
+Employed,Unknown,PhD,Finance,Hyderabad,Unknown,21,63800,
+Employed,25-34,Master’s,Fintech,Mumbai,Unknown,Unknown,121900,
+Employed,45-54,Master’s,Technology,Mumbai,High,19,75900,
+Unemployed,18-24,Bachelor's,Retail,Hyderabad,Medium,22,82600,2026-01-02
+Employed,45-54,Bachelor's,Technology,Bangalore,Medium,26,69200,2026-02-02
+Unemployed,25-34,PhD,Healthcare,Hyderabad,High,Unknown,128300,2026-03-02
+Unemployed,Unknown,PhD,Healthcare,Mumbai,Low,Unknown,148400,2026-04-02
+Unemployed,Unknown,Diploma,unknown,Urban,Low,Unknown,146500,2026-05-02
+Unemployed,25-34,High School,Healthcare,Unknown,Medium,Unknown,33200,2026-06-02
+Unemployed,45-54,High School,Healthcare,Hyderabad,Unknown,Unknown,33200,2026-07-02
+Employed,25-34,High School,Retail,Rural,High,30,78100,2026-08-02
+Unemployed,55+,Diploma,Healthcare,Bangalore,Low,22,36800,2026-09-02
+Employed,25-34,PhD,Technology,Delhi,High,29,84500,2026-10-02
+Employed,25-34,PhD,Healthcare,Urban,High,Unknown,100900,2026-11-02
+Unemployed,18-24,High School,Healthcare,Mumbai,Medium,Unknown,33200,2026-12-02
+Unemployed,35-44,Bachelor's,Technology,Urban,Medium,Unknown,13300,
+Employed,18-24,Master’s,Fintech,Rural,Low,11,65100,
+Unemployed,25-34,Master’s,Fintech,Hyderabad,Low,Unknown,139900,
+Employed,25-34,Master’s,Healthcare,Urban,Unknown,27,137500,
+Unemployed,Unknown,Bachelor's,Technology,Hyderabad,High,Unknown,79400,
+Unemployed,35-44,PhD,Healthcare,Unknown,Medium,3,33200,
+Unknown,Unknown,Bachelor's,Finance,Urban,Medium,12,33200,
+Unemployed,35-44,Unknown,Education,Mumbai,Low,Unknown,86900,
+Unemployed,18-24,Unknown,Healthcare,Delhi,Low,Unknown,21700,
+Employed,55+,Master’s,Healthcare,Rural,Medium,Unknown,33200,
+Unknown,45-54,Master’s,Retail,Bangalore,Medium,Unknown,33200,
+Unemployed,Unknown,PhD,unknown,Bangalore,Medium,0,79200,
+Employed,18-24,PhD,Technology,Hyderabad,Low,Unknown,62700,
+Unemployed,45-54,Bachelor's,Technology,Urban,High,Unknown,141400,
+Employed,25-34,Bachelor's,unknown,Suburban,Unknown,Unknown,33200,
+Unemployed,55+,Unknown,Education,Hyderabad,Low,22,44000,
+Unemployed,55+,Bachelor's,Technology,Rural,High,Unknown,33200,2026-01-03
+Unemployed,18-24,Master’s,Technology,Unknown,Low,0,80400,2026-02-03
+Unemployed,55+,Unknown,Finance,Bangalore,Unknown,Unknown,106300,2026-03-03
+Employed,18-24,Bachelor's,Retail,Delhi,Medium,Unknown,120600,2026-04-03
+Employed,25-34,Unknown,Technology,Suburban,Medium,26,38900,2026-05-03
+Employed,45-54,Unknown,Technology,Bangalore,High,Unknown,33200,2026-06-03
+Unemployed,55+,Bachelor's,Retail,Urban,High,16,53200,2026-07-03
+Employed,18-24,Diploma,Retail,Delhi,Unknown,Unknown,22300,2026-08-03
+Employed,18-24,Master’s,Education,Urban,High,Unknown,76500,2026-09-03
+Unemployed,35-44,Bachelor's,Fintech,Suburban,Medium,27,65100,2026-10-03
+Unemployed,18-24,Master’s,Education,Mumbai,High,24,107300,2026-11-03
+Unemployed,18-24,PhD,Technology,Urban,Medium,5,122000,2026-12-03
+Unemployed,35-44,Master’s,Healthcare,Bangalore,Medium,Unknown,60800,
+Employed,35-44,PhD,Education,Mumbai,Low,19,33200,
+Employed,35-44,Master’s,Retail,Urban,High,Unknown,33200,
+Employed,25-34,Master’s,unknown,Mumbai,High,Unknown,63800,
+Unemployed,18-24,Unknown,Healthcare,Suburban,High,Unknown,148400,
+Employed,45-54,Diploma,Education,Urban,High,15,98600,
+Unemployed,Unknown,PhD,Healthcare,Urban,High,1,99000,
+Employed,45-54,Unknown,Healthcare,Rural,Medium,Unknown,33200,
+Employed,25-34,Bachelor's,Technology,Urban,Unknown,Unknown,69100,
+Unknown,18-24,Unknown,Finance,Hyderabad,Medium,Unknown,41300,
+Employed,25-34,High School,Healthcare,Delhi,High,Unknown,7900,
+Unemployed,55+,Master’s,Healthcare,Delhi,High,Unknown,34400,
+Unemployed,55+,Master’s,Healthcare,Rural,High,17,73200,
+Employed,45-54,Master’s,Technology,Delhi,High,Unknown,107100,
+Unemployed,25-34,Master’s,Technology,Urban,Low,Unknown,11500,
+Unemployed,18-24,PhD,Technology,Hyderabad,Low,Unknown,33200,
+Unknown,25-34,Diploma,Healthcare,Suburban,High,Unknown,93800,
+Unemployed,18-24,Diploma,unknown,Unknown,Medium,6,122100,
+Employed,25-34,Master’s,Retail,Suburban,Low,Unknown,33400,
+Unemployed,55+,PhD,Technology,Delhi,High,18,42700,2026-01-04
+Unknown,25-34,PhD,Retail,Urban,Low,23,149100,2026-02-04
+Unknown,45-54,High School,Education,Rural,Low,Unknown,132300,2026-03-04
+Unemployed,Unknown,Bachelor's,unknown,Urban,High,Unknown,33200,2026-04-04
+Unemployed,25-34,PhD,Fintech,Hyderabad,Medium,12,33200,2026-05-04
+Employed,18-24,PhD,Fintech,Unknown,Low,Unknown,18700,2026-06-04
+Employed,Unknown,Unknown,Technology,Rural,Medium,Unknown,127200,2026-07-04
+Employed,55+,PhD,Technology,Suburban,Low,30,129400,2026-08-04
+Unemployed,Unknown,High School,unknown,Bangalore,Low,16,72300,2026-09-04
+Employed,25-34,Bachelor's,Retail,Bangalore,Unknown,Unknown,34400,2026-10-04
+Employed,18-24,High School,Retail,Mumbai,High,Unknown,33200,2026-11-04
+Employed,55+,PhD,Fintech,Mumbai,Medium,14,40600,2026-12-04
+Employed,Unknown,Bachelor's,Technology,Delhi,High,2,147900,
+Unemployed,18-24,High School,Education,Rural,Medium,Unknown,77800,
+Unemployed,35-44,PhD,Healthcare,Rural,Low,5,43100,
+Employed,Unknown,PhD,Retail,Hyderabad,Medium,1,33200,
+Unknown,25-34,Master’s,Technology,Unknown,Low,28,109600,
+Employed,Unknown,Diploma,unknown,Rural,Low,23,61700,
+Employed,35-44,Master’s,Retail,Bangalore,Medium,Unknown,33200,
+Employed,18-24,Master’s,unknown,Urban,Medium,9,148500,
+Employed,18-24,Master’s,Technology,Bangalore,Medium,20,54400,
+Unknown,35-44,Master’s,unknown,Delhi,Low,Unknown,81000,
+Employed,Unknown,Bachelor's,Retail,Delhi,Low,Unknown,78300,
+Employed,35-44,High School,Finance,Rural,High,7,137000,
+Unemployed,45-54,Diploma,Healthcare,Suburban,Medium,14,144900,
+Employed,35-44,PhD,Technology,Suburban,Medium,30,149800,
+Employed,55+,Bachelor's,Retail,Bangalore,Medium,Unknown,81300,
+Employed,25-34,PhD,Healthcare,Mumbai,Medium,Unknown,33200,
+Employed,18-24,PhD,Retail,Mumbai,High,Unknown,134900,
+Employed,35-44,Master’s,Healthcare,Rural,High,Unknown,100000,
+Unknown,18-24,PhD,Finance,Urban,High,Unknown,18100,2026-01-05
+Unknown,55+,PhD,Technology,Urban,Medium,16,110600,2026-02-05
+Unknown,25-34,PhD,Retail,Urban,Low,22,148400,2026-03-05
+Employed,55+,High School,Technology,Urban,High,Unknown,27500,2026-04-05
+Unemployed,35-44,PhD,Technology,Rural,High,Unknown,102500,2026-05-05
+Employed,18-24,High School,Fintech,Unknown,Low,7,117100,2026-06-05
+Unemployed,45-54,Master’s,Fintech,Mumbai,High,25,33200,2026-07-05
+Unemployed,45-54,PhD,unknown,Hyderabad,High,7,39300,2026-08-05
+Unemployed,18-24,PhD,Technology,Mumbai,Medium,Unknown,93000,2026-09-05
+Employed,45-54,PhD,unknown,Urban,Medium,16,70500,2026-10-05
+Unemployed,25-34,Master’s,Retail,Bangalore,Low,26,28900,2026-11-05
+Unemployed,35-44,Bachelor's,Healthcare,Hyderabad,High,28,52200,2026-12-05
+Unemployed,18-24,High School,Retail,Unknown,High,29,6300,
+Unknown,25-34,Bachelor's,Retail,Suburban,Low,7,89400,
+Unemployed,Unknown,PhD,Finance,Suburban,Low,Unknown,5800,
+Unemployed,18-24,Bachelor's,Retail,Unknown,Low,20,141800,
+Unemployed,45-54,Bachelor's,Healthcare,Bangalore,High,Unknown,125800,
+Unknown,18-24,High School,unknown,Delhi,High,20,54800,
+Employed,25-34,Bachelor's,Healthcare,Bangalore,Medium,Unknown,65800,
+Unemployed,45-54,High School,Fintech,Suburban,Unknown,Unknown,55800,
+Employed,35-44,Master’s,Technology,Delhi,Low,6,15200,
+Unemployed,25-34,High School,Retail,Unknown,High,Unknown,72500,
+Unemployed,25-34,Master’s,Education,Urban,Low,11,33200,
+Unknown,35-44,Master’s,Fintech,Delhi,Low,1,119900,
+Employed,18-24,PhD,Technology,Mumbai,Unknown,11,140400,
+Employed,18-24,High School,Healthcare,Rural,Low,6,105600,
+Unemployed,18-24,Bachelor's,Retail,Mumbai,High,29,139800,
+Employed,18-24,Master’s,unknown,Bangalore,Medium,25,52400,
+Employed,18-24,Diploma,Fintech,Unknown,High,Unknown,33200,
+Employed,18-24,Unknown,unknown,Rural,Unknown,2,18400,
+Employed,35-44,PhD,Retail,Unknown,Medium,8,78000,
+Employed,45-54,Diploma,Education,Urban,Medium,1,85400,2026-01-06
+Unknown,18-24,High School,Education,Mumbai,Medium,Unknown,48000,2026-02-06
+Unemployed,18-24,Bachelor's,Retail,Urban,Low,17,58300,2026-03-06
+Employed,55+,Bachelor's,Education,Bangalore,Unknown,Unknown,33200,2026-04-06
+Unemployed,Unknown,Master’s,Retail,Suburban,Low,26,33200,2026-05-06
+Unemployed,25-34,High School,Healthcare,Mumbai,Medium,Unknown,66100,2026-06-06
+Unknown,45-54,Master’s,Retail,Bangalore,Medium,28,48200,2026-07-06
+Employed,45-54,Master’s,Technology,Rural,High,Unknown,33200,2026-08-06
+Unemployed,Unknown,Master’s,Healthcare,Suburban,Low,5,78700,2026-09-06
+Unknown,18-24,PhD,Retail,Urban,Low,4,87500,2026-10-06
+Unemployed,35-44,PhD,unknown,Delhi,Medium,Unknown,33200,2026-11-06
+Employed,18-24,High School,Healthcare,Hyderabad,Low,6,33200,2026-12-06
+Unemployed,35-44,Master’s,unknown,Delhi,Medium,1,70300,
+Unknown,Unknown,Bachelor's,unknown,Suburban,High,1,128000,
+Employed,18-24,High School,Retail,Urban,Unknown,Unknown,137700,
+Unknown,35-44,Diploma,Education,Delhi,Unknown,2,96500,
+Unemployed,25-34,High School,Finance,Unknown,High,Unknown,99400,
+Employed,35-44,Unknown,Technology,Bangalore,Low,Unknown,33200,
+Employed,Unknown,High School,Retail,Bangalore,High,17,12100,
+Employed,Unknown,Master’s,Retail,Hyderabad,Medium,27,56700,
+Employed,25-34,Master’s,unknown,Mumbai,High,Unknown,95300,
+Unemployed,45-54,High School,Retail,Rural,High,Unknown,15000,
+Unknown,18-24,Master’s,Fintech,Unknown,High,Unknown,58800,
+Employed,55+,High School,Healthcare,Delhi,High,4,6100,
+Employed,18-24,High School,Retail,Unknown,Unknown,Unknown,146800,
+Employed,55+,High School,Technology,Urban,Medium,10,33200,
+Employed,25-34,Unknown,Finance,Rural,Low,Unknown,33600,
+Employed,55+,Master’s,Healthcare,Hyderabad,Low,4,69300,
+Employed,25-34,High School,Fintech,Urban,Low,18,33200,
+Employed,Unknown,Bachelor's,Healthcare,Bangalore,Medium,Unknown,33200,
+Employed,25-34,Bachelor's,unknown,Delhi,Unknown,23,28500,2026-01-07
+Unemployed,25-34,Unknown,Healthcare,Urban,Medium,21,30500,2026-02-07
+Unknown,18-24,Bachelor's,Retail,Bangalore,High,Unknown,33200,2026-03-07
+Unemployed,45-54,Diploma,Healthcare,Urban,High,Unknown,137200,2026-04-07
+Employed,Unknown,Diploma,unknown,Mumbai,High,19,33200,2026-05-07
+Unemployed,18-24,Diploma,Healthcare,Urban,High,Unknown,33200,2026-06-07
+Unknown,25-34,Unknown,Education,Bangalore,High,Unknown,59000,2026-07-07
+Unemployed,25-34,Master’s,Fintech,Mumbai,Low,Unknown,143000,2026-08-07
+Employed,35-44,Bachelor's,Education,Rural,High,Unknown,9600,2026-09-07
+Unemployed,25-34,Bachelor's,Education,Unknown,Medium,19,68200,2026-10-07
+Unemployed,25-34,PhD,Fintech,Urban,Medium,1,33200,2026-11-07
+Unemployed,18-24,PhD,Retail,Mumbai,High,Unknown,81700,2026-12-07
+Unemployed,18-24,Diploma,Education,Mumbai,Medium,5,104700,
+Employed,45-54,High School,Retail,Suburban,Medium,Unknown,36000,
+Unemployed,35-44,Master’s,Healthcare,Urban,High,Unknown,33200,
+Employed,25-34,Diploma,unknown,Rural,Unknown,Unknown,33200,
+Unemployed,45-54,PhD,Healthcare,Rural,Unknown,Unknown,50500,
+Employed,Unknown,Diploma,unknown,Suburban,High,6,55000,
+Unemployed,18-24,Unknown,unknown,Urban,Unknown,13,113500,
+Unemployed,25-34,Diploma,Education,Delhi,Medium,25,101200,
+Unknown,45-54,Diploma,Education,Hyderabad,Low,25,6100,
+Employed,45-54,Diploma,Retail,Urban,High,4,33200,
+Employed,18-24,High School,Technology,Rural,High,Unknown,10700,
+Unemployed,25-34,Bachelor's,Retail,Urban,High,2,56700,
+Unknown,Unknown,Bachelor's,Education,Hyderabad,Medium,11,33200,
+Unknown,18-24,Diploma,unknown,Unknown,High,Unknown,146800,
+Unemployed,25-34,Master’s,Retail,Delhi,High,2,87600,
+Employed,45-54,Master’s,unknown,Delhi,High,9,131600,
+Unemployed,35-44,PhD,Healthcare,Bangalore,High,Unknown,49000,
+Unemployed,25-34,PhD,Finance,Delhi,Low,16,49200,
+Unknown,18-24,PhD,Finance,Hyderabad,Low,18,31700,
+Employed,18-24,High School,Technology,Delhi,Medium,Unknown,33200,2026-01-08
+Employed,45-54,Master’s,Technology,Urban,High,25,33200,2026-02-08
+Employed,25-34,High School,Technology,Urban,Low,11,126300,2026-03-08
+Employed,25-34,Unknown,Finance,Delhi,Unknown,Unknown,120300,2026-04-08
+Unemployed,55+,PhD,Retail,Hyderabad,Low,7,65800,2026-05-08
+Employed,55+,Unknown,Healthcare,Suburban,Medium,10,33200,2026-06-08
+Unknown,18-24,Master’s,Healthcare,Mumbai,Medium,Unknown,33200,2026-07-08
+Employed,18-24,PhD,Technology,Suburban,High,Unknown,100300,2026-08-08
+Unknown,35-44,Bachelor's,Finance,Urban,Medium,Unknown,74300,2026-09-08
+Employed,35-44,Master’s,Technology,Unknown,Medium,Unknown,77100,2026-10-08
+Unknown,Unknown,High School,Retail,Delhi,Medium,Unknown,91200,2026-11-08
+Employed,18-24,High School,Technology,Mumbai,Low,10,51800,2026-12-08
+Unemployed,45-54,Master’s,Technology,Mumbai,Unknown,Unknown,90700,
+Employed,18-24,Master’s,Finance,Delhi,Unknown,25,103400,
+Unemployed,35-44,Master’s,Healthcare,Delhi,Low,Unknown,24500,
+Unknown,35-44,Bachelor's,Retail,Rural,Medium,Unknown,42200,
+Unemployed,25-34,PhD,Retail,Unknown,Low,20,6700,
+Employed,18-24,Unknown,Healthcare,Bangalore,Medium,Unknown,137000,
+Unemployed,18-24,Master’s,Finance,Suburban,Unknown,14,97800,
+Employed,35-44,PhD,Technology,Mumbai,Low,Unknown,69800,
+Employed,35-44,Master’s,Healthcare,Rural,Unknown,Unknown,39000,
+Unemployed,Unknown,Bachelor's,Retail,Urban,Medium,Unknown,85800,
+Employed,55+,Diploma,Retail,Rural,Unknown,15,56400,
+Unemployed,25-34,High School,Retail,Urban,Low,10,78100,
+Employed,18-24,Master’s,unknown,Rural,Unknown,Unknown,46100,
+Unemployed,45-54,Unknown,Fintech,Unknown,Unknown,Unknown,36400,
+Unemployed,35-44,Bachelor's,Technology,Delhi,High,Unknown,12500,
+Unemployed,18-24,Master’s,unknown,Delhi,Medium,18,91800,
+Unemployed,Unknown,Master’s,Healthcare,Bangalore,Low,Unknown,83800,
+Employed,55+,Diploma,Education,Mumbai,Low,Unknown,33200,
+Employed,25-34,High School,Education,Unknown,Unknown,Unknown,64900,
+Unemployed,18-24,Bachelor's,Fintech,Urban,High,21,100700,2026-01-09
+Employed,18-24,High School,Healthcare,Rural,Unknown,Unknown,66400,2026-02-09
+Unemployed,25-34,Bachelor's,Technology,Mumbai,Medium,11,92000,2026-03-09
+Unemployed,Unknown,PhD,Education,Suburban,Medium,Unknown,55500,2026-04-09
+Unemployed,55+,PhD,Education,Rural,Medium,18,12700,2026-05-09
+Employed,45-54,Diploma,Technology,Suburban,High,18,44400,2026-06-09
+Unemployed,18-24,Master’s,Healthcare,Rural,Low,8,116200,2026-07-09
+Employed,18-24,PhD,Finance,Unknown,Medium,Unknown,73900,2026-08-09
+Employed,Unknown,High School,unknown,Unknown,Unknown,Unknown,85700,2026-09-09
+Unemployed,35-44,Diploma,Education,Mumbai,High,Unknown,33200,2026-10-09
+Unknown,18-24,High School,Finance,Unknown,High,Unknown,33200,2026-11-09
+Unknown,Unknown,Master’s,unknown,Bangalore,Low,Unknown,85300,2026-12-09
+Unknown,55+,Unknown,Retail,Suburban,Unknown,Unknown,93500,
+Unemployed,35-44,Master’s,Retail,Delhi,High,3,88100,
+Employed,25-34,PhD,Fintech,Bangalore,High,Unknown,33200,
+Employed,45-54,Master’s,unknown,Urban,High,18,33200,
+Unemployed,45-54,Bachelor's,Healthcare,Rural,Medium,13,72700,
+Employed,45-54,Master’s,Healthcare,Delhi,High,16,27300,
+Unemployed,18-24,Bachelor's,Retail,Urban,High,26,127000,
+Unemployed,25-34,High School,Fintech,Urban,Low,Unknown,57900,
+Unknown,Unknown,Master’s,Healthcare,Mumbai,Medium,Unknown,11000,
+Unemployed,45-54,High School,Healthcare,Bangalore,Medium,8,42200,
+Unemployed,18-24,Unknown,Healthcare,Delhi,Medium,20,33200,
+Unemployed,18-24,High School,Retail,Urban,Unknown,Unknown,49000,
+Employed,25-34,Master’s,Retail,Mumbai,Low,9,19100,
+Unemployed,18-24,PhD,Education,Delhi,Medium,Unknown,33200,
+Employed,55+,Diploma,Fintech,Bangalore,Low,Unknown,33200,
+Unemployed,18-24,PhD,Retail,Delhi,Medium,18,75900,
+Employed,25-34,Bachelor's,unknown,Rural,Unknown,Unknown,118400,
+Unemployed,Unknown,Master’s,Technology,Urban,Low,Unknown,33200,
+Employed,25-34,PhD,Retail,Mumbai,Low,Unknown,131100,2026-01-10
+Unemployed,18-24,Diploma,Fintech,Delhi,Medium,Unknown,33200,2026-02-10
+Unemployed,18-24,Unknown,unknown,Suburban,Low,Unknown,126100,2026-03-10
+Employed,25-34,Master’s,Finance,Delhi,High,22,71500,2026-04-10
+Unknown,Unknown,High School,Education,Unknown,Medium,6,45400,2026-05-10
+Employed,45-54,Unknown,Healthcare,Mumbai,Medium,5,75400,2026-06-10
+Unemployed,45-54,PhD,Retail,Delhi,Unknown,Unknown,92500,2026-07-10
+Unemployed,18-24,Bachelor's,Technology,Delhi,Low,28,39500,2026-08-10
+Employed,18-24,Bachelor's,unknown,Rural,Low,Unknown,45200,2026-09-10
+Unemployed,25-34,Bachelor's,Education,Rural,Low,24,33200,2026-10-10
+Employed,55+,Bachelor's,Retail,Mumbai,Low,Unknown,135200,2026-11-10
+Employed,Unknown,Diploma,Education,Delhi,Low,Unknown,44600,2026-12-10
+Employed,18-24,Diploma,Education,Rural,Low,20,96900,2026-13-10
+Unemployed,18-24,Bachelor's,Technology,Unknown,Unknown,20,94400,2026-14-10
+Unknown,25-34,Master’s,Healthcare,Hyderabad,Unknown,25,9800,2026-15-10
+Employed,55+,Bachelor's,Technology,Hyderabad,Unknown,Unknown,33200,2026-16-10
+Employed,55+,PhD,Fintech,Mumbai,Low,Unknown,114400,2026-17-10
+Employed,18-24,Diploma,Healthcare,Urban,High,Unknown,118000,2026-18-10
+Unemployed,18-24,High School,Finance,Bangalore,Medium,Unknown,33200,2026-19-10
+Employed,55+,Unknown,Retail,Suburban,Medium,Unknown,19900,2026-20-10
+Unknown,45-54,Unknown,unknown,Mumbai,High,2,33200,2026-21-10
+Employed,25-34,High School,Retail,Mumbai,Low,5,133700,2026-22-10
+Unemployed,25-34,PhD,Retail,Urban,Medium,Unknown,33200,2026-23-10
+Employed,Unknown,Bachelor's,unknown,Urban,Low,3,62000,2026-24-10
+Employed,25-34,Unknown,Technology,Urban,Unknown,19,33200,2026-25-10
+Unemployed,Unknown,PhD,Retail,Unknown,Low,21,141000,2026-26-10
+Unemployed,18-24,Bachelor's,Technology,Urban,Unknown,Unknown,58500,2026-27-10
+Employed,18-24,High School,Retail,Urban,Medium,20,15600,2026-28-10
+Employed,45-54,Master’s,Healthcare,Hyderabad,High,Unknown,12600,2026-29-10
+Unemployed,45-54,High School,unknown,Unknown,Medium,26,39400,2026-30-10
+Unemployed,18-24,High School,Technology,Suburban,Medium,30,52100,2026-31-10
+Unemployed,55+,Bachelor's,Education,Bangalore,High,Unknown,18500,2026-01-11
+Unemployed,18-24,Bachelor's,Healthcare,Bangalore,Low,Unknown,95300,2026-02-11
+Employed,18-24,Master’s,Fintech,Urban,Unknown,30,68900,2026-03-11
+Unemployed,Unknown,PhD,Finance,Urban,Medium,0,80500,2026-04-11
+Employed,35-44,Bachelor's,Healthcare,Rural,Low,10,33200,2026-05-11
+Unknown,25-34,High School,Finance,Urban,Low,Unknown,52500,2026-06-11
+Unemployed,18-24,Diploma,Fintech,Urban,Unknown,20,80400,2026-07-11
+Unemployed,45-54,Master’s,Healthcare,Delhi,High,Unknown,74800,2026-08-11
+Employed,Unknown,High School,unknown,Bangalore,High,Unknown,141700,2026-09-11
+Unemployed,25-34,Unknown,Technology,Suburban,High,Unknown,33200,2026-10-11
+Unemployed,35-44,High School,Retail,Hyderabad,Unknown,Unknown,14000,2026-11-11
+Unemployed,Unknown,Diploma,Education,Rural,Medium,Unknown,33200,2026-12-11
+Employed,55+,Bachelor's,Retail,Unknown,Medium,Unknown,33200,2026-13-11
+Employed,25-34,PhD,Healthcare,Suburban,High,8,45700,2026-14-11
+Unemployed,18-24,High School,Fintech,Urban,Low,Unknown,44000,2026-15-11
+Unemployed,18-24,Master’s,Technology,Mumbai,Medium,Unknown,126100,2026-16-11
+Unemployed,18-24,High School,Finance,Suburban,Low,Unknown,33200,2026-17-11
+Unemployed,18-24,PhD,unknown,Mumbai,Medium,Unknown,141500,2026-18-11
+Unemployed,18-24,Master’s,Healthcare,Urban,Medium,Unknown,9700,2026-19-11
+Unemployed,35-44,Bachelor's,Retail,Urban,Unknown,Unknown,30500,2026-20-11
+Unemployed,35-44,High School,Retail,Rural,Low,5,63300,2026-21-11
+Unknown,55+,Diploma,Technology,Hyderabad,Unknown,24,100000,2026-22-11
+Unemployed,25-34,Diploma,unknown,Bangalore,High,Unknown,145200,2026-23-11
+Unemployed,18-24,High School,Fintech,Mumbai,Low,Unknown,33200,2026-24-11
+Employed,45-54,PhD,Fintech,Unknown,High,24,22000,2026-25-11
+Unknown,18-24,High School,Healthcare,Urban,Unknown,12,33200,2026-26-11
+Unemployed,18-24,Bachelor's,Technology,Suburban,High,Unknown,116100,2026-27-11
+Unemployed,18-24,PhD,Healthcare,Rural,Low,24,122900,2026-28-11
+Unemployed,18-24,Unknown,unknown,Suburban,High,22,19800,2026-29-11
+Unemployed,Unknown,Master’s,Healthcare,Hyderabad,Low,Unknown,33200,2026-30-11
+Employed,18-24,PhD,Healthcare,Rural,Unknown,Unknown,123600,2026-01-12
+Employed,Unknown,Unknown,Finance,Suburban,Medium,Unknown,27300,2026-02-12
+Employed,25-34,Master’s,Fintech,Hyderabad,Medium,Unknown,11500,2026-03-12
+Employed,55+,Master’s,Retail,Bangalore,Unknown,23,76200,2026-04-12
+Unemployed,25-34,High School,Technology,Bangalore,Low,30,103900,2026-05-12
+Unemployed,55+,High School,Technology,Mumbai,Unknown,13,58900,2026-06-12
+Employed,18-24,PhD,Technology,Hyderabad,High,Unknown,44900,2026-07-12
+Unemployed,25-34,Bachelor's,Healthcare,Unknown,Unknown,18,122600,2026-08-12
+Unemployed,25-34,High School,Finance,Suburban,Low,30,19300,2026-09-12
+Employed,25-34,Diploma,Fintech,Delhi,Medium,Unknown,11700,2026-10-12
+Unknown,Unknown,PhD,Retail,Rural,Medium,Unknown,117200,2026-11-12
+Unemployed,18-24,PhD,Education,Hyderabad,Medium,Unknown,143100,2026-12-12
+Employed,25-34,Bachelor's,unknown,Urban,Medium,Unknown,98200,2026-13-12
+Employed,45-54,Diploma,Technology,Bangalore,High,30,109500,2026-14-12
+Employed,18-24,Diploma,Finance,Mumbai,High,28,124100,2026-15-12
+Unemployed,18-24,High School,Retail,Delhi,Unknown,1,10700,2026-16-12
+Employed,55+,PhD,Healthcare,Urban,High,Unknown,58300,2026-17-12
+Unemployed,18-24,Master’s,Education,Bangalore,Low,5,33200,2026-18-12
+Unemployed,55+,Diploma,Retail,Mumbai,Medium,Unknown,132200,2026-19-12
+Unemployed,18-24,PhD,Technology,Suburban,High,Unknown,33200,2026-20-12
+Employed,35-44,Master’s,unknown,Rural,Low,3,141500,2026-21-12
+Unemployed,35-44,Unknown,Healthcare,Urban,Medium,10,142300,2026-22-12
+Employed,18-24,Bachelor's,Technology,Bangalore,Medium,Unknown,33200,2026-23-12
+Employed,18-24,Unknown,Technology,Bangalore,High,7,107400,2026-24-12
+Employed,25-34,Bachelor's,unknown,Mumbai,Low,6,31200,2026-25-12
+Unemployed,Unknown,PhD,Finance,Hyderabad,Low,25,76500,2026-26-12
+Employed,Unknown,Master’s,Education,Hyderabad,Low,Unknown,72700,2026-27-12
+Unknown,45-54,Master’s,Healthcare,Rural,Low,6,60300,2026-28-12
+Employed,45-54,High School,Retail,Urban,Low,12,113500,2026-29-12
+Unemployed,Unknown,Unknown,Technology,Hyderabad,Medium,28,51000,2026-30-12
+Employed,25-34,Bachelor's,Technology,Delhi,Low,29,146700,2026-31-12
+Unemployed,18-24,PhD,Finance,Urban,Unknown,Unknown,34300,2027-01-01
+Employed,25-34,Master’s,Technology,Hyderabad,High,24,27900,2027-02-01
+Employed,45-54,PhD,Healthcare,Urban,Low,4,33200,2027-03-01
+Employed,45-54,Master’s,unknown,Delhi,High,1,51500,2027-04-01
+Unemployed,35-44,Master’s,Retail,Bangalore,Low,Unknown,32800,2027-05-01
+Employed,25-34,Master’s,Retail,Bangalore,Medium,4,97900,2027-06-01
+Unemployed,18-24,Master’s,Fintech,Rural,Unknown,Unknown,104200,2027-07-01
+Employed,35-44,PhD,Education,Hyderabad,Unknown,Unknown,33200,2027-08-01
+Employed,18-24,Master’s,Fintech,Rural,Low,27,61300,2027-09-01
+Unemployed,25-34,Bachelor's,Retail,Bangalore,High,18,33200,2027-10-01
+Unemployed,18-24,Bachelor's,Fintech,Suburban,High,14,119300,2027-11-01
+Unemployed,Unknown,PhD,Healthcare,Urban,Medium,25,22100,2027-12-01
+Unknown,18-24,PhD,Technology,Rural,Low,Unknown,46100,
+Unemployed,55+,High School,Healthcare,Urban,Low,16,33200,
+Unemployed,25-34,High School,unknown,Suburban,High,Unknown,28700,
+Employed,Unknown,Bachelor's,unknown,Urban,Low,26,62700,
+Unemployed,Unknown,High School,Retail,Suburban,Medium,Unknown,93000,
+Employed,18-24,Unknown,Healthcare,Suburban,Medium,Unknown,52300,
+Unemployed,45-54,Diploma,Retail,Urban,Low,Unknown,147000,
+Unemployed,25-34,Master’s,Finance,Urban,Low,14,33200,
+Employed,55+,PhD,Retail,Urban,High,Unknown,78600,
+Unemployed,18-24,Unknown,Technology,Mumbai,Low,Unknown,33200,
+Unemployed,25-34,High School,Retail,Suburban,High,22,114600,
+Unknown,55+,Diploma,Technology,Bangalore,High,Unknown,94400,
+Unknown,35-44,Unknown,Technology,Suburban,High,13,53300,
+Unemployed,Unknown,High School,Retail,Bangalore,Medium,Unknown,21400,
+Unemployed,35-44,Bachelor's,Finance,Urban,Low,Unknown,135700,
+Unemployed,45-54,PhD,Technology,Bangalore,High,21,112400,
+Unemployed,25-34,High School,Healthcare,Mumbai,Low,18,20700,
+Unemployed,Unknown,Bachelor's,Retail,Hyderabad,Medium,Unknown,33200,
+Employed,45-54,High School,Technology,Suburban,High,Unknown,50100,
+Unknown,Unknown,Bachelor's,Technology,Hyderabad,Medium,Unknown,113000,2027-01-02
+Unemployed,35-44,High School,unknown,Mumbai,Unknown,Unknown,33200,2027-02-02
+Employed,35-44,Diploma,Retail,Bangalore,Unknown,16,20900,2027-03-02
+Employed,18-24,Bachelor's,Finance,Rural,High,26,113400,2027-04-02
+Unemployed,25-34,Diploma,Fintech,Rural,Unknown,8,126000,2027-05-02
+Employed,18-24,Bachelor's,Retail,Delhi,Medium,27,136600,2027-06-02
+Employed,18-24,Bachelor's,Fintech,Suburban,Medium,Unknown,8400,2027-07-02
+Employed,25-34,Bachelor's,Retail,Urban,Low,18,143900,2027-08-02
+Employed,35-44,Bachelor's,Technology,Hyderabad,High,30,9400,2027-09-02
+Unemployed,18-24,Diploma,unknown,Unknown,Medium,5,33200,2027-10-02
+Employed,18-24,High School,Fintech,Unknown,Unknown,9,80800,2027-11-02
+Unemployed,25-34,Master’s,Retail,Urban,High,11,66000,2027-12-02
+Unknown,25-34,Master’s,Healthcare,Delhi,Low,17,30000,
+Unemployed,55+,Master’s,Retail,Urban,Low,Unknown,99200,
+Unemployed,55+,Master’s,Technology,Urban,Unknown,18,146000,
+Unknown,35-44,PhD,Fintech,Rural,Unknown,Unknown,57600,
+Employed,Unknown,Diploma,Retail,Urban,High,13,95200,
+Unemployed,45-54,PhD,Retail,Rural,Low,20,36100,
+Unemployed,18-24,High School,Technology,Hyderabad,High,Unknown,47300,
+Unemployed,18-24,Master’s,Education,Urban,High,29,103200,
+Unemployed,35-44,High School,Retail,Urban,High,26,33200,
+Employed,45-54,Bachelor's,Finance,Hyderabad,Medium,Unknown,94000,
+Employed,55+,Diploma,unknown,Rural,Medium,Unknown,35100,
+Unemployed,55+,Bachelor's,Finance,Suburban,Unknown,Unknown,104700,
+Unemployed,35-44,Bachelor's,Technology,Mumbai,Medium,0,118800,
+Employed,Unknown,High School,Fintech,Urban,Medium,19,114300,
+Employed,55+,Diploma,Finance,Rural,Medium,Unknown,33200,
+Employed,35-44,PhD,Technology,Unknown,Medium,24,33200,
+Unemployed,Unknown,PhD,Finance,Bangalore,Medium,29,33200,2027-01-03
+Employed,Unknown,Diploma,Healthcare,Mumbai,Unknown,Unknown,95200,2027-02-03
+Employed,18-24,Bachelor's,Retail,Delhi,High,Unknown,123900,2027-03-03
+Employed,25-34,Bachelor's,Retail,Hyderabad,Unknown,29,136500,2027-04-03
+Unemployed,18-24,Unknown,Retail,Urban,Medium,12,105100,2027-05-03
+Employed,18-24,High School,Retail,Bangalore,Medium,7,85100,2027-06-03
+Employed,18-24,PhD,Healthcare,Rural,High,7,100800,2027-07-03
+Employed,18-24,Bachelor's,unknown,Urban,Unknown,Unknown,27200,2027-08-03
+Unemployed,18-24,Diploma,Technology,Mumbai,Medium,0,51100,2027-09-03
+Unemployed,55+,Bachelor's,Fintech,Rural,High,7,79200,2027-10-03
+Unemployed,45-54,Bachelor's,Technology,Hyderabad,High,Unknown,10700,2027-11-03
+Employed,Unknown,Diploma,Retail,Hyderabad,Medium,8,91300,2027-12-03
+Unemployed,45-54,Bachelor's,Healthcare,Delhi,Low,Unknown,65200,
+Employed,55+,Master’s,unknown,Urban,Unknown,13,98700,
+Employed,55+,Bachelor's,Technology,Delhi,Medium,Unknown,59500,
+Unemployed,55+,PhD,Technology,Hyderabad,Low,1,138300,
+Employed,18-24,High School,Retail,Rural,Unknown,9,43500,
+Unknown,25-34,PhD,Finance,Bangalore,Medium,Unknown,9400,
+Unemployed,18-24,Unknown,Technology,Delhi,Medium,1,34800,
+Unknown,45-54,Bachelor's,Healthcare,Mumbai,Low,24,126400,
+Unemployed,Unknown,High School,Education,Hyderabad,Unknown,Unknown,33200,
+Unemployed,45-54,Bachelor's,Healthcare,Urban,High,25,79900,
+Unemployed,Unknown,Diploma,Education,Hyderabad,High,Unknown,69000,
+Employed,25-34,PhD,Healthcare,Unknown,High,Unknown,101400,
+Unemployed,25-34,High School,Technology,Hyderabad,High,2,46000,
+Unemployed,35-44,High School,Healthcare,Urban,Low,Unknown,131800,
+Unemployed,18-24,High School,Technology,Mumbai,Low,Unknown,149100,
+Unemployed,Unknown,Bachelor's,Finance,Mumbai,Unknown,Unknown,35600,
+Unknown,25-34,PhD,Fintech,Rural,Unknown,27,77100,
+Unemployed,18-24,Bachelor's,Healthcare,Suburban,Medium,Unknown,56400,
+Unemployed,25-34,Bachelor's,Retail,Mumbai,High,18,83000,
+Employed,18-24,Diploma,Technology,Suburban,High,10,21400,2027-01-04
+Employed,Unknown,High School,Technology,Mumbai,Unknown,20,82600,2027-02-04
+Employed,55+,PhD,Finance,Urban,Low,Unknown,106100,2027-03-04
+Employed,18-24,Diploma,Retail,Bangalore,High,17,33200,2027-04-04
+Employed,25-34,High School,Fintech,Hyderabad,Low,24,29900,2027-05-04
+Unemployed,25-34,Bachelor's,Finance,Hyderabad,Medium,Unknown,125600,2027-06-04
+Employed,45-54,Bachelor's,Fintech,Mumbai,Medium,Unknown,33200,2027-07-04
+Unemployed,55+,Diploma,Healthcare,Hyderabad,Medium,Unknown,22700,2027-08-04
+Unemployed,18-24,High School,Fintech,Hyderabad,High,6,138500,2027-09-04
+Employed,18-24,High School,Education,Bangalore,High,25,12100,2027-10-04
+Employed,45-54,Master’s,unknown,Rural,Low,6,33200,2027-11-04
+Unemployed,Unknown,High School,Finance,Rural,High,1,19800,2027-12-04
+Employed,25-34,High School,Technology,Unknown,High,16,119600,
+Unemployed,45-54,Unknown,unknown,Delhi,Low,Unknown,22500,
+Unknown,35-44,Bachelor's,Retail,Rural,Unknown,Unknown,149300,
+Unknown,25-34,High School,Retail,Urban,Low,12,109300,
+Employed,18-24,Bachelor's,Education,Unknown,High,Unknown,112600,
+Employed,25-34,Diploma,Technology,Mumbai,Low,15,132900,
+Employed,25-34,PhD,Healthcare,Urban,Medium,Unknown,33200,
+Unemployed,18-24,PhD,Fintech,Mumbai,High,Unknown,57400,
+Employed,35-44,Unknown,Retail,Mumbai,Medium,1,54900,
+Unemployed,45-54,High School,Retail,Mumbai,Medium,Unknown,33200,
+Unemployed,25-34,PhD,Healthcare,Suburban,Medium,7,68300,
+Employed,35-44,High School,Retail,Bangalore,Low,17,68700,
+Unemployed,25-34,PhD,Healthcare,Urban,Low,10,90800,
+Unknown,45-54,Master’s,Retail,Urban,Unknown,Unknown,91400,
+Unemployed,18-24,Master’s,unknown,Suburban,Low,29,115000,
+Employed,18-24,Bachelor's,Retail,Urban,High,5,87200,
+Unemployed,35-44,Unknown,Fintech,Rural,High,Unknown,100100,
+Unemployed,25-34,Bachelor's,Fintech,Urban,Unknown,Unknown,58000,
+Unemployed,35-44,Diploma,Technology,Suburban,Low,Unknown,33200,2027-01-05
+Unemployed,55+,Bachelor's,Finance,Mumbai,Medium,21,123600,2027-02-05
+Unemployed,35-44,Diploma,Retail,Unknown,High,21,141100,2027-03-05
+Unemployed,45-54,Diploma,Retail,Urban,Medium,Unknown,33200,2027-04-05
+Employed,25-34,Master’s,Retail,Delhi,High,Unknown,80700,2027-05-05
+Unemployed,45-54,Bachelor's,Healthcare,Rural,Low,Unknown,47100,2027-06-05
+Unknown,25-34,Diploma,Healthcare,Delhi,High,6,33200,2027-07-05
+Employed,18-24,Bachelor's,Finance,Bangalore,High,Unknown,33200,2027-08-05
+Employed,35-44,Bachelor's,Healthcare,Unknown,Low,Unknown,50500,2027-09-05
+Employed,Unknown,High School,Finance,Rural,High,Unknown,33200,2027-10-05
+Unemployed,35-44,Unknown,Healthcare,Mumbai,High,Unknown,33200,2027-11-05
+Unemployed,25-34,High School,Education,Urban,High,13,43000,2027-12-05
+Unknown,Unknown,Unknown,Retail,Urban,High,12,41900,
+Unknown,18-24,High School,Retail,Unknown,Low,19,5800,
+Employed,18-24,Diploma,Finance,Delhi,Low,Unknown,149300,
+Employed,18-24,Bachelor's,Healthcare,Delhi,Low,Unknown,6500,
+Employed,25-34,Master’s,Technology,Bangalore,Low,4,122500,
+Employed,25-34,Master’s,Retail,Mumbai,Medium,Unknown,140800,
+Employed,18-24,Bachelor's,Education,Hyderabad,Low,Unknown,33200,
+Unknown,45-54,Master’s,Finance,Delhi,Unknown,Unknown,27100,
+Employed,25-34,High School,Technology,Mumbai,High,Unknown,110800,
+Unemployed,25-34,High School,Technology,Rural,Low,Unknown,18800,
+Unemployed,25-34,Bachelor's,Retail,Delhi,Low,20,33200,
+Unemployed,25-34,High School,Retail,Suburban,Low,19,33200,
+Unemployed,25-34,PhD,Retail,Delhi,Low,29,34700,
+Unemployed,18-24,High School,unknown,Hyderabad,Medium,Unknown,64100,
+Unemployed,Unknown,Master’s,Healthcare,Bangalore,Medium,2,33200,
+Unknown,45-54,Unknown,Technology,Rural,Unknown,Unknown,16400,
+Employed,Unknown,Master’s,Retail,Hyderabad,Low,14,14100,
+Employed,25-34,Bachelor's,Technology,Hyderabad,High,3,82900,
+Employed,35-44,PhD,unknown,Delhi,Low,Unknown,49700,
+Employed,25-34,PhD,Healthcare,Urban,Medium,0,33200,2027-01-06
+Unknown,25-34,Bachelor's,Technology,Bangalore,Medium,Unknown,118600,2027-02-06
+Employed,18-24,Bachelor's,Retail,Urban,Medium,Unknown,33200,2027-03-06
+Unemployed,25-34,Master’s,unknown,Unknown,High,Unknown,33200,2027-04-06
+Employed,18-24,High School,Finance,Bangalore,High,Unknown,88600,2027-05-06
+Employed,45-54,PhD,Healthcare,Suburban,Unknown,Unknown,110000,2027-06-06
+Employed,45-54,Bachelor's,Healthcare,Rural,High,2,20200,2027-07-06
+Employed,45-54,Diploma,Retail,Hyderabad,Medium,27,54800,2027-08-06
+Unemployed,25-34,PhD,Retail,Bangalore,Low,22,33200,2027-09-06
+Unemployed,25-34,Diploma,Education,Hyderabad,Medium,Unknown,33200,2027-10-06
+Unemployed,25-34,PhD,unknown,Urban,High,16,53100,2027-11-06
+Unknown,18-24,Master’s,Retail,Urban,Low,Unknown,39600,2027-12-06
+Unemployed,25-34,Bachelor's,Healthcare,Urban,High,Unknown,33200,
+Employed,25-34,PhD,Finance,Bangalore,Medium,22,60300,
+Unemployed,18-24,Bachelor's,Technology,Delhi,Unknown,15,33200,
+Employed,55+,Master’s,Fintech,Urban,Unknown,Unknown,33200,
+Unemployed,Unknown,Diploma,Healthcare,Suburban,Medium,Unknown,50600,
+Unemployed,45-54,High School,Fintech,Delhi,Unknown,10,33200,
+Employed,Unknown,Master’s,Retail,Hyderabad,Medium,Unknown,115300,
+Employed,18-24,High School,Finance,Hyderabad,High,Unknown,70900,
+Employed,25-34,High School,Retail,Rural,Low,16,26200,
+Unemployed,25-34,Unknown,Fintech,Urban,High,Unknown,145300,
+Unemployed,45-54,Bachelor's,Technology,Unknown,Medium,18,33200,
+Unemployed,55+,Diploma,Retail,Urban,Medium,3,33200,
+Employed,45-54,Bachelor's,Technology,Mumbai,High,14,16400,
+Employed,18-24,PhD,Technology,Bangalore,Unknown,2,88000,
+Employed,25-34,PhD,Education,Rural,Low,Unknown,33200,
+Employed,25-34,High School,Education,Unknown,High,0,98500,
+Employed,18-24,Master’s,Technology,Mumbai,High,Unknown,33200,
+Employed,35-44,High School,Healthcare,Urban,High,Unknown,59000,
+Unemployed,35-44,Master’s,Healthcare,Hyderabad,Low,Unknown,119600,2027-01-07
+Unemployed,35-44,PhD,Retail,Rural,Medium,3,142800,2027-02-07
+Unemployed,25-34,PhD,Fintech,Rural,High,27,28500,2027-03-07
+Employed,18-24,High School,Healthcare,Mumbai,Medium,6,37900,2027-04-07
+Unemployed,35-44,High School,Retail,Hyderabad,Low,4,32100,2027-05-07
+Employed,45-54,Diploma,Finance,Delhi,Medium,9,89800,2027-06-07
+Unemployed,Unknown,Master’s,Healthcare,Rural,Low,Unknown,103100,2027-07-07
+Unemployed,Unknown,Bachelor's,Healthcare,Bangalore,High,Unknown,119700,2027-08-07
+Employed,18-24,PhD,Healthcare,Urban,Unknown,Unknown,33200,2027-09-07
+Unemployed,35-44,Master’s,Technology,Suburban,High,26,72100,2027-10-07
+Employed,45-54,PhD,Fintech,Unknown,Unknown,Unknown,33200,2027-11-07
+Employed,55+,PhD,Technology,Unknown,Medium,12,59400,2027-12-07
+Employed,55+,Bachelor's,Finance,Rural,High,Unknown,100400,
+Employed,Unknown,PhD,Retail,Unknown,Low,Unknown,91200,
+Unemployed,25-34,Master’s,Education,Mumbai,Low,22,89300,
+Employed,18-24,Bachelor's,Healthcare,Rural,Medium,Unknown,45200,
+Employed,18-24,Diploma,unknown,Suburban,Medium,28,132100,
+Employed,25-34,Diploma,Healthcare,Unknown,Low,Unknown,83300,
+Employed,Unknown,Master’s,Healthcare,Mumbai,High,Unknown,40200,
+Unemployed,45-54,PhD,Fintech,Urban,High,9,132200,
+Unemployed,18-24,Master’s,Retail,Bangalore,High,8,139200,
+Unemployed,55+,Master’s,Healthcare,Bangalore,Low,11,34300,
+Unemployed,18-24,High School,Retail,Delhi,Low,10,133700,
+Unemployed,35-44,High School,unknown,Bangalore,Unknown,Unknown,108500,
+Unknown,35-44,Diploma,Finance,Bangalore,Low,Unknown,61700,
+Unemployed,18-24,PhD,Healthcare,Unknown,High,Unknown,79900,
+Unemployed,55+,PhD,Retail,Suburban,Medium,22,125000,
+Unemployed,18-24,High School,Technology,Urban,Unknown,12,95200,
+Employed,55+,Unknown,unknown,Delhi,Unknown,Unknown,124800,
+Employed,25-34,Bachelor's,unknown,Hyderabad,Medium,7,104200,
+Unknown,Unknown,Master’s,Technology,Urban,Low,22,136300,
+Employed,25-34,High School,Retail,Delhi,Low,Unknown,33200,2027-01-08
+Employed,35-44,Master’s,unknown,Bangalore,Medium,Unknown,33200,2027-02-08
+Employed,18-24,Bachelor's,unknown,Rural,High,Unknown,113400,2027-03-08
+Employed,45-54,High School,Technology,Unknown,Low,26,33200,2027-04-08
+Unemployed,45-54,Bachelor's,Healthcare,Rural,Low,24,54900,2027-05-08
+Unknown,18-24,Bachelor's,Technology,Delhi,Medium,9,103000,2027-06-08
+Unemployed,25-34,Bachelor's,Technology,Delhi,Medium,Unknown,86400,2027-07-08
+Employed,18-24,PhD,Technology,Urban,Low,26,76300,2027-08-08
+Unknown,18-24,High School,Retail,Suburban,Low,25,139000,2027-09-08
+Unemployed,18-24,Unknown,Retail,Urban,Medium,27,58600,2027-10-08
+Employed,18-24,Master’s,Retail,Suburban,Low,Unknown,135500,2027-11-08
+Employed,18-24,Diploma,Healthcare,Urban,Unknown,22,68300,2027-12-08
+Unemployed,55+,Bachelor's,Retail,Delhi,Low,1,51700,
+Employed,35-44,Master’s,Finance,Delhi,Medium,Unknown,33200,
+Unemployed,Unknown,PhD,Retail,Rural,Low,0,126100,
+Unknown,18-24,Diploma,Finance,Urban,Unknown,14,93400,
+Employed,55+,Master’s,unknown,Hyderabad,Low,29,33200,
+Unknown,25-34,Master’s,Healthcare,Delhi,High,Unknown,25200,
+Unemployed,25-34,Master’s,Healthcare,Mumbai,Medium,16,114200,
+Unknown,25-34,High School,Retail,Hyderabad,Unknown,12,103700,
+Employed,18-24,Bachelor's,Education,Suburban,Medium,Unknown,76200,
+Employed,Unknown,PhD,unknown,Urban,Medium,3,147900,
+Unemployed,35-44,High School,Finance,Urban,Medium,30,65500,
+Unknown,25-34,Bachelor's,Healthcare,Urban,High,28,149300,
+Unemployed,25-34,Diploma,Healthcare,Suburban,Low,Unknown,33200,
+Employed,25-34,Diploma,Technology,Bangalore,High,23,33200,
+Employed,Unknown,High School,Technology,Rural,High,Unknown,107700,
+Unemployed,45-54,High School,Technology,Hyderabad,Low,Unknown,33200,
+Employed,55+,PhD,unknown,Bangalore,Low,5,142800,
+Unemployed,25-34,PhD,Fintech,Urban,Low,Unknown,77200,
+Employed,35-44,Bachelor's,Technology,Bangalore,Unknown,Unknown,8200,
+Employed,Unknown,Diploma,Fintech,Delhi,High,Unknown,33200,2027-01-09
+Unknown,35-44,Diploma,unknown,Unknown,High,Unknown,38200,2027-02-09
+Unemployed,25-34,Diploma,Education,Unknown,High,Unknown,33200,2027-03-09
+Unemployed,25-34,Bachelor's,Retail,Urban,High,2,15200,2027-04-09
+Employed,55+,Diploma,unknown,Suburban,High,Unknown,33200,2027-05-09
+Unemployed,55+,Master’s,Finance,Delhi,Medium,23,33200,2027-06-09
+Unemployed,18-24,High School,Retail,Mumbai,Low,29,25900,2027-07-09
+Unemployed,35-44,PhD,Healthcare,Unknown,Medium,Unknown,28800,2027-08-09
+Employed,25-34,High School,Finance,Hyderabad,High,Unknown,33200,2027-09-09
+Unemployed,18-24,High School,Retail,Delhi,Low,Unknown,41600,2027-10-09
+Unemployed,Unknown,Bachelor's,Healthcare,Hyderabad,Unknown,16,33200,2027-11-09
+Employed,25-34,Unknown,Retail,Urban,Medium,4,33200,2027-12-09
+Unknown,55+,High School,Retail,Delhi,Medium,Unknown,16900,
+Employed,25-34,Master’s,Healthcare,Urban,High,25,133500,
+Unemployed,25-34,Bachelor's,Retail,Urban,Unknown,Unknown,105500,
+Employed,35-44,Master’s,Fintech,Delhi,Unknown,Unknown,25500,
+Employed,45-54,High School,Healthcare,Unknown,High,7,105400,
+Unknown,25-34,High School,Technology,Mumbai,Unknown,12,34000,
+Unemployed,45-54,High School,Fintech,Mumbai,Low,Unknown,113200,
+Employed,Unknown,PhD,Finance,Rural,Low,27,83600,
+Employed,25-34,Master’s,Healthcare,Suburban,Unknown,3,147900,
+Employed,18-24,PhD,Fintech,Suburban,Unknown,4,17200,
+Unemployed,35-44,High School,Finance,Suburban,Low,27,33200,
+Unemployed,35-44,Master’s,Fintech,Hyderabad,Low,Unknown,7000,
+Employed,25-34,PhD,Retail,Suburban,Medium,21,33200,
+Employed,18-24,Bachelor's,Fintech,Delhi,High,Unknown,33200,
+Unemployed,55+,Master’s,Healthcare,Unknown,High,11,77200,
+Employed,18-24,Bachelor's,Technology,Rural,Medium,Unknown,137500,
+Unemployed,45-54,Diploma,Retail,Suburban,Medium,28,12600,
+Employed,25-34,Bachelor's,Finance,Bangalore,High,18,142900,
+Unemployed,18-24,Bachelor's,Technology,Bangalore,Low,21,33200,2027-01-10
+Unemployed,25-34,Unknown,unknown,Mumbai,Medium,14,33200,2027-02-10
+Employed,18-24,High School,Education,Urban,High,Unknown,33200,2027-03-10
+Employed,35-44,PhD,Technology,Mumbai,Low,23,129200,2027-04-10
+Unknown,25-34,PhD,Retail,Urban,High,8,33200,2027-05-10
+Unknown,25-34,High School,Retail,Bangalore,Low,Unknown,68800,2027-06-10
+Employed,18-24,Diploma,Technology,Urban,High,6,103300,2027-07-10
+Unemployed,25-34,High School,Education,Urban,Medium,14,63800,2027-08-10
+Unknown,Unknown,Unknown,unknown,Suburban,High,11,140300,2027-09-10
+Employed,55+,Bachelor's,Fintech,Rural,Low,Unknown,73000,2027-10-10
+Unemployed,25-34,High School,Healthcare,Hyderabad,Medium,9,114500,2027-11-10
+Employed,18-24,Diploma,Finance,Delhi,Low,13,59500,2027-12-10
+Unemployed,18-24,Unknown,Retail,Hyderabad,Medium,25,43400,2027-13-10
+Employed,Unknown,Bachelor's,Finance,Suburban,Medium,Unknown,17800,2027-14-10
+Employed,45-54,High School,Healthcare,Delhi,Unknown,Unknown,14100,2027-15-10
+Employed,Unknown,Master’s,Healthcare,Urban,Medium,9,33200,2027-16-10
+Employed,Unknown,Master’s,Fintech,Hyderabad,Unknown,Unknown,33200,2027-17-10
+Employed,25-34,Unknown,Healthcare,Urban,High,Unknown,119400,2027-18-10
+Unknown,55+,Master’s,Fintech,Delhi,Low,Unknown,101200,2027-19-10
+Employed,Unknown,PhD,Technology,Rural,Unknown,Unknown,96900,2027-20-10
+Unemployed,Unknown,Unknown,Finance,Hyderabad,High,7,33200,2027-21-10
+Unknown,18-24,Master’s,Finance,Rural,Medium,7,80700,2027-22-10
+Unknown,25-34,Diploma,Education,Rural,Medium,Unknown,30000,2027-23-10
+Unemployed,25-34,Bachelor's,Technology,Suburban,Medium,Unknown,38400,2027-24-10
+Unemployed,55+,Unknown,unknown,Hyderabad,High,11,122000,2027-25-10
+Employed,35-44,Unknown,Technology,Urban,Medium,Unknown,41000,2027-26-10
+Unemployed,25-34,Bachelor's,Technology,Hyderabad,Medium,16,34600,2027-27-10
+Employed,25-34,Master’s,Healthcare,Unknown,Medium,Unknown,33200,2027-28-10
+Employed,18-24,Master’s,Retail,Hyderabad,Unknown,7,148200,2027-29-10
+Unemployed,35-44,High School,Finance,Bangalore,Medium,Unknown,88000,2027-30-10
+Employed,45-54,Bachelor's,Retail,Unknown,Low,26,60000,2027-31-10
+Employed,55+,Bachelor's,Education,Unknown,High,Unknown,78300,2027-01-11
+Employed,35-44,Master’s,Fintech,Unknown,High,22,38900,2027-02-11
+Unknown,25-34,Master’s,unknown,Unknown,High,15,67800,2027-03-11
+Unemployed,25-34,Bachelor's,Retail,Suburban,Unknown,Unknown,33200,2027-04-11
+Unknown,18-24,Bachelor's,Technology,Delhi,Unknown,17,44000,2027-05-11
+Unknown,18-24,High School,unknown,Urban,Medium,Unknown,111900,2027-06-11
+Unemployed,35-44,Unknown,Fintech,Suburban,Medium,19,11500,2027-07-11
+Employed,25-34,Bachelor's,Education,Mumbai,High,Unknown,41600,2027-08-11
+Employed,45-54,Unknown,Retail,Unknown,High,Unknown,28100,2027-09-11
+Employed,25-34,Bachelor's,Fintech,Unknown,Low,Unknown,97500,2027-10-11
+Employed,25-34,Master’s,Technology,Unknown,Low,19,43100,2027-11-11
+Unemployed,18-24,Bachelor's,Finance,Suburban,High,Unknown,128400,2027-12-11
+Unemployed,45-54,Bachelor's,Retail,Bangalore,Unknown,17,127000,2027-13-11
+Employed,18-24,Bachelor's,Finance,Mumbai,High,7,33200,2027-14-11
+Unknown,25-34,Bachelor's,Finance,Urban,Unknown,21,106900,2027-15-11
+Unemployed,45-54,High School,Retail,Unknown,Medium,Unknown,15800,2027-16-11
+Unemployed,35-44,Diploma,Retail,Bangalore,High,Unknown,122700,2027-17-11
+Employed,35-44,PhD,Technology,Urban,Unknown,21,18100,2027-18-11
+Employed,55+,Bachelor's,Technology,Urban,High,20,75100,2027-19-11
+Unemployed,55+,PhD,Retail,Hyderabad,Medium,27,83600,2027-20-11
+Employed,55+,High School,Healthcare,Urban,Low,Unknown,33200,2027-21-11
+Unemployed,18-24,Master’s,Healthcare,Mumbai,Medium,Unknown,120600,2027-22-11
+Unemployed,35-44,Bachelor's,Healthcare,Rural,Unknown,8,40700,2027-23-11
+Employed,25-34,Bachelor's,Education,Unknown,Medium,Unknown,16300,2027-24-11
+Unemployed,18-24,Bachelor's,Fintech,Mumbai,Medium,29,146300,2027-25-11
+Unemployed,18-24,PhD,Fintech,Urban,Low,10,7200,2027-26-11
+Unknown,45-54,High School,Retail,Rural,Medium,0,28900,2027-27-11
+Unemployed,25-34,High School,Education,Suburban,Medium,Unknown,37100,2027-28-11
+Employed,45-54,High School,Retail,Unknown,Low,Unknown,33200,2027-29-11
+Unemployed,35-44,Unknown,Healthcare,Urban,High,5,104200,2027-30-11
+Employed,45-54,Unknown,Healthcare,Urban,High,Unknown,35500,2027-01-12
+Unemployed,45-54,High School,Technology,Hyderabad,High,25,33200,2027-02-12
+Unemployed,45-54,Master’s,Healthcare,Urban,High,Unknown,39500,2027-03-12
+Unemployed,18-24,PhD,Finance,Suburban,High,Unknown,104500,2027-04-12
+Employed,55+,Diploma,Fintech,Urban,High,Unknown,148900,2027-05-12
+Employed,18-24,PhD,Healthcare,Delhi,Unknown,8,83200,2027-06-12
+Employed,25-34,Master’s,Technology,Unknown,Low,Unknown,20000,2027-07-12
+Employed,18-24,High School,Fintech,Urban,High,Unknown,124500,2027-08-12
+Employed,18-24,Unknown,Finance,Mumbai,Low,Unknown,124600,2027-09-12
+Unemployed,18-24,Master’s,Healthcare,Urban,High,9,33200,2027-10-12
+Employed,18-24,High School,Healthcare,Bangalore,Low,Unknown,33200,2027-11-12
+Unemployed,18-24,Diploma,Retail,Urban,Medium,5,33200,2027-12-12
+Unemployed,45-54,High School,Finance,Urban,Low,16,77300,2027-13-12
+Unemployed,45-54,Unknown,Technology,Bangalore,Medium,Unknown,45300,2027-14-12
+Employed,18-24,Unknown,Healthcare,Suburban,Medium,20,33200,2027-15-12
+Employed,18-24,High School,Technology,Unknown,High,Unknown,38600,2027-16-12
+Employed,35-44,High School,unknown,Mumbai,High,Unknown,127700,2027-17-12
+Unemployed,55+,High School,Fintech,Suburban,Unknown,28,43800,2027-18-12
+Employed,25-34,Master’s,Retail,Bangalore,High,30,97500,2027-19-12
+Employed,25-34,PhD,Retail,Unknown,Medium,Unknown,90800,2027-20-12
+Employed,18-24,PhD,Retail,Rural,Low,Unknown,76000,2027-21-12
+Employed,18-24,Master’s,Healthcare,Suburban,High,Unknown,33200,2027-22-12
+Unemployed,25-34,High School,unknown,Rural,Low,17,10300,2027-23-12
+Employed,Unknown,Bachelor's,Technology,Unknown,Medium,Unknown,33200,2027-24-12
+Employed,55+,Bachelor's,unknown,Bangalore,Medium,Unknown,52500,2027-25-12
+Employed,18-24,Bachelor's,Technology,Bangalore,Unknown,22,145500,2027-26-12
+Employed,25-34,Bachelor's,Technology,Unknown,Unknown,Unknown,39200,2027-27-12
+Unemployed,45-54,High School,Education,Urban,Medium,Unknown,124400,2027-28-12
+Unemployed,25-34,Bachelor's,Technology,Hyderabad,Low,10,33200,2027-29-12
+Unemployed,18-24,Bachelor's,Fintech,Unknown,Medium,13,13000,2027-30-12
+Employed,18-24,PhD,Healthcare,Suburban,Medium,Unknown,97900,2027-31-12
+Unemployed,55+,PhD,Technology,Mumbai,Medium,Unknown,33200,2028-01-01
+Unemployed,35-44,Master’s,Healthcare,Urban,High,Unknown,33200,2028-02-01
+Unknown,55+,PhD,Fintech,Delhi,High,Unknown,17100,2028-03-01
+Employed,45-54,Bachelor's,Education,Bangalore,High,3,133900,2028-04-01
+Unemployed,Unknown,Master’s,unknown,Delhi,Medium,Unknown,96500,2028-05-01
+Unemployed,Unknown,High School,Technology,Delhi,High,15,64500,2028-06-01
+Employed,45-54,Bachelor's,Retail,Mumbai,High,3,58500,2028-07-01
+Unemployed,45-54,Bachelor's,Retail,Bangalore,High,3,34200,2028-08-01
+Employed,25-34,Master’s,Education,Suburban,Medium,10,10700,2028-09-01
+Unemployed,55+,PhD,Finance,Hyderabad,Medium,0,46600,2028-10-01
+Unemployed,35-44,High School,Technology,Hyderabad,Unknown,Unknown,119200,2028-11-01
+Employed,25-34,PhD,Finance,Unknown,Medium,Unknown,123900,2028-12-01
+Unemployed,18-24,High School,Retail,Hyderabad,Low,Unknown,10900,
+Employed,Unknown,High School,Retail,Urban,Low,13,67800,
+Unemployed,25-34,Master’s,unknown,Mumbai,High,Unknown,33200,
+Unknown,18-24,Master’s,unknown,Mumbai,High,Unknown,135400,
+Employed,Unknown,Master’s,Retail,Unknown,High,Unknown,65400,
+Unemployed,35-44,Bachelor's,Technology,Unknown,High,10,75600,
+Employed,25-34,High School,Education,Suburban,Medium,Unknown,33200,
+Unknown,45-54,Master’s,Technology,Bangalore,High,20,33200,
+Unemployed,35-44,PhD,Education,Suburban,Medium,Unknown,72800,
+Employed,Unknown,PhD,Healthcare,Urban,Low,1,54000,
+Employed,Unknown,PhD,Education,Mumbai,High,22,68700,
+Unemployed,25-34,Master’s,Fintech,Delhi,Unknown,17,33200,
+Unemployed,25-34,Master’s,Healthcare,Hyderabad,High,25,140800,
+Unemployed,18-24,PhD,Retail,Suburban,Low,Unknown,113400,
+Employed,35-44,Diploma,Technology,Unknown,Unknown,Unknown,54400,
+Unemployed,18-24,Diploma,unknown,Delhi,High,Unknown,33200,
+Employed,35-44,Bachelor's,Healthcare,Rural,Medium,Unknown,54000,
+Unknown,25-34,Diploma,Healthcare,Urban,Medium,Unknown,58000,
+Employed,55+,PhD,Technology,Suburban,Medium,Unknown,33200,
+Unemployed,45-54,Unknown,Healthcare,Suburban,High,25,87300,2028-01-02
+Employed,35-44,PhD,Healthcare,Hyderabad,Low,21,33200,2028-02-02
+Unemployed,35-44,Diploma,Finance,Urban,Medium,Unknown,33200,2028-03-02
+Unemployed,35-44,High School,Technology,Rural,Low,9,64600,2028-04-02
+Employed,55+,Diploma,Retail,Urban,Medium,27,33200,2028-05-02
+Employed,35-44,Master’s,Fintech,Bangalore,High,Unknown,148400,2028-06-02
+Unemployed,Unknown,Unknown,Technology,Bangalore,High,Unknown,33200,2028-07-02
+Employed,25-34,PhD,Finance,Mumbai,Low,19,91700,2028-08-02
+Unknown,25-34,PhD,Healthcare,Suburban,Low,13,33200,2028-09-02
+Unemployed,35-44,Master’s,Healthcare,Urban,Low,24,33200,2028-10-02
+Employed,45-54,Master’s,Healthcare,Rural,Low,Unknown,115200,2028-11-02
+Unemployed,18-24,Master’s,Healthcare,Rural,Medium,Unknown,38500,2028-12-02
+Unemployed,18-24,Bachelor's,Retail,Urban,High,24,104600,
+Unknown,55+,High School,Healthcare,Mumbai,Low,16,90500,
+Employed,Unknown,PhD,Healthcare,Hyderabad,Unknown,Unknown,77400,
+Unemployed,18-24,Bachelor's,Retail,Mumbai,High,Unknown,33800,
+Unemployed,Unknown,PhD,Education,Unknown,Medium,2,42700,
+Unknown,18-24,Unknown,Technology,Bangalore,Low,3,141800,
+Employed,45-54,Unknown,Education,Hyderabad,High,8,50900,
+Employed,Unknown,Unknown,Technology,Rural,Medium,Unknown,89900,
+Employed,45-54,High School,Healthcare,Mumbai,Unknown,Unknown,33200,
+Employed,45-54,PhD,Healthcare,Suburban,High,Unknown,17800,
+Unknown,18-24,Bachelor's,unknown,Bangalore,Medium,Unknown,22700,
+Unknown,18-24,Bachelor's,Technology,Suburban,Unknown,Unknown,46700,
+Unemployed,25-34,PhD,Retail,Unknown,Unknown,16,50900,
+Unemployed,25-34,Master’s,Healthcare,Delhi,Medium,10,33200,
+Unemployed,35-44,High School,Retail,Suburban,Low,2,145300,
+Employed,18-24,Master’s,Technology,Rural,Low,Unknown,63500,
+Employed,18-24,Diploma,Finance,Suburban,Low,Unknown,16100,
+Unemployed,35-44,PhD,Retail,Suburban,Medium,Unknown,105600,2028-01-03
+Employed,35-44,Master’s,Retail,Bangalore,Unknown,Unknown,33200,2028-02-03
+Employed,55+,Diploma,Technology,Bangalore,High,8,51100,2028-03-03
+Employed,45-54,Bachelor's,Retail,Rural,Unknown,Unknown,6400,2028-04-03
+Employed,18-24,PhD,Fintech,Urban,Low,24,33200,2028-05-03
+Unemployed,55+,High School,Healthcare,Rural,High,Unknown,7600,2028-06-03
+Unemployed,55+,Master’s,Education,Suburban,Medium,Unknown,122800,2028-07-03
+Unemployed,18-24,PhD,Finance,Rural,Medium,8,61500,2028-08-03
+Unemployed,55+,High School,Healthcare,Delhi,Unknown,3,33200,2028-09-03
+Employed,35-44,Diploma,Retail,Bangalore,High,2,56700,2028-10-03
+Unknown,25-34,High School,unknown,Urban,Unknown,Unknown,42400,2028-11-03
+Unknown,55+,Bachelor's,Retail,Unknown,High,Unknown,69700,2028-12-03
+Unemployed,Unknown,Bachelor's,Retail,Urban,Medium,1,149600,
+Unemployed,35-44,Master’s,Retail,Urban,Unknown,22,49600,
+Unemployed,55+,Master’s,Retail,Bangalore,Low,Unknown,33200,
+Unemployed,25-34,Bachelor's,Fintech,Delhi,Medium,7,24100,
+Unemployed,25-34,PhD,Technology,Mumbai,High,Unknown,33200,
+Employed,35-44,Master’s,Fintech,Bangalore,High,Unknown,32900,
+Unemployed,25-34,Diploma,Retail,Rural,High,Unknown,114500,
+Employed,25-34,PhD,Finance,Urban,High,28,124800,
+Unemployed,18-24,PhD,Education,Urban,Medium,14,33200,
+Unknown,Unknown,Bachelor's,Technology,Mumbai,Low,Unknown,33200,
+Employed,45-54,Master’s,Retail,Urban,Low,27,33200,
+Employed,Unknown,Bachelor's,Healthcare,Urban,Medium,1,33200,
+Employed,18-24,Bachelor's,Education,Bangalore,Low,Unknown,25900,
+Unknown,35-44,Master’s,Retail,Unknown,Medium,Unknown,32600,
+Unknown,18-24,High School,Technology,Rural,Medium,Unknown,98400,
+Employed,25-34,Unknown,unknown,Mumbai,High,20,102300,
+Unemployed,18-24,Bachelor's,Healthcare,Unknown,Low,Unknown,96200,
+Employed,25-34,PhD,Technology,Mumbai,Low,7,33200,
+Unknown,18-24,Diploma,Retail,Suburban,Low,26,71700,
+Employed,35-44,High School,Retail,Unknown,High,20,146600,2028-01-04
+Unemployed,18-24,High School,unknown,Urban,Low,Unknown,53400,2028-02-04
+Unknown,35-44,Bachelor's,Technology,Hyderabad,Low,27,33200,2028-03-04
+Unemployed,Unknown,Bachelor's,Fintech,Hyderabad,High,18,133500,2028-04-04
+Employed,45-54,Bachelor's,Retail,Bangalore,Low,Unknown,78200,2028-05-04
+Unemployed,18-24,Diploma,Retail,Urban,Low,Unknown,48400,2028-06-04
+Employed,18-24,Unknown,Retail,Mumbai,Low,21,15000,2028-07-04
+Unknown,18-24,Bachelor's,Retail,Bangalore,Unknown,16,77400,2028-08-04
+Unemployed,25-34,Master’s,Retail,Urban,Low,Unknown,147300,2028-09-04
+Unknown,55+,Bachelor's,Finance,Delhi,Unknown,7,14300,2028-10-04
+Unemployed,18-24,PhD,Healthcare,Urban,Low,Unknown,63800,2028-11-04
+Employed,18-24,PhD,Technology,Urban,Low,Unknown,88000,2028-12-04
+Unemployed,Unknown,PhD,Technology,Suburban,Low,Unknown,70700,
+Employed,Unknown,PhD,Finance,Urban,Low,2,33200,
+Employed,25-34,Bachelor's,unknown,Hyderabad,Unknown,Unknown,33200,
+Unemployed,45-54,Bachelor's,Technology,Urban,High,5,33200,
+Unknown,18-24,Unknown,Healthcare,Urban,Medium,26,33200,
+Employed,18-24,Bachelor's,Technology,Unknown,Low,28,33200,
+Unemployed,25-34,PhD,Healthcare,Urban,High,24,26900,
+Employed,18-24,PhD,Retail,Delhi,Unknown,1,59700,
+Unemployed,35-44,PhD,Technology,Delhi,Unknown,9,24900,
+Unknown,25-34,Unknown,Retail,Urban,High,16,50200,
+Unemployed,Unknown,PhD,Technology,Urban,Low,Unknown,28100,
+Employed,18-24,Master’s,Technology,Bangalore,Medium,Unknown,35900,
+Unemployed,25-34,Diploma,Fintech,Urban,Medium,29,45100,
+Employed,55+,High School,Healthcare,Unknown,High,Unknown,33200,
+Unknown,18-24,Master’s,Retail,Mumbai,Low,0,63700,
+Employed,55+,Master’s,Finance,Bangalore,Medium,3,127700,
+Unemployed,Unknown,Master’s,Education,Urban,Unknown,Unknown,55100,
+Unemployed,25-34,Bachelor's,unknown,Urban,Unknown,Unknown,120000,
+Unknown,25-34,PhD,Healthcare,Rural,High,15,33200,2028-01-05
+Unemployed,18-24,PhD,Fintech,Urban,High,20,34900,2028-02-05
+Unknown,Unknown,Master’s,Retail,Delhi,Unknown,Unknown,17300,2028-03-05
+Unemployed,18-24,PhD,Healthcare,Delhi,Unknown,Unknown,90700,2028-04-05
+Employed,25-34,Unknown,Finance,Mumbai,High,Unknown,131900,2028-05-05
+Unemployed,55+,Bachelor's,Retail,Urban,Low,5,74400,2028-06-05
+Employed,25-34,PhD,Education,Urban,Medium,23,105600,2028-07-05
+Employed,25-34,Master’s,Retail,Urban,Unknown,Unknown,129100,2028-08-05
+Employed,55+,High School,Healthcare,Unknown,Medium,Unknown,110400,2028-09-05
+Employed,55+,PhD,Finance,Suburban,Low,22,82800,2028-10-05
+Employed,35-44,High School,Technology,Suburban,Medium,1,26000,2028-11-05
+Unemployed,18-24,High School,Healthcare,Bangalore,High,27,145000,2028-12-05
+Unemployed,35-44,High School,Healthcare,Rural,Medium,20,33200,
+Unemployed,Unknown,Bachelor's,Healthcare,Rural,Low,Unknown,47400,
+Unemployed,45-54,PhD,Retail,Delhi,Low,21,43600,
+Unknown,Unknown,Unknown,Technology,Delhi,Low,Unknown,127400,
+Employed,45-54,Bachelor's,unknown,Hyderabad,Unknown,Unknown,13400,
+Unemployed,18-24,PhD,Finance,Unknown,Medium,14,94300,
+Unemployed,55+,Bachelor's,Education,Mumbai,Medium,28,97000,
+Unemployed,25-34,High School,unknown,Mumbai,High,13,62100,
+Employed,18-24,Bachelor's,Finance,Unknown,High,24,130100,
+Unemployed,18-24,Master’s,Technology,Urban,Low,17,92500,
+Unemployed,18-24,PhD,Education,Delhi,Medium,Unknown,140700,
+Employed,25-34,Master’s,Healthcare,Bangalore,High,Unknown,52700,
+Employed,45-54,PhD,Finance,Delhi,High,10,74700,
+Employed,Unknown,Master’s,Education,Bangalore,Medium,Unknown,142800,
+Employed,35-44,Diploma,Retail,Unknown,Unknown,13,118100,
+Unemployed,25-34,Master’s,unknown,Suburban,High,26,121500,
+Unemployed,18-24,Bachelor's,Technology,Suburban,High,28,27700,
+Employed,18-24,High School,Healthcare,Bangalore,Medium,Unknown,126600,
+Employed,35-44,Master’s,Retail,Rural,Medium,7,25500,
+Employed,45-54,PhD,Retail,Suburban,High,18,143000,2028-01-06
+Employed,18-24,PhD,Finance,Bangalore,Medium,16,106600,2028-02-06
+Unknown,18-24,Bachelor's,Healthcare,Unknown,High,14,84900,2028-03-06
+Unknown,Unknown,High School,Healthcare,Mumbai,Low,21,33200,2028-04-06
+Unemployed,Unknown,High School,Finance,Hyderabad,High,27,51100,2028-05-06
+Unknown,18-24,Bachelor's,Retail,Bangalore,High,11,86200,2028-06-06
+Employed,Unknown,PhD,Healthcare,Urban,Medium,Unknown,133400,2028-07-06
+Unknown,Unknown,Bachelor's,Retail,Urban,Low,Unknown,132700,2028-08-06
+Employed,Unknown,Unknown,unknown,Urban,Low,Unknown,26600,2028-09-06
+Employed,25-34,Bachelor's,Finance,Suburban,Unknown,Unknown,100100,2028-10-06
+Employed,25-34,PhD,Healthcare,Mumbai,Medium,26,49200,2028-11-06
+Unknown,55+,Diploma,Retail,Hyderabad,Medium,Unknown,146000,2028-12-06
+Unemployed,18-24,PhD,Healthcare,Rural,Medium,19,146200,
+Employed,Unknown,Master’s,Fintech,Bangalore,Low,Unknown,51200,
+Employed,18-24,PhD,Retail,Unknown,Low,Unknown,15400,
+Unknown,25-34,Bachelor's,Retail,Delhi,Low,12,14900,
+Unemployed,55+,Bachelor's,Education,Urban,Low,Unknown,9000,
+Employed,25-34,PhD,Finance,Hyderabad,Low,Unknown,113000,
+Employed,25-34,PhD,Technology,Unknown,Unknown,22,102200,
+Unknown,35-44,Master’s,Education,Unknown,Low,Unknown,31600,
+Employed,25-34,High School,Retail,Mumbai,High,22,92500,
+Unemployed,25-34,High School,unknown,Unknown,Medium,Unknown,43300,

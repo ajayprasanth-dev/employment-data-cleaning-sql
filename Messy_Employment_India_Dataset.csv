@@ -1,0 +1,2001 @@
+Status,Age Group,Education,Industry,Location,AI Risk,Years of Experience,Monthly Salary (INR),Date Recorded
+EMPLOYED,25_34,high school,Technology,Urban,,,40700,01-01-2023
+EMPLOYED,18-24,Diploma, Fintech,rural,moderate,,17500,01-02-2023
+EMPLOYED,25_34,High School,Retail,Delhi,Low,16,77600,01-03-2023
+UNEMPLOYED,18-24,Masters,Retail,Urban,Low,30,100200,01-04-2023
+,45-54,Diploma, Fintech,Hyderabad,low,9,19500,01-05-2023
+Unemployed,25_34,PhD,Tech ,Bangalore,HIGH,,54500,01-06-2023
+employed,35 - 44,Master,,Mumbai,moderate,20,136500,01-07-2023
+unemployed,35 - 44,Master,,rural,Low,28,25300,01-08-2023
+employed,35 - 44,Ph.D,Retail,,Medium,0,103600,01-09-2023
+unemployed,55+,Ph.D,Tech ,,,3,126500,01-10-2023
+Unemployed,45-54,Master,,Bangalore,High,,73400,01-11-2023
+unemployed,45-54,High School,Technology,Delhi,HIGH,,27000,01-12-2023
+UNEMPLOYED,35 - 44,High School,Retail,Delhi,,,,1/13/2023
+Employed,18-24,PhD,Tech ,rural,low,,121700,1/14/2023
+,45-54,High School,Health,Urban,low,,132100,1/15/2023
+UNEMPLOYED,18-24,Bachelors,Healthcare,Bangalore,moderate,18,28700,1/16/2023
+Employed,25_34,high school,Retail,urban,low,,109300,1/17/2023
+EMPLOYED,18-24,Ph.D,Tech ,rural,,6,136000,1/18/2023
+UNEMPLOYED,25-34,, Fintech,rural,Low,,62400,1/19/2023
+employed,18 to 24,,Retail,Delhi,moderate,0,101100,1/20/2023
+unemployed,35 - 44,High School,,Hyderabad,low,,108000,1/21/2023
+Unemployed,18 to 24,,Health,Delhi,Medium,5,128000,1/22/2023
+,35 - 44,Bachelors,Health,Hyderabad,High,5,125000,1/23/2023
+EMPLOYED,,Masters,Retail,Delhi,,,,1/24/2023
+Unemployed,25_34,Ph.D,Technology,Hyderabad,moderate,24,107700,1/25/2023
+UNEMPLOYED,,Master,Health,Bangalore,Low,18,,1/26/2023
+EMPLOYED,18-24,,Tech ,rural,Medium,,59000,1/27/2023
+Unemployed,18 to 24,,Healthcare,Delhi,Medium,12,132200,1/28/2023
+unemployed,35 - 44,Bachelors,Education,suburban,,22,80800,1/29/2023
+employed,18-24,Master,Health,Urban,Low,15,13300,1/30/2023
+unemployed,18 to 24,,Health,,HIGH,,23500,1/31/2023
+Unemployed,25_34,high school,Technology,Hyderabad,HIGH,,13100,02-01-2023
+Employed,25_34,High School,Finance,Urban,High,2,134500,02-02-2023
+UNEMPLOYED,45-54,PhD,,Urban,low,8,86800,02-03-2023
+EMPLOYED,18-24,Masters,Finance,,Medium,,31200,02-04-2023
+EMPLOYED,55+,, Fintech,,Low,,106900,02-05-2023
+,18 to 24,Ph.D,Retail,Bangalore,High,,93300,02-06-2023
+employed,18 to 24,High School, Fintech,,low,,73500,02-07-2023
+UNEMPLOYED,25_34,Diploma,Healthcare,,HIGH,9,21500,02-08-2023
+unemployed,18 to 24,High School,Finance,,Medium,,,02-09-2023
+employed,45-54,High School,Health,,Low,3,,02-10-2023
+employed,25-34,Bachelor's, Fintech,Delhi,Low,25,7700,02-11-2023
+unemployed,45-54,Masters,Tech ,Hyderabad,low,10,12900,02-12-2023
+,25-34,PhD,Retail,Bangalore,moderate,1,31800,2/13/2023
+Employed,25_34,High School,Health,Hyderabad,Medium,11,97900,2/14/2023
+unemployed,18-24,PhD, Fintech,rural,moderate,4,14200,2/15/2023
+Unemployed,25_34,PhD,Retail,suburban,High,17,106500,2/16/2023
+,25_34,Diploma,Education,Delhi,Low,,39500,2/17/2023
+,55+,Master,Retail,,HIGH,30,126600,2/18/2023
+UNEMPLOYED,18-24,PhD,Retail,Delhi,HIGH,7,15700,2/19/2023
+employed,35 - 44,,Finance,Delhi,High,27,115700,2/20/2023
+Employed,18 to 24,high school,Retail,Mumbai,Low,,18800,2/21/2023
+employed,45-54,Bachelors,Technology,urban,Low,,127400,2/22/2023
+employed,,Ph.D,Finance,Mumbai,High,26,21600,2/23/2023
+UNEMPLOYED,45-54,Masters,Healthcare,Delhi,moderate,6,42100,2/24/2023
+EMPLOYED,25_34,Masters,Education,Urban,moderate,28,137400,2/25/2023
+employed,25_34,High School,Health,Bangalore,low,,,2/26/2023
+UNEMPLOYED,18-24,high school,Retail,suburban,,,83000,2/27/2023
+unemployed,18 to 24,Master,Health,Delhi,Low,24,126300,2/28/2023
+EMPLOYED,25-34,PhD,Finance,suburban,,,,03-01-2023
+UNEMPLOYED,55+,Diploma,Retail,suburban,moderate,,26300,03-02-2023
+Unemployed,25-34,Masters,Education,Mumbai,Low,24,78900,03-03-2023
+Unemployed,18 to 24,Diploma, Fintech,,High,,51000,03-04-2023
+Employed,18-24,PhD,Technology,urban,moderate,,48900,03-05-2023
+,45-54,Diploma,,urban,moderate,,113200,03-06-2023
+UNEMPLOYED,18 to 24,Masters,Technology,rural,moderate,18,,03-07-2023
+Unemployed,18-24,Ph.D,,,moderate,,,03-08-2023
+UNEMPLOYED,45-54,Bachelor's,Finance,suburban,moderate,17,57200,03-09-2023
+Employed,45-54,Diploma,Health,urban,,,84000,03-10-2023
+Employed,25-34,,,rural,low,,63700,03-11-2023
+unemployed,25-34,Ph.D,Retail,Bangalore,Low,,90500,03-12-2023
+EMPLOYED,35 - 44,high school,Retail,Bangalore,moderate,15,33400,3/13/2023
+Employed,25-34,Ph.D, Fintech,Bangalore,Low,12,,3/14/2023
+unemployed,45-54,Diploma, Fintech,rural,HIGH,20,130700,3/15/2023
+UNEMPLOYED,18 to 24,High School,Retail,Delhi,Medium,,90000,3/16/2023
+unemployed,25_34,High School,,Urban,,27,142200,3/17/2023
+UNEMPLOYED,18 to 24,Masters,Finance,suburban,Low,,125800,3/18/2023
+EMPLOYED,25_34,Bachelors,Technology,urban,Medium,,,3/19/2023
+Unemployed,35 - 44,High School,Education,Mumbai,,,100200,3/20/2023
+UNEMPLOYED,,Master,Tech ,suburban,low,,140200,3/21/2023
+Employed,25-34,Bachelor's,Education,Delhi,low,,17900,3/22/2023
+Employed,25_34,Bachelors,Health,Hyderabad,HIGH,22,79100,3/23/2023
+Unemployed,18-24,Masters,Tech ,rural,Low,,,3/24/2023
+employed,18-24,high school,Health,suburban,Medium,4,46100,3/25/2023
+Employed,25_34,Diploma,Finance,Mumbai,,26,120100,3/26/2023
+,55+,Bachelors,Tech ,Bangalore,moderate,,135100,3/27/2023
+UNEMPLOYED,55+,Bachelors,Retail,Delhi,Low,,56300,3/28/2023
+Unemployed,25-34,PhD,Retail,suburban,HIGH,,105400,3/29/2023
+,55+,Bachelors, Fintech,Delhi,,12,148700,3/30/2023
+EMPLOYED,35 - 44,, Fintech,Hyderabad,low,26,88400,3/31/2023
+EMPLOYED,45-54,Diploma,Finance,Bangalore,HIGH,16,124600,04-01-2023
+employed,35 - 44,Bachelor's, Fintech,Hyderabad,Medium,20,19000,04-02-2023
+EMPLOYED,35 - 44,Master,Retail,Bangalore,HIGH,21,66200,04-03-2023
+Employed,,PhD,Education,Mumbai,HIGH,,81600,04-04-2023
+,25_34,high school,Health,urban,low,,,04-05-2023
+UNEMPLOYED,25_34,Ph.D, Fintech,Hyderabad,Low,26,,04-06-2023
+Employed,25-34,Diploma,Healthcare,Hyderabad,Medium,,,04-07-2023
+Employed,25_34,Ph.D,,urban,High,2,8900,04-08-2023
+Unemployed,25-34,Diploma,Retail,Hyderabad,HIGH,,124300,04-09-2023
+EMPLOYED,45-54,Ph.D,Health,,Low,12,141400,04-10-2023
+employed,18 to 24,PhD,Tech ,Bangalore,,,50600,04-11-2023
+Employed,45-54,,Technology,Delhi,Medium,25,76500,04-12-2023
+unemployed,25-34,high school,Retail,Mumbai,moderate,,,4/13/2023
+employed,,Diploma,Healthcare,rural,moderate,,44200,4/14/2023
+employed,45-54,Bachelors,Retail,urban,High,0,137100,4/15/2023
+Employed,18-24,Master,Health,urban,High,,,4/16/2023
+Unemployed,25-34,Bachelors,Health,urban,Low,16,73800,4/17/2023
+EMPLOYED,25-34,Master,Retail,urban,Low,,,4/18/2023
+Employed,18 to 24,Diploma,Tech ,Delhi,High,,40300,4/19/2023
+,18-24,Masters,Healthcare,Mumbai,Medium,26,25900,4/20/2023
+,25_34,,Education,,HIGH,5,68500,4/21/2023
+unemployed,35 - 44,Ph.D,Finance,Delhi,low,28,44700,4/22/2023
+unemployed,18 to 24,PhD,Health,urban,High,10,20200,4/23/2023
+Employed,25-34,,,urban,Medium,1,130200,4/24/2023
+Employed,25-34,Masters,Education,suburban,low,15,7600,4/25/2023
+unemployed,45-54,High School,Finance,Delhi,low,,109500,4/26/2023
+employed,25-34,PhD,Retail,Urban,Low,,26900,4/27/2023
+EMPLOYED,35 - 44,High School,Technology,rural,Low,7,21000,4/28/2023
+,25_34,,Finance,Urban,Medium,,5400,4/29/2023
+employed,18 to 24,PhD,,Mumbai,High,,35200,4/30/2023
+employed,18-24,Masters,Healthcare,suburban,moderate,,,05-01-2023
+Employed,45-54,PhD,Tech ,Hyderabad,High,18,10500,05-02-2023
+,45-54,High School,Healthcare,Urban,HIGH,0,123100,05-03-2023
+Employed,,High School,Technology,Mumbai,Medium,8,43400,05-04-2023
+employed,45-54,,Finance,,Medium,20,79000,05-05-2023
+EMPLOYED,25_34,Diploma,Education,urban,High,,125300,05-06-2023
+UNEMPLOYED,25_34,Ph.D,Tech ,urban,Medium,23,11500,05-07-2023
+unemployed,55+,PhD,Technology,,Medium,,,05-08-2023
+employed,,High School,Health,Bangalore,Low,6,,05-09-2023
+unemployed,35 - 44,High School,Retail,Hyderabad,moderate,,23500,05-10-2023
+UNEMPLOYED,18 to 24,Bachelor's,Education,Delhi,,,54800,05-11-2023
+,35 - 44,Bachelors, Fintech,,Medium,,140000,05-12-2023
+unemployed,18 to 24,Master, Fintech,Urban,Low,,,5/13/2023
+,45-54,High School,Retail,Urban,HIGH,,110800,5/14/2023
+employed,25_34,Masters,Finance,suburban,,11,67000,5/15/2023
+employed,25_34,high school,Finance,Bangalore,,,109800,5/16/2023
+Employed,45-54,PhD,Healthcare,Urban,low,,,5/17/2023
+employed,18 to 24,Bachelor's,Retail,Bangalore,,18,,5/18/2023
+Unemployed,35 - 44,Masters,Retail,Mumbai,Medium,,65300,5/19/2023
+EMPLOYED,35 - 44,High School,Technology,urban,Low,,76500,5/20/2023
+employed,25-34,,Technology,Hyderabad,Low,5,141000,5/21/2023
+EMPLOYED,18-24,Diploma,Healthcare,Delhi,HIGH,,8000,5/22/2023
+Unemployed,25_34,,Health,Bangalore,,,52800,5/23/2023
+Employed,25_34,Bachelors,Education,suburban,,,96300,5/24/2023
+employed,,,Retail,Bangalore,HIGH,0,103700,5/25/2023
+EMPLOYED,25_34,Bachelors,Education,rural,Low,,100700,5/26/2023
+Unemployed,18 to 24,Masters, Fintech,Urban,HIGH,17,122200,5/27/2023
+unemployed,25-34,high school, Fintech,,moderate,,,5/28/2023
+employed,25-34,,Healthcare,rural,,,22700,5/29/2023
+EMPLOYED,18 to 24,PhD,Healthcare,urban,Medium,28,,5/30/2023
+Unemployed,18-24,Bachelor's,Tech ,Bangalore,moderate,,89900,5/31/2023
+employed,18-24,Master,,Delhi,low,30,65200,06-01-2023
+employed,18-24,High School,Health,Delhi,HIGH,,,06-02-2023
+Employed,25-34,Diploma,Retail,Hyderabad,HIGH,,97100,06-03-2023
+,18 to 24,high school,Education,Bangalore,,5,40400,06-04-2023
+Employed,18 to 24,Masters,Retail,suburban,High,,102600,06-05-2023
+Unemployed,55+,Master,Retail,urban,HIGH,,125900,06-06-2023
+UNEMPLOYED,25_34,, Fintech,Bangalore,,5,135500,06-07-2023
+Employed,55+,Master,Education,rural,Medium,,,06-08-2023
+EMPLOYED,25_34,Bachelors,Education,Hyderabad,,0,22400,06-09-2023
+UNEMPLOYED,45-54,,Health,,moderate,,50000,06-10-2023
+employed,55+,Bachelor's,Health,Urban,,,81200,06-11-2023
+Employed,55+,Masters,Retail,,HIGH,,119200,06-12-2023
+employed,35 - 44,Diploma,Retail,Hyderabad,HIGH,,106600,6/13/2023
+Employed,18 to 24,Masters,Health,Mumbai,moderate,3,44700,6/14/2023
+,25-34,Diploma,Education,Bangalore,moderate,19,37600,6/15/2023
+unemployed,18-24,Bachelors,Health,Hyderabad,HIGH,,131300,6/16/2023
+employed,,PhD,Education,suburban,Medium,,118300,6/17/2023
+employed,25_34,Ph.D,Retail,Urban,low,,75300,6/18/2023
+Unemployed,55+,Diploma,Technology,,HIGH,19,53300,6/19/2023
+unemployed,18-24,Bachelors,Health,urban,low,,88400,6/20/2023
+Unemployed,55+,Master,Education,Mumbai,Low,19,110800,6/21/2023
+unemployed,55+,Bachelors,Education,Hyderabad,Low,28,115100,6/22/2023
+employed,25_34,Bachelors,Education,Hyderabad,,9,11800,6/23/2023
+EMPLOYED,55+,high school,Retail,,HIGH,,41000,6/24/2023
+unemployed,35 - 44,Ph.D,Retail,Urban,HIGH,23,16400,6/25/2023
+unemployed,,Masters,Tech ,Hyderabad,Low,18,80100,6/26/2023
+UNEMPLOYED,25_34,high school,Retail,Urban,,26,,6/27/2023
+Unemployed,45-54,,Retail,Urban,HIGH,,21200,6/28/2023
+unemployed,18-24,high school,Technology,urban,Low,,12500,6/29/2023
+UNEMPLOYED,45-54,PhD,Retail,suburban,High,,70700,6/30/2023
+Unemployed,18-24,high school,Retail,suburban,low,29,96000,07-01-2023
+employed,18-24,Masters,Health,suburban,low,,123200,07-02-2023
+employed,25-34,Master,,suburban,,,,07-03-2023
+Unemployed,35 - 44,Ph.D,Healthcare,Urban,Medium,5,54200,07-04-2023
+Unemployed,55+,Masters,Healthcare,suburban,Medium,,24000,07-05-2023
+UNEMPLOYED,55+,Bachelor's,Health,rural,,,65100,07-06-2023
+,25-34,Masters,,suburban,HIGH,,85900,07-07-2023
+,,Bachelor's,Health,suburban,HIGH,,67000,07-08-2023
+unemployed,55+,Bachelor's,Finance,Mumbai,moderate,,114100,07-09-2023
+EMPLOYED,25-34,High School,Education,Mumbai,Medium,,30100,07-10-2023
+Unemployed,,Bachelor's,Technology,Bangalore,Low,17,139100,07-11-2023
+unemployed,,High School,Retail,rural,High,,140500,07-12-2023
+Unemployed,18 to 24,Bachelors,Health,Hyderabad,Low,,60500,7/13/2023
+Employed,18-24,High School,Tech ,Delhi,Low,,58000,7/14/2023
+employed,,Diploma,Finance,Mumbai,moderate,24,118200,7/15/2023
+employed,18-24,High School,Tech ,Mumbai,High,29,77200,7/16/2023
+Employed,45-54,Bachelor's,Finance,urban,High,24,96400,7/17/2023
+employed,25-34,Bachelor's,Technology,suburban,Medium,14,,7/18/2023
+Unemployed,18 to 24,Master,Retail,Delhi,High,,,7/19/2023
+Employed,55+,Diploma,Education,Urban,low,,116300,7/20/2023
+EMPLOYED,45-54,Bachelor's,Retail,,Medium,29,,7/21/2023
+employed,18-24,,Education,Mumbai,Medium,,66400,7/22/2023
+,25-34,Diploma, Fintech,Mumbai,Medium,13,32900,7/23/2023
+unemployed,35 - 44,,Health,Urban,Medium,,125900,7/24/2023
+EMPLOYED,18-24,,,Urban,moderate,22,82700,7/25/2023
+,55+,Bachelors,Retail,Bangalore,HIGH,6,,7/26/2023
+unemployed,35 - 44,,,rural,,28,102300,7/27/2023
+EMPLOYED,25_34,PhD,Health,Delhi,HIGH,,121300,7/28/2023
+,18-24,PhD,Education,,Low,20,64500,7/29/2023
+unemployed,25-34,Diploma,Retail,Urban,Low,,75200,7/30/2023
+unemployed,45-54,Bachelor's,Health,rural,moderate,11,74200,7/31/2023
+Unemployed,55+,Masters,Tech ,suburban,moderate,18,127100,08-01-2023
+employed,25-34,high school,Education,rural,High,14,68600,08-02-2023
+EMPLOYED,25-34,Diploma,Health,Delhi,,,,08-03-2023
+,25_34,PhD,Technology,Mumbai,,,37700,08-04-2023
+employed,35 - 44,Bachelor's,Health,Delhi,low,,76000,08-05-2023
+Employed,,PhD,Education,Delhi,High,24,,08-06-2023
+EMPLOYED,55+,Ph.D,Education,Hyderabad,HIGH,21,31500,08-07-2023
+unemployed,25_34,Bachelors,Healthcare,rural,Low,,126700,08-08-2023
+UNEMPLOYED,55+,Ph.D,Finance,Hyderabad,,0,,08-09-2023
+,35 - 44,Diploma,Tech ,Mumbai,Low,13,6500,08-10-2023
+,45-54,Bachelors,Retail,Hyderabad,HIGH,,45500,08-11-2023
+Employed,18-24,Bachelor's,Retail,Hyderabad,Medium,20,22300,08-12-2023
+,18 to 24,,Technology,Urban,HIGH,,6500,8/13/2023
+UNEMPLOYED,45-54,high school,Health,Urban,High,,,8/14/2023
+Employed,25_34,Master,Technology,Hyderabad,High,27,,8/15/2023
+Unemployed,,,Retail,urban,High,22,107400,8/16/2023
+unemployed,,Bachelor's,Technology,Bangalore,Low,,83800,8/17/2023
+unemployed,18 to 24,high school,Retail,Delhi,HIGH,25,70400,8/18/2023
+EMPLOYED,25_34,Ph.D,Tech ,Hyderabad,Low,2,105700,8/19/2023
+Unemployed,35 - 44,Diploma,,Mumbai,moderate,10,11300,8/20/2023
+EMPLOYED,25-34,high school,Education,,moderate,,,8/21/2023
+UNEMPLOYED,45-54,,Healthcare,Urban,High,22,,8/22/2023
+Unemployed,18 to 24,Bachelor's,Finance,Delhi,High,7,17600,8/23/2023
+unemployed,,Master,Retail,urban,moderate,,8000,8/24/2023
+Employed,,Masters,Finance,Delhi,HIGH,29,,8/25/2023
+employed,45-54,,Education,Mumbai,Low,28,7100,8/26/2023
+unemployed,18-24,Ph.D,Tech ,,Low,27,35500,8/27/2023
+unemployed,45-54,PhD,Finance,,Low,0,96600,8/28/2023
+EMPLOYED,45-54,Ph.D,Tech ,,HIGH,,136200,8/29/2023
+employed,,Masters,Healthcare,,HIGH,15,35100,8/30/2023
+unemployed,,Bachelor's,Education,Mumbai,High,,39900,8/31/2023
+employed,,Diploma,Retail,Bangalore,High,,77600,09-01-2023
+,18-24,Masters,Retail,Delhi,,7,15000,09-02-2023
+,18 to 24,Bachelor's,Healthcare,urban,Low,,92500,09-03-2023
+unemployed,25-34,Masters,Healthcare,rural,High,,106800,09-04-2023
+Unemployed,18 to 24,Bachelors,Tech ,Urban,Medium,,79900,09-05-2023
+,25_34,Bachelor's, Fintech,Bangalore,moderate,,125300,09-06-2023
+UNEMPLOYED,25-34,Bachelor's, Fintech,Hyderabad,High,,,09-07-2023
+unemployed,25-34,Master,Tech ,Hyderabad,Medium,23,102200,09-08-2023
+employed,45-54,Bachelors,,Urban,High,,82300,09-09-2023
+employed,25-34,Ph.D,Healthcare,Mumbai,low,23,102800,09-10-2023
+employed,18-24,,Education,suburban,High,17,84100,09-11-2023
+employed,18 to 24,Master,Health,Hyderabad,low,6,68500,09-12-2023
+Unemployed,,High School, Fintech,Hyderabad,Medium,,,9/13/2023
+,18-24,Bachelor's,Tech ,suburban,moderate,1,126900,9/14/2023
+EMPLOYED,,high school,,Urban,moderate,6,120300,9/15/2023
+Employed,18 to 24,Master,Tech ,urban,Low,,37000,9/16/2023
+Employed,25_34,PhD,Retail,Bangalore,HIGH,,119400,9/17/2023
+EMPLOYED,18 to 24,Ph.D,Healthcare,rural,,30,144200,9/18/2023
+Employed,,Bachelors,Finance,,moderate,29,37500,9/19/2023
+employed,35 - 44,Diploma,Health,,Medium,,26100,9/20/2023
+UNEMPLOYED,35 - 44,Master,Finance,,,3,104000,9/21/2023
+EMPLOYED,45-54,high school,Education,Bangalore,High,6,66200,9/22/2023
+unemployed,18 to 24,Diploma, Fintech,,moderate,8,106700,9/23/2023
+unemployed,55+,Bachelors, Fintech,Hyderabad,Medium,5,88000,9/24/2023
+EMPLOYED,25-34,Bachelors,Tech ,Hyderabad,HIGH,26,103000,9/25/2023
+EMPLOYED,18-24,Ph.D,,suburban,High,13,114200,9/26/2023
+employed,25_34,PhD,Retail,suburban,Low,,8900,9/27/2023
+,45-54,Ph.D,Health,rural,moderate,,44300,9/28/2023
+,,Ph.D,Tech ,,low,,104400,9/29/2023
+Unemployed,45-54,Ph.D,Retail,,HIGH,0,,9/30/2023
+Employed,,Diploma,Retail,Urban,,14,129800,10-01-2023
+,25_34,Bachelors,Retail,Mumbai,High,,66100,10-02-2023
+EMPLOYED,18-24,Bachelors,Finance,Bangalore,Low,,114500,10-03-2023
+Unemployed,18 to 24,high school,Retail,Mumbai,Low,,112900,10-04-2023
+employed,18-24,Ph.D,,Mumbai,low,3,88300,10-05-2023
+Employed,18 to 24,Bachelor's,Retail,rural,HIGH,,34400,10-06-2023
+EMPLOYED,25_34,high school,Retail,Delhi,Low,26,144200,10-07-2023
+Employed,45-54,Bachelors,Tech ,suburban,low,,8700,10-08-2023
+UNEMPLOYED,18-24,Masters,Tech ,Urban,moderate,,13900,10-09-2023
+unemployed,18-24,,Healthcare,,Low,4,,10-10-2023
+unemployed,25_34,high school, Fintech,Mumbai,,,,10-11-2023
+employed,18 to 24,Bachelors, Fintech,urban,High,17,78200,10-12-2023
+unemployed,45-54,Diploma,Tech ,Bangalore,HIGH,,135100,10/13/2023
+UNEMPLOYED,18-24,Bachelors,Education,urban,moderate,,,10/14/2023
+EMPLOYED,35 - 44,Ph.D,,suburban,Low,,,10/15/2023
+Employed,55+,PhD, Fintech,suburban,Medium,7,109300,10/16/2023
+unemployed,25-34,Diploma,,Delhi,High,,57800,10/17/2023
+EMPLOYED,25_34,Masters,,Mumbai,High,,,10/18/2023
+,18 to 24,Bachelors,Health,,High,,113000,10/19/2023
+Employed,25-34,Bachelor's,Retail,Delhi,HIGH,,32100,10/20/2023
+UNEMPLOYED,18-24,High School, Fintech,Mumbai,Low,3,12600,10/21/2023
+employed,25_34,Diploma,Retail,Hyderabad,HIGH,,71800,10/22/2023
+Unemployed,25_34,PhD,Technology,Hyderabad,low,22,,10/23/2023
+employed,25_34,Ph.D,Tech ,Urban,moderate,,101500,10/24/2023
+EMPLOYED,25_34,Master,Health,Bangalore,,30,30500,10/25/2023
+,18 to 24,Bachelor's,Healthcare,suburban,low,12,78300,10/26/2023
+Unemployed,18-24,Masters,,Urban,High,24,98200,10/27/2023
+EMPLOYED,45-54,Bachelor's,Education,suburban,,22,105000,10/28/2023
+UNEMPLOYED,25_34,PhD,Health,urban,High,21,141700,10/29/2023
+Employed,35 - 44,Bachelors, Fintech,suburban,,,146900,10/30/2023
+EMPLOYED,55+,Bachelors,Retail,urban,Medium,,22100,10/31/2023
+,45-54,high school,Health,Hyderabad,,13,83800,11-01-2023
+Unemployed,18-24,PhD,,Delhi,Medium,,133600,11-02-2023
+Employed,18-24,high school,Retail,rural,Low,15,102800,11-03-2023
+employed,45-54,Ph.D,Finance,urban,HIGH,25,89300,11-04-2023
+Unemployed,25-34,Master,Healthcare,urban,Low,,61200,11-05-2023
+Unemployed,18 to 24,Bachelors,Technology,Delhi,,2,108300,11-06-2023
+Unemployed,25_34,high school,,urban,HIGH,,128500,11-07-2023
+Employed,18-24,PhD,,Urban,High,,117600,11-08-2023
+employed,25-34,High School,Retail,rural,Medium,,21400,11-09-2023
+UNEMPLOYED,35 - 44,,Technology,urban,Low,6,137300,11-10-2023
+UNEMPLOYED,55+,PhD, Fintech,Bangalore,Low,,62300,11-11-2023
+EMPLOYED,18-24,High School,Health,Mumbai,,15,88500,11-12-2023
+unemployed,,high school,Education,,Low,,,11/13/2023
+unemployed,25-34,PhD, Fintech,Hyderabad,Low,23,141200,11/14/2023
+UNEMPLOYED,18 to 24,Master,Finance,,low,,142300,11/15/2023
+,25_34,Ph.D,Education,Mumbai,low,1,115000,11/16/2023
+UNEMPLOYED,55+,Masters,Tech ,Bangalore,High,21,,11/17/2023
+EMPLOYED,45-54,PhD, Fintech,suburban,moderate,0,89600,11/18/2023
+Unemployed,35 - 44,Masters,Education,suburban,moderate,0,42700,11/19/2023
+employed,25_34,Bachelor's,Education,Mumbai,low,18,,11/20/2023
+Employed,55+,Masters, Fintech,rural,Medium,25,38000,11/21/2023
+Unemployed,18 to 24,High School,Healthcare,Delhi,moderate,20,39800,11/22/2023
+,45-54,,,Hyderabad,Medium,1,31000,11/23/2023
+EMPLOYED,35 - 44,Bachelors, Fintech,,High,12,61500,11/24/2023
+EMPLOYED,35 - 44,Masters,,suburban,Medium,28,56800,11/25/2023
+employed,35 - 44,PhD,Healthcare,suburban,,7,15900,11/26/2023
+Unemployed,55+,Diploma,Retail,Urban,moderate,20,96600,11/27/2023
+unemployed,55+,Diploma,Tech ,Delhi,High,,,11/28/2023
+UNEMPLOYED,25-34,Ph.D,Healthcare,Bangalore,,,96100,11/29/2023
+employed,35 - 44,Diploma,,rural,High,,,11/30/2023
+Employed,18-24,Bachelor's,Finance,Bangalore,,26,72400,12-01-2023
+Unemployed,55+,PhD,,Delhi,Medium,,143000,12-02-2023
+employed,35 - 44,Master,Health,Hyderabad,High,,35700,12-03-2023
+,,Bachelor's,,suburban,High,9,,12-04-2023
+UNEMPLOYED,18-24,,Retail,urban,,13,8700,12-05-2023
+,25_34,Diploma,Technology,,High,22,141800,12-06-2023
+unemployed,35 - 44,,Health,urban,Low,,21500,12-07-2023
+UNEMPLOYED,35 - 44,High School,Finance,,Medium,4,126000,12-08-2023
+employed,,Ph.D,Healthcare,Hyderabad,Medium,,,12-09-2023
+employed,25-34,Masters,,,Medium,,92700,12-10-2023
+Unemployed,25-34,PhD,Retail,Urban,moderate,,,12-11-2023
+unemployed,25_34,Master, Fintech,Delhi,High,,139900,12-12-2023
+EMPLOYED,55+,Ph.D,Retail,urban,High,,26900,12/13/2023
+Unemployed,18 to 24,Master,Tech ,Mumbai,Low,16,,12/14/2023
+EMPLOYED,25_34,Bachelor's,,urban,High,3,5400,12/15/2023
+UNEMPLOYED,55+,high school,Finance,,Low,,81100,12/16/2023
+UNEMPLOYED,55+,Bachelors,Education,Mumbai,Medium,16,,12/17/2023
+UNEMPLOYED,45-54,,Retail,Bangalore,HIGH,14,139700,12/18/2023
+unemployed,45-54,Bachelor's, Fintech,suburban,low,,112900,12/19/2023
+EMPLOYED,55+,Master,,Mumbai,moderate,30,109900,12/20/2023
+Employed,18 to 24,high school,Finance,suburban,Medium,,112400,12/21/2023
+Employed,,Bachelors,,suburban,moderate,26,108300,12/22/2023
+Employed,18-24,PhD,Education,Delhi,HIGH,,71400,12/23/2023
+UNEMPLOYED,,Bachelors,Education,urban,moderate,,17600,12/24/2023
+Unemployed,18 to 24,Masters,Education,suburban,Low,10,51000,12/25/2023
+Unemployed,25_34,High School,Finance,Delhi,HIGH,,109800,12/26/2023
+Unemployed,18 to 24,Masters,Finance,Mumbai,High,,111300,12/27/2023
+,18 to 24,Master,Education,,Medium,22,92900,12/28/2023
+,55+,,Technology,urban,High,24,28100,12/29/2023
+Employed,35 - 44,Bachelor's,Education,suburban,low,16,100400,12/30/2023
+EMPLOYED,45-54,PhD,Finance,suburban,,30,,12/31/2023
+employed,25_34,Bachelors,Retail,Bangalore,low,,138600,01-01-2024
+unemployed,25-34,High School,Healthcare,Hyderabad,moderate,11,,01-02-2024
+,18-24,Bachelors,Healthcare,Delhi,moderate,30,40100,01-03-2024
+employed,55+,Bachelor's,Health,Delhi,moderate,,104800,01-04-2024
+Unemployed,35 - 44,Master,,Bangalore,low,7,95700,01-05-2024
+,,high school,Finance,Hyderabad,,,36700,01-06-2024
+EMPLOYED,,high school,Retail,Bangalore,,28,,01-07-2024
+UNEMPLOYED,45-54,Ph.D,Education,suburban,High,13,,01-08-2024
+Unemployed,45-54,Diploma,Healthcare,Hyderabad,High,,116000,01-09-2024
+Unemployed,45-54,Master,Education,rural,moderate,2,29300,01-10-2024
+UNEMPLOYED,18 to 24,high school,,Bangalore,HIGH,,24700,01-11-2024
+employed,55+,PhD,Retail,Mumbai,low,,36200,01-12-2024
+UNEMPLOYED,25_34,Masters,Education,Delhi,Medium,10,17800,1/13/2024
+unemployed,18-24,Master,Health,Urban,Medium,11,52900,1/14/2024
+unemployed,35 - 44,Masters,Retail,,low,,141000,1/15/2024
+UNEMPLOYED,45-54,high school,Retail,rural,HIGH,,90300,1/16/2024
+employed,25-34,,Finance,Urban,,30,139000,1/17/2024
+Employed,35 - 44,Bachelors,Technology,Bangalore,HIGH,,63200,1/18/2024
+unemployed,,Ph.D,Tech ,urban,moderate,,94400,1/19/2024
+unemployed,35 - 44,Ph.D,Technology,Delhi,low,0,34800,1/20/2024
+,25_34,Master,Finance,rural,HIGH,,61200,1/21/2024
+Employed,35 - 44,,Health,rural,HIGH,29,138400,1/22/2024
+Employed,18-24,high school,Technology,Urban,Medium,,97300,1/23/2024
+UNEMPLOYED,18-24,High School,Healthcare,Mumbai,moderate,29,64300,1/24/2024
+employed,25_34,Bachelor's,,Bangalore,moderate,,59100,1/25/2024
+UNEMPLOYED,,Masters,Retail,suburban,,19,92700,1/26/2024
+UNEMPLOYED,25_34,Masters,Retail,urban,moderate,24,64900,1/27/2024
+unemployed,18 to 24,Masters,Tech ,Delhi,HIGH,,45800,1/28/2024
+,25-34,Masters,Retail,Urban,High,26,120000,1/29/2024
+Employed,35 - 44,,Tech ,Mumbai,HIGH,11,134400,1/30/2024
+unemployed,25_34,Bachelor's,Education,Bangalore,Low,1,106500,1/31/2024
+Unemployed,55+,Master,,Bangalore,,,140000,02-01-2024
+EMPLOYED,18 to 24,Masters,Retail,Urban,Low,16,,02-02-2024
+,18-24,Master,Education,Delhi,Medium,,,02-03-2024
+Employed,45-54,Bachelor's,Education,Hyderabad,low,,86300,02-04-2024
+unemployed,35 - 44,PhD,Retail,suburban,moderate,,39500,02-05-2024
+Unemployed,25_34,,Retail,Delhi,Medium,,71000,02-06-2024
+Unemployed,18 to 24,,Health,,low,29,,02-07-2024
+employed,,Master,Healthcare,Delhi,moderate,,131000,02-08-2024
+employed,18-24,Ph.D,Education,Mumbai,High,,42600,02-09-2024
+,18 to 24,Bachelor's,Technology,Mumbai,HIGH,10,86700,02-10-2024
+unemployed,18 to 24,Bachelor's,Education,urban,HIGH,,,02-11-2024
+Employed,25_34,Masters,,rural,moderate,,21500,02-12-2024
+unemployed,,Diploma,,rural,Low,15,100400,2/13/2024
+employed,45-54,Master,Technology,Mumbai,High,,,2/14/2024
+EMPLOYED,45-54,Ph.D,Retail,rural,,15,111300,2/15/2024
+Employed,45-54,high school, Fintech,rural,High,,,2/16/2024
+EMPLOYED,,Masters,Finance,Urban,HIGH,23,100900,2/17/2024
+Employed,25_34,,Education,Delhi,,,36600,2/18/2024
+Unemployed,18-24,Ph.D,Retail,suburban,High,5,46300,2/19/2024
+employed,25_34,Ph.D,Tech ,suburban,Medium,19,,2/20/2024
+unemployed,25_34,PhD,Tech ,Urban,Medium,,,2/21/2024
+Employed,,Masters,Tech ,rural,Low,,115600,2/22/2024
+UNEMPLOYED,45-54,PhD,Retail,,low,,,2/23/2024
+UNEMPLOYED,,high school,Healthcare,suburban,moderate,30,8600,2/24/2024
+,35 - 44,high school,Education,Bangalore,High,,117600,2/25/2024
+EMPLOYED,35 - 44,high school,Finance,Bangalore,low,,12400,2/26/2024
+EMPLOYED,45-54,Bachelors,Education,Hyderabad,HIGH,5,119200,2/27/2024
+UNEMPLOYED,18 to 24,Master,Tech ,Hyderabad,High,,109300,2/28/2024
+employed,45-54,Master,Retail,Hyderabad,moderate,,84700,2/29/2024
+Employed,18-24,Bachelors, Fintech,Urban,low,,9100,03-01-2024
+Employed,,Bachelors,Education,Urban,,9,88800,03-02-2024
+UNEMPLOYED,25-34,Bachelor's,Tech ,Hyderabad,moderate,2,16000,03-03-2024
+EMPLOYED,25-34,high school,Retail,,Low,,58000,03-04-2024
+unemployed,18 to 24,Master,Education,suburban,low,6,18300,03-05-2024
+UNEMPLOYED,55+,Bachelor's,Tech ,rural,Medium,,,03-06-2024
+unemployed,18 to 24,Bachelor's,Healthcare,suburban,High,,,03-07-2024
+Employed,18 to 24,high school, Fintech,,HIGH,,,03-08-2024
+Unemployed,18-24,High School,Education,Hyderabad,Low,20,14700,03-09-2024
+EMPLOYED,18 to 24,high school,Retail,Bangalore,low,21,,03-10-2024
+Employed,18 to 24,High School,Healthcare,urban,Medium,,117800,03-11-2024
+unemployed,55+,Masters, Fintech,Bangalore,moderate,,50800,03-12-2024
+unemployed,55+,Diploma,Health,Delhi,HIGH,4,73300,3/13/2024
+EMPLOYED,25_34,Master,Health,Bangalore,Low,,17700,3/14/2024
+Unemployed,25_34,Masters, Fintech,Urban,moderate,3,,3/15/2024
+employed,45-54,Bachelors,Retail,Hyderabad,High,23,120500,3/16/2024
+Employed,25-34,PhD, Fintech,urban,low,,15000,3/17/2024
+employed,,Master,Technology,Mumbai,low,14,21300,3/18/2024
+UNEMPLOYED,45-54,Bachelors,,Delhi,low,,116000,3/19/2024
+Employed,18 to 24,Masters,Technology,suburban,Low,16,,3/20/2024
+UNEMPLOYED,18-24,,Finance,rural,HIGH,7,121300,3/21/2024
+EMPLOYED,,Diploma,Retail,Delhi,Medium,3,103300,3/22/2024
+EMPLOYED,25-34,PhD,Technology,Urban,HIGH,29,90500,3/23/2024
+,45-54,high school,Healthcare,Mumbai,,4,131700,3/24/2024
+,25_34,High School,,Bangalore,Medium,,20600,3/25/2024
+employed,25_34,Bachelor's,Health,Mumbai,HIGH,,135400,3/26/2024
+unemployed,25_34,PhD,Retail,Urban,High,,47700,3/27/2024
+EMPLOYED,,High School,Tech ,Bangalore,,19,130300,3/28/2024
+EMPLOYED,25-34,High School,Health,urban,High,29,144500,3/29/2024
+unemployed,18 to 24,High School,,Mumbai,moderate,,106600,3/30/2024
+,,Bachelors,Finance,Delhi,High,30,75200,3/31/2024
+UNEMPLOYED,35 - 44,Masters,Tech ,suburban,HIGH,,5100,04-01-2024
+,35 - 44,PhD,Health,Hyderabad,low,7,145100,04-02-2024
+,25_34,High School,Healthcare,,moderate,,57500,04-03-2024
+EMPLOYED,25_34,Master, Fintech,urban,HIGH,,74500,04-04-2024
+UNEMPLOYED,55+,Master, Fintech,suburban,HIGH,,105900,04-05-2024
+,,Diploma,Tech ,Mumbai,HIGH,17,28200,04-06-2024
+UNEMPLOYED,45-54,PhD,Technology,Delhi,Medium,,84500,04-07-2024
+UNEMPLOYED,55+,high school,Healthcare,Bangalore,HIGH,,147100,04-08-2024
+,25-34,Bachelor's,Tech ,suburban,High,17,10500,04-09-2024
+Employed,45-54,,Finance,urban,Low,16,86900,04-10-2024
+Unemployed,25-34,Bachelor's, Fintech,Hyderabad,Low,,105200,04-11-2024
+EMPLOYED,35 - 44,,Technology,urban,,,,04-12-2024
+employed,55+,Ph.D,Health,Urban,moderate,,134500,4/13/2024
+,35 - 44,,Education,rural,High,,147200,4/14/2024
+unemployed,35 - 44,PhD,Retail,,low,,81500,4/15/2024
+Employed,55+,Bachelor's,Tech ,Mumbai,moderate,5,16200,4/16/2024
+Employed,35 - 44,high school,Technology,Bangalore,moderate,20,136000,4/17/2024
+employed,,high school, Fintech,Delhi,,,,4/18/2024
+UNEMPLOYED,18-24,,Retail,Bangalore,HIGH,,29800,4/19/2024
+Unemployed,25_34,Diploma,Retail,Bangalore,,5,,4/20/2024
+employed,55+,Ph.D,,Hyderabad,moderate,22,115100,4/21/2024
+Employed,45-54,,Health,suburban,moderate,0,75100,4/22/2024
+employed,25_34,Bachelor's,Health,Urban,HIGH,17,98200,4/23/2024
+Unemployed,55+,Ph.D,,suburban,High,18,86000,4/24/2024
+Employed,45-54,Bachelor's,Education,,High,6,29900,4/25/2024
+employed,25-34,Bachelors,Health,,Low,1,114500,4/26/2024
+Unemployed,45-54,PhD,Technology,urban,moderate,25,,4/27/2024
+UNEMPLOYED,35 - 44,Bachelors,Technology,,moderate,,67500,4/28/2024
+Unemployed,,Diploma,Finance,,,,149000,4/29/2024
+employed,18-24,Ph.D,Health,urban,High,26,6800,4/30/2024
+Employed,25-34,Bachelor's, Fintech,Bangalore,High,26,64900,05-01-2024
+UNEMPLOYED,18 to 24,Bachelors,Retail,urban,High,7,146300,05-02-2024
+unemployed,35 - 44,Bachelors,Healthcare,suburban,moderate,,55600,05-03-2024
+employed,18-24,Diploma,Finance,urban,low,,,05-04-2024
+employed,,Diploma,Retail,,HIGH,,,05-05-2024
+EMPLOYED,18 to 24,Bachelors,Finance,Mumbai,Low,29,51100,05-06-2024
+unemployed,35 - 44,Masters,Retail,Urban,High,16,11000,05-07-2024
+Employed,55+,PhD,Tech ,Urban,Medium,19,62800,05-08-2024
+unemployed,18 to 24,Bachelors,Health,Delhi,Medium,,,05-09-2024
+EMPLOYED,18-24,Bachelor's,Technology,urban,High,26,46000,05-10-2024
+EMPLOYED,18-24,Masters,Education,Urban,moderate,24,,05-11-2024
+Employed,55+,Masters,Tech ,Mumbai,moderate,0,105500,05-12-2024
+,,Bachelor's,Finance,suburban,HIGH,,62600,5/13/2024
+employed,25_34,High School,Retail,Urban,HIGH,,60200,5/14/2024
+UNEMPLOYED,55+,Bachelors,,suburban,low,5,87200,5/15/2024
+employed,35 - 44,PhD,Retail,Mumbai,,,118000,5/16/2024
+unemployed,,Ph.D,Healthcare,urban,HIGH,,,5/17/2024
+EMPLOYED,55+,Diploma,Education,Urban,Low,5,17400,5/18/2024
+Employed,25-34,Ph.D, Fintech,Urban,,27,,5/19/2024
+,25_34,Ph.D,Health,Hyderabad,Medium,10,,5/20/2024
+employed,25-34,Ph.D,Healthcare,Mumbai,,11,137600,5/21/2024
+,18 to 24,Ph.D,Health,rural,low,14,,5/22/2024
+Employed,18-24,,Health,rural,HIGH,,68800,5/23/2024
+Employed,,Bachelors,Retail,urban,HIGH,,107000,5/24/2024
+employed,45-54,High School,,Urban,Low,7,63500,5/25/2024
+Unemployed,18 to 24,high school,,Bangalore,low,0,47400,5/26/2024
+,,Bachelor's, Fintech,urban,Medium,3,99800,5/27/2024
+Employed,35 - 44,Masters,Technology,suburban,Medium,23,34900,5/28/2024
+EMPLOYED,35 - 44,Ph.D, Fintech,Bangalore,Medium,,82800,5/29/2024
+employed,18 to 24,Ph.D,Technology,Mumbai,,27,107800,5/30/2024
+unemployed,18-24,Bachelor's,Education,Urban,Low,,54500,5/31/2024
+Employed,18-24,Ph.D,Retail,Urban,moderate,,47100,06-01-2024
+Employed,,Diploma,Retail,Urban,Low,1,15000,06-02-2024
+EMPLOYED,18 to 24,Diploma,Retail,Delhi,low,,94500,06-03-2024
+Unemployed,18 to 24,Ph.D,Tech ,,High,,27200,06-04-2024
+UNEMPLOYED,18 to 24,Master,Retail,suburban,low,18,100400,06-05-2024
+unemployed,,PhD,Tech ,suburban,High,5,34100,06-06-2024
+Unemployed,55+,,,Mumbai,Medium,,,06-07-2024
+Unemployed,45-54,high school,Education,,moderate,,8000,06-08-2024
+,45-54,,Technology,suburban,low,,,06-09-2024
+UNEMPLOYED,35 - 44,Ph.D,Technology,Hyderabad,low,,130500,06-10-2024
+Unemployed,35 - 44,Masters, Fintech,urban,Low,,122900,06-11-2024
+UNEMPLOYED,55+,Bachelor's,Healthcare,Mumbai,HIGH,4,93400,06-12-2024
+EMPLOYED,35 - 44,,Retail,Urban,Medium,21,77700,6/13/2024
+UNEMPLOYED,45-54,Masters,Tech ,Hyderabad,low,,52400,6/14/2024
+,,Bachelors, Fintech,rural,Low,27,,6/15/2024
+Unemployed,,high school,Tech ,Hyderabad,moderate,13,37300,6/16/2024
+unemployed,55+,Masters,Education,Urban,HIGH,19,96700,6/17/2024
+Employed,55+,Bachelor's,,urban,High,,8200,6/18/2024
+,18 to 24,PhD,Health,Urban,low,,,6/19/2024
+UNEMPLOYED,55+,, Fintech,urban,HIGH,11,72100,6/20/2024
+employed,55+,,Technology,,moderate,,9800,6/21/2024
+unemployed,25_34,Diploma,Education,Bangalore,HIGH,,24600,6/22/2024
+unemployed,55+,Diploma,Education,Bangalore,High,,133700,6/23/2024
+EMPLOYED,,High School,Retail,Bangalore,moderate,,21400,6/24/2024
+Employed,18-24,PhD,Retail,Delhi,Medium,0,138700,6/25/2024
+,45-54,, Fintech,Mumbai,,,125500,6/26/2024
+EMPLOYED,18 to 24,High School,Education,rural,Medium,,87400,6/27/2024
+unemployed,18-24,Masters,Healthcare,Hyderabad,Low,13,133300,6/28/2024
+employed,45-54,Bachelor's, Fintech,Mumbai,HIGH,28,24100,6/29/2024
+Employed,25-34,,Finance,suburban,moderate,25,64600,6/30/2024
+,25-34,Bachelors,Tech ,urban,Low,23,108700,07-01-2024
+EMPLOYED,,Master, Fintech,,moderate,,38500,07-02-2024
+,55+,Bachelor's,Tech ,Delhi,Medium,28,40400,07-03-2024
+UNEMPLOYED,,Bachelor's,Health,Bangalore,low,20,17200,07-04-2024
+UNEMPLOYED,18 to 24,high school,Finance,Bangalore,Medium,,132900,07-05-2024
+Unemployed,35 - 44,Diploma,Education,rural,,13,102800,07-06-2024
+employed,55+,Bachelors,Finance,Hyderabad,,25,95600,07-07-2024
+Unemployed,25-34,,Finance,rural,moderate,,69500,07-08-2024
+,45-54,Bachelors,Health,urban,moderate,10,86000,07-09-2024
+employed,18-24,Masters,Healthcare,urban,,3,140800,07-10-2024
+unemployed,55+,High School,Technology,Hyderabad,HIGH,,84700,07-11-2024
+unemployed,25-34,Ph.D,Finance,,HIGH,,56600,07-12-2024
+,35 - 44,,Retail,Delhi,High,22,66700,7/13/2024
+Unemployed,55+,Masters,Finance,Bangalore,Medium,,96400,7/14/2024
+EMPLOYED,18 to 24,,Retail,rural,High,0,101400,7/15/2024
+employed,18 to 24,, Fintech,Bangalore,,21,37300,7/16/2024
+unemployed,35 - 44,PhD,Retail,Bangalore,High,,124400,7/17/2024
+unemployed,18-24,Bachelors,Technology,Bangalore,High,,128000,7/18/2024
+unemployed,45-54,Diploma,Retail,rural,Low,16,,7/19/2024
+employed,18-24,Master,Health,Hyderabad,Medium,,34700,7/20/2024
+Unemployed,45-54,high school,Tech ,urban,moderate,,34700,7/21/2024
+Unemployed,45-54,Bachelors,Technology,Delhi,low,7,,7/22/2024
+Unemployed,45-54,high school,Health,Hyderabad,low,3,,7/23/2024
+Unemployed,18-24,Bachelor's,Health,urban,Low,,117800,7/24/2024
+Employed,25-34,PhD,Retail,Urban,Medium,,69500,7/25/2024
+,18-24,Ph.D,Retail,Mumbai,moderate,18,148400,7/26/2024
+UNEMPLOYED,25_34,PhD,Retail,Urban,low,,,7/27/2024
+Employed,25_34,high school,Retail,rural,,,61600,7/28/2024
+Unemployed,,PhD,Education,,Low,,83100,7/29/2024
+Employed,55+,Masters,Education,Mumbai,low,,,7/30/2024
+Unemployed,25-34,Bachelor's, Fintech,rural,moderate,23,140600,7/31/2024
+employed,18 to 24,Bachelors,Education,Hyderabad,low,28,,08-01-2024
+UNEMPLOYED,25_34,Masters,,urban,Low,13,57100,08-02-2024
+Employed,55+,Master,Retail,suburban,High,4,97800,08-03-2024
+EMPLOYED,18-24,PhD,Retail,Hyderabad,moderate,0,86600,08-04-2024
+EMPLOYED,45-54,Bachelors,Health,Hyderabad,low,,,08-05-2024
+UNEMPLOYED,25-34,PhD,Health,Urban,,,,08-06-2024
+EMPLOYED,,Masters,Health,Urban,low,27,103400,08-07-2024
+unemployed,55+,,Retail,Hyderabad,HIGH,10,88800,08-08-2024
+,45-54,,Education,urban,low,29,133800,08-09-2024
+employed,25_34,,Health,urban,,,36200,08-10-2024
+Unemployed,,high school, Fintech,Mumbai,Low,,,08-11-2024
+Employed,,Masters,Finance,urban,Medium,,103800,08-12-2024
+unemployed,18 to 24,High School,Health,rural,low,1,109300,8/13/2024
+UNEMPLOYED,25_34,Master,Technology,Hyderabad,High,28,73000,8/14/2024
+unemployed,18-24,Master,Healthcare,suburban,HIGH,,102400,8/15/2024
+unemployed,45-54,Master,Health,Delhi,Low,,140300,8/16/2024
+Employed,35 - 44,High School,Health,urban,High,,32800,8/17/2024
+Employed,45-54,,Healthcare,Delhi,Medium,,132400,8/18/2024
+Employed,55+,PhD,Retail,Hyderabad,,,15200,8/19/2024
+UNEMPLOYED,45-54,Bachelors,,urban,HIGH,,60600,8/20/2024
+Unemployed,45-54,Diploma,Retail,urban,HIGH,19,70900,8/21/2024
+employed,25_34,Masters,Healthcare,Hyderabad,low,11,132100,8/22/2024
+Employed,45-54,high school,Finance,Bangalore,moderate,,146900,8/23/2024
+UNEMPLOYED,35 - 44,Masters,Healthcare,Delhi,low,18,74600,8/24/2024
+employed,,Diploma, Fintech,Delhi,HIGH,,145600,8/25/2024
+EMPLOYED,,Diploma,Technology,Delhi,,,,8/26/2024
+Unemployed,35 - 44,PhD,Tech ,Hyderabad,low,29,30700,8/27/2024
+Employed,45-54,PhD,Tech ,suburban,HIGH,15,,8/28/2024
+EMPLOYED,55+,PhD,Technology,suburban,HIGH,,11200,8/29/2024
+UNEMPLOYED,,Masters,Retail,Bangalore,Medium,,18100,8/30/2024
+employed,,high school,Education,Urban,HIGH,,43100,8/31/2024
+unemployed,45-54,PhD,Technology,urban,Medium,,62600,09-01-2024
+unemployed,25-34,Master,,rural,,19,137500,09-02-2024
+Employed,18 to 24,Bachelors,Healthcare,suburban,Medium,7,87900,09-03-2024
+EMPLOYED,,Bachelors,,rural,,28,,09-04-2024
+employed,25_34,High School, Fintech,rural,Medium,,,09-05-2024
+employed,25_34,Ph.D,Retail,suburban,Low,,118800,09-06-2024
+UNEMPLOYED,25-34,high school,Education,Bangalore,HIGH,21,144100,09-07-2024
+EMPLOYED,18 to 24,Bachelor's,Health,Mumbai,low,9,,09-08-2024
+UNEMPLOYED,,,Technology,suburban,moderate,22,49500,09-09-2024
+unemployed,25-34,Diploma,Health,,Low,29,117500,09-10-2024
+UNEMPLOYED,18-24,high school,Technology,Delhi,High,,109800,09-11-2024
+EMPLOYED,18 to 24,,Finance,Urban,HIGH,,65500,09-12-2024
+,45-54,PhD,Technology,Urban,low,14,30000,9/13/2024
+employed,18 to 24,Masters,Education,rural,Medium,,62100,9/14/2024
+EMPLOYED,25-34,Master,,Urban,Low,14,104400,9/15/2024
+Unemployed,,PhD,Education,Delhi,low,,116100,9/16/2024
+employed,,High School,Tech ,Hyderabad,HIGH,,58700,9/17/2024
+Unemployed,18 to 24,Master,Tech ,,moderate,,19000,9/18/2024
+Employed,18-24,Diploma,Retail,urban,low,14,143200,9/19/2024
+,25-34,,Retail,Bangalore,Low,,10100,9/20/2024
+,35 - 44,Bachelor's,Health,Hyderabad,Medium,22,147100,9/21/2024
+EMPLOYED,45-54,,Healthcare,Delhi,HIGH,,,9/22/2024
+EMPLOYED,25_34,Bachelors,Tech ,Hyderabad,HIGH,,87800,9/23/2024
+employed,55+,High School,Tech ,rural,Low,,75000,9/24/2024
+unemployed,25-34,Bachelor's, Fintech,Bangalore,Medium,14,51800,9/25/2024
+EMPLOYED,,Bachelors,Education,,moderate,,,9/26/2024
+Employed,18 to 24,High School,Tech ,Hyderabad,High,,96300,9/27/2024
+unemployed,35 - 44,PhD,Retail,Delhi,High,,64500,9/28/2024
+UNEMPLOYED,55+,High School,Tech ,Delhi,HIGH,9,,9/29/2024
+,18-24,Masters,Retail,Urban,Medium,17,,9/30/2024
+employed,18 to 24,,Health,suburban,High,15,30100,10-01-2024
+UNEMPLOYED,45-54,Ph.D,Tech ,suburban,Low,,101500,10-02-2024
+UNEMPLOYED,25-34,High School,,Hyderabad,Medium,18,86300,10-03-2024
+Employed,55+,High School,Finance,,HIGH,,,10-04-2024
+unemployed,,Master,Finance,Hyderabad,HIGH,,90400,10-05-2024
+unemployed,35 - 44,Bachelor's,Tech ,Mumbai,Low,16,118500,10-06-2024
+EMPLOYED,18 to 24,,Education,Delhi,,2,23900,10-07-2024
+Unemployed,25_34,Diploma,,Mumbai,low,10,,10-08-2024
+Employed,18-24,Bachelors,Healthcare,Bangalore,moderate,23,113800,10-09-2024
+Unemployed,55+,Master,Technology,Delhi,low,8,132700,10-10-2024
+employed,25-34,Masters,Tech ,Bangalore,High,2,26800,10-11-2024
+unemployed,18-24,Masters,,rural,moderate,10,52200,10-12-2024
+EMPLOYED,35 - 44,High School,Healthcare,Mumbai,,,55000,10/13/2024
+Unemployed,18 to 24,Masters,Tech ,Delhi,,30,99500,10/14/2024
+EMPLOYED,45-54,Master,Tech ,,HIGH,,104400,10/15/2024
+,18 to 24,PhD,Healthcare,Urban,High,7,99600,10/16/2024
+employed,25_34,Bachelors,Healthcare,Urban,moderate,26,112300,10/17/2024
+Employed,18-24,Diploma,Retail,rural,moderate,,,10/18/2024
+,55+,Diploma, Fintech,,High,9,9500,10/19/2024
+EMPLOYED,18-24,Master,Retail,rural,,,16400,10/20/2024
+Employed,35 - 44,,,Hyderabad,Medium,0,147800,10/21/2024
+unemployed,55+,Bachelor's,Health,Hyderabad,,2,,10/22/2024
+Unemployed,25-34,Ph.D,Finance,Urban,High,26,43900,10/23/2024
+unemployed,25-34,Diploma,Technology,rural,Medium,,,10/24/2024
+UNEMPLOYED,18 to 24,High School, Fintech,Bangalore,HIGH,,123100,10/25/2024
+EMPLOYED,35 - 44,,Retail,Mumbai,Low,,59500,10/26/2024
+employed,18-24,Diploma,Retail,Hyderabad,High,,,10/27/2024
+unemployed,25-34,Bachelors,Tech ,,HIGH,,115400,10/28/2024
+Unemployed,45-54,Diploma,,urban,moderate,,13100,10/29/2024
+Employed,35 - 44,PhD, Fintech,,Low,5,,10/30/2024
+Employed,55+,PhD,Healthcare,,,16,,10/31/2024
+Employed,,Bachelors,Retail,Urban,HIGH,28,,11-01-2024
+employed,25_34,,Tech ,Bangalore,HIGH,,130800,11-02-2024
+employed,55+,PhD,Technology,suburban,,,133400,11-03-2024
+,25_34,Ph.D,Finance,rural,,24,100300,11-04-2024
+Employed,55+,,Health,Delhi,low,,68800,11-05-2024
+Employed,55+,PhD,,urban,HIGH,5,22700,11-06-2024
+EMPLOYED,18 to 24,Ph.D,Tech ,,,2,58400,11-07-2024
+Employed,25_34,Ph.D,Education,Mumbai,Low,21,40200,11-08-2024
+employed,18-24,high school,Finance,Bangalore,HIGH,,,11-09-2024
+EMPLOYED,25-34,Bachelor's,Retail,Bangalore,Low,22,,11-10-2024
+,55+,PhD,Retail,Bangalore,low,,99100,11-11-2024
+EMPLOYED,25-34,PhD,Education,,moderate,,37200,11-12-2024
+employed,35 - 44,Masters,Healthcare,Hyderabad,High,,142900,11/13/2024
+unemployed,55+,High School,Technology,,High,,20300,11/14/2024
+,,high school,Education,,,23,56600,11/15/2024
+,45-54,Ph.D,,Urban,,,117800,11/16/2024
+EMPLOYED,25_34,Bachelors,Retail,Hyderabad,HIGH,,64800,11/17/2024
+,55+,Bachelor's,Health,,moderate,0,28000,11/18/2024
+unemployed,45-54,Masters,Education,urban,Medium,,,11/19/2024
+EMPLOYED,55+,,Education,suburban,High,,94900,11/20/2024
+unemployed,45-54,high school,Health,Hyderabad,High,,16400,11/21/2024
+unemployed,45-54,Masters,Tech ,urban,HIGH,,67300,11/22/2024
+Employed,35 - 44,Diploma,Technology,suburban,Low,,6300,11/23/2024
+,25_34,Masters,Healthcare,Hyderabad,High,,,11/24/2024
+employed,35 - 44,Ph.D,Technology,suburban,High,7,63200,11/25/2024
+unemployed,55+,Master,Tech ,,moderate,29,53800,11/26/2024
+Unemployed,25-34,high school,Technology,Delhi,Medium,,106700,11/27/2024
+unemployed,55+,High School,Retail,Bangalore,HIGH,,,11/28/2024
+,25_34,Bachelor's,Finance,Mumbai,Low,,15500,11/29/2024
+Employed,,Masters,Health,urban,Medium,11,107100,11/30/2024
+employed,18-24,Ph.D,Healthcare,Delhi,Low,18,53800,12-01-2024
+unemployed,35 - 44,Master,Tech ,urban,High,21,35200,12-02-2024
+employed,35 - 44,Diploma,Healthcare,urban,low,,,12-03-2024
+,25_34,Bachelor's,Technology,Hyderabad,,,46900,12-04-2024
+unemployed,45-54,High School,Tech ,rural,low,23,149200,12-05-2024
+Employed,18 to 24,PhD,Retail,urban,low,,37700,12-06-2024
+employed,45-54,Masters,,rural,High,,121300,12-07-2024
+EMPLOYED,25_34,Bachelor's,,urban,High,6,,12-08-2024
+EMPLOYED,18 to 24,PhD,Retail,,moderate,,95900,12-09-2024
+EMPLOYED,25-34,PhD,Healthcare,rural,HIGH,,100300,12-10-2024
+employed,18 to 24,,Healthcare,Mumbai,,,50400,12-11-2024
+EMPLOYED,35 - 44,Diploma,Tech ,Bangalore,moderate,,49900,12-12-2024
+,18-24,,Tech ,urban,,,77300,12/13/2024
+EMPLOYED,25_34,High School,Retail,urban,low,,8300,12/14/2024
+EMPLOYED,45-54,High School,Retail,Delhi,moderate,28,112100,12/15/2024
+UNEMPLOYED,25-34,Master,Healthcare,Mumbai,High,,86900,12/16/2024
+unemployed,45-54,High School,Health,,Medium,26,103800,12/17/2024
+EMPLOYED,35 - 44,PhD,Healthcare,suburban,Medium,26,,12/18/2024
+UNEMPLOYED,55+,Masters,Health,,Medium,9,,12/19/2024
+Unemployed,25_34,Bachelor's,Healthcare,urban,,15,38400,12/20/2024
+,18-24,High School,Education,,low,10,82300,12/21/2024
+unemployed,25-34,high school,,urban,High,,,12/22/2024
+Employed,45-54,Master,,rural,low,5,117600,12/23/2024
+UNEMPLOYED,,Masters,,suburban,High,,,12/24/2024
+UNEMPLOYED,35 - 44,Bachelor's,Tech ,Bangalore,Low,,116700,12/25/2024
+Employed,25_34,High School,,Mumbai,Medium,,,12/26/2024
+Unemployed,,Ph.D,Health,Urban,Medium,,94700,12/27/2024
+Employed,,Diploma,Finance,,Medium,13,96200,12/28/2024
+Unemployed,18 to 24,Bachelors,,Urban,low,16,38800,12/29/2024
+Employed,25-34,high school,Finance,Mumbai,High,,,12/30/2024
+employed,,Master,Healthcare,Hyderabad,High,30,18100,12/31/2024
+unemployed,25-34,PhD,,Mumbai,HIGH,8,128300,01-01-2025
+UNEMPLOYED,45-54,PhD,,Mumbai,Medium,27,43200,01-02-2025
+Unemployed,55+,Bachelors,,Mumbai,moderate,1,43700,01-03-2025
+UNEMPLOYED,,high school,Health,,Low,17,115300,01-04-2025
+Unemployed,25-34,Diploma,Retail,Bangalore,Low,1,55600,01-05-2025
+unemployed,18-24,PhD,Tech ,urban,moderate,,105200,01-06-2025
+Employed,55+,high school,Technology,Bangalore,HIGH,,,01-07-2025
+Unemployed,55+,High School,Education,,,19,145700,01-08-2025
+Employed,45-54,Bachelors,Health,suburban,Low,,24000,01-09-2025
+UNEMPLOYED,55+,Masters,,Bangalore,Medium,17,,01-10-2025
+EMPLOYED,18-24,Bachelors,Retail,rural,,24,145300,01-11-2025
+EMPLOYED,55+,high school,Health,suburban,moderate,,30300,01-12-2025
+Employed,18-24,Master,Healthcare,Delhi,HIGH,2,32900,1/13/2025
+employed,35 - 44,high school,Finance,Hyderabad,HIGH,6,52900,1/14/2025
+Employed,,Bachelors, Fintech,,Medium,,89900,1/15/2025
+employed,35 - 44,Ph.D,Tech ,suburban,moderate,,53900,1/16/2025
+Unemployed,55+,Bachelor's,Retail,Mumbai,,,126500,1/17/2025
+,25-34,Bachelor's,Finance,rural,High,,,1/18/2025
+unemployed,,Bachelor's,Retail,suburban,low,,67100,1/19/2025
+Unemployed,55+,,Retail,rural,HIGH,0,143300,1/20/2025
+,35 - 44,Bachelors,Retail,urban,Medium,,28000,1/21/2025
+,55+,high school,,Urban,low,,88000,1/22/2025
+UNEMPLOYED,18-24,PhD,Retail,,Medium,,113700,1/23/2025
+Employed,35 - 44,high school,Technology,Mumbai,HIGH,,88500,1/24/2025
+EMPLOYED,55+,high school,Retail,suburban,HIGH,8,65500,1/25/2025
+employed,55+,,Tech ,Urban,High,22,41300,1/26/2025
+UNEMPLOYED,35 - 44,Bachelor's,Technology,suburban,High,,148100,1/27/2025
+Employed,18 to 24,High School,Technology,Urban,High,27,59900,1/28/2025
+Employed,45-54,Bachelors,Tech ,Delhi,High,,84800,1/29/2025
+,25-34,Bachelor's,Retail,Urban,,,47700,1/30/2025
+unemployed,55+,Masters,Tech ,rural,moderate,11,68800,1/31/2025
+employed,18 to 24,high school,Retail,rural,Medium,10,42000,02-01-2025
+UNEMPLOYED,18-24,Bachelor's,Retail,Delhi,HIGH,,22600,02-02-2025
+UNEMPLOYED,45-54,Ph.D,Retail,urban,HIGH,,30500,02-03-2025
+Employed,25-34,PhD,,Mumbai,High,,,02-04-2025
+Employed,18-24,Masters,Finance,Urban,,30,29800,02-05-2025
+unemployed,55+,High School,Retail,Mumbai,Medium,,7300,02-06-2025
+Employed,,,,Delhi,Low,1,131600,02-07-2025
+EMPLOYED,18 to 24,Ph.D,Tech ,Hyderabad,low,29,44500,02-08-2025
+EMPLOYED,18 to 24,,Tech ,Mumbai,High,14,43200,02-09-2025
+Employed,25-34,, Fintech,suburban,HIGH,,,02-10-2025
+Unemployed,35 - 44,Master,Retail,Delhi,High,,,02-11-2025
+Unemployed,,Bachelors,Education,Hyderabad,,,,02-12-2025
+Employed,25_34,Bachelors,Finance,urban,low,30,104100,2/13/2025
+Unemployed,18-24,Bachelor's, Fintech,Delhi,HIGH,,18100,2/14/2025
+unemployed,55+,Bachelor's,,urban,moderate,,28200,2/15/2025
+employed,55+,Bachelor's,Healthcare,Hyderabad,Low,18,143100,2/16/2025
+Unemployed,25_34,Bachelors,Healthcare,Delhi,Low,25,,2/17/2025
+Unemployed,25_34,Bachelor's,Finance,Urban,moderate,,30000,2/18/2025
+Employed,45-54,Bachelors,Finance,,Low,,114700,2/19/2025
+Employed,,PhD,Tech ,Mumbai,,20,78000,2/20/2025
+UNEMPLOYED,55+,High School,,Hyderabad,moderate,12,97400,2/21/2025
+Unemployed,25_34,Ph.D,Healthcare,,low,,90000,2/22/2025
+EMPLOYED,,Bachelors, Fintech,Delhi,HIGH,18,71400,2/23/2025
+,45-54,high school,Retail,Hyderabad,Medium,,59600,2/24/2025
+Unemployed,25_34,Bachelors,Healthcare,Mumbai,,,137900,2/25/2025
+employed,25_34,Diploma,Finance,Hyderabad,High,,85600,2/26/2025
+employed,,,Tech ,Bangalore,low,11,38800,2/27/2025
+employed,18-24,Bachelors,Health,Delhi,low,,84400,2/28/2025
+EMPLOYED,18 to 24,high school,Finance,,Low,,,03-01-2025
+EMPLOYED,35 - 44,Bachelor's, Fintech,,moderate,,38600,03-02-2025
+unemployed,18-24,Ph.D, Fintech,Mumbai,Medium,11,105500,03-03-2025
+,25-34,Diploma,Healthcare,Mumbai,moderate,,61600,03-04-2025
+Unemployed,55+,Diploma,Tech ,Bangalore,moderate,23,77300,03-05-2025
+employed,25-34,Ph.D, Fintech,urban,moderate,,144200,03-06-2025
+,55+,Diploma,Retail,rural,HIGH,,39800,03-07-2025
+EMPLOYED,18-24,Masters,Health,Bangalore,moderate,,33200,03-08-2025
+Employed,25-34,High School,Healthcare,Delhi,Medium,,110300,03-09-2025
+,25_34,,Finance,Mumbai,HIGH,28,,03-10-2025
+,35 - 44,Bachelor's,Healthcare,Delhi,,20,138500,03-11-2025
+unemployed,18 to 24,Masters,Healthcare,Urban,Low,,109000,03-12-2025
+EMPLOYED,45-54,Diploma,Retail,Hyderabad,Low,,9900,3/13/2025
+Employed,45-54,Ph.D,Retail,Mumbai,Low,,,3/14/2025
+UNEMPLOYED,55+,Bachelors,Health,suburban,,0,75800,3/15/2025
+employed,35 - 44,Bachelors,Technology,Hyderabad,High,14,47300,3/16/2025
+,55+,High School,Technology,Urban,High,29,,3/17/2025
+employed,45-54,, Fintech,Delhi,,16,142700,3/18/2025
+,18-24,Bachelor's,Health,suburban,,,35800,3/19/2025
+EMPLOYED,35 - 44,High School,Retail,Delhi,low,,32300,3/20/2025
+,25-34,High School,Technology,suburban,HIGH,,51000,3/21/2025
+EMPLOYED,18-24,Bachelor's,Technology,urban,HIGH,28,128000,3/22/2025
+EMPLOYED,25-34,High School,Finance,Urban,High,20,144700,3/23/2025
+EMPLOYED,18-24,,Technology,Delhi,moderate,,89800,3/24/2025
+unemployed,,Master, Fintech,urban,High,29,106200,3/25/2025
+Employed,45-54,Master,Health,Hyderabad,moderate,,106200,3/26/2025
+Unemployed,,,Technology,Mumbai,,,66900,3/27/2025
+,18 to 24,high school,Education,,,22,81800,3/28/2025
+employed,,PhD,Healthcare,Hyderabad,moderate,,7500,3/29/2025
+UNEMPLOYED,25_34,Masters,Retail,Delhi,HIGH,11,86800,3/30/2025
+Unemployed,18 to 24,high school,Healthcare,urban,Low,,80800,3/31/2025
+,25_34,Masters,Technology,Mumbai,High,,144800,04-01-2025
+unemployed,18 to 24,Bachelors,Education,Bangalore,,,45200,04-02-2025
+employed,45-54,high school,Education,Delhi,,5,97600,04-03-2025
+EMPLOYED,55+,Masters,,Urban,low,,29600,04-04-2025
+,55+,,,Hyderabad,Low,20,88600,04-05-2025
+Employed,45-54,High School, Fintech,urban,High,24,37100,04-06-2025
+,25-34,Bachelor's,Healthcare,rural,Low,,41800,04-07-2025
+unemployed,18-24,High School, Fintech,Urban,,,,04-08-2025
+Unemployed,45-54,Bachelor's,Healthcare,Bangalore,Low,,,04-09-2025
+Employed,,Master,Education,Delhi,,,38100,04-10-2025
+EMPLOYED,25_34,Bachelors, Fintech,rural,HIGH,,,04-11-2025
+UNEMPLOYED,25-34,High School,Tech ,Delhi,HIGH,29,92200,04-12-2025
+EMPLOYED,55+,Masters,Education,Delhi,Medium,14,117100,4/13/2025
+,25_34,High School,Health,suburban,High,,,4/14/2025
+,18-24,PhD,Education,Urban,High,,78600,4/15/2025
+employed,18-24,PhD,,Delhi,moderate,5,111000,4/16/2025
+UNEMPLOYED,18-24,Masters,Tech ,,moderate,,82600,4/17/2025
+EMPLOYED,35 - 44,High School,Retail,suburban,moderate,,139600,4/18/2025
+Employed,25_34,,Education,Mumbai,Low,16,87900,4/19/2025
+EMPLOYED,45-54,,Education,Urban,,,24200,4/20/2025
+,55+,Ph.D,Education,urban,moderate,,56100,4/21/2025
+,18 to 24,high school,Healthcare,Hyderabad,Medium,18,,4/22/2025
+UNEMPLOYED,18 to 24,Bachelors,Finance,Hyderabad,Low,24,114400,4/23/2025
+UNEMPLOYED,55+,Ph.D,Tech ,Delhi,High,25,139500,4/24/2025
+Employed,,Master, Fintech,Urban,Medium,21,102200,4/25/2025
+UNEMPLOYED,18 to 24,,Tech ,Mumbai,Medium,,64500,4/26/2025
+unemployed,55+,,Technology,Urban,low,,33300,4/27/2025
+Employed,55+,high school,Health,,,7,77700,4/28/2025
+unemployed,18 to 24,PhD,Finance,Bangalore,,10,22200,4/29/2025
+,25-34,Master,Retail,,Low,5,,4/30/2025
+UNEMPLOYED,25-34,Master, Fintech,suburban,low,,,05-01-2025
+EMPLOYED,18 to 24,,Retail,rural,moderate,,,05-02-2025
+,18 to 24,Diploma,Retail,,Low,,103800,05-03-2025
+,55+,Bachelors,Finance,,High,,34800,05-04-2025
+unemployed,35 - 44,Masters,Education,,HIGH,,,05-05-2025
+Employed,18-24,, Fintech,Hyderabad,moderate,14,11900,05-06-2025
+UNEMPLOYED,18-24,Masters,Finance,rural,moderate,,94800,05-07-2025
+unemployed,25-34,high school,Retail,suburban,moderate,20,113500,05-08-2025
+EMPLOYED,25-34,Bachelor's,Health,suburban,low,,43900,05-09-2025
+Unemployed,18-24,Bachelors,Technology,Mumbai,low,6,25900,05-10-2025
+UNEMPLOYED,25-34,Bachelor's,Healthcare,,,28,110600,05-11-2025
+Unemployed,18 to 24,Masters,Finance,suburban,Low,19,121400,05-12-2025
+Unemployed,25_34,PhD,Education,Mumbai,low,20,145700,5/13/2025
+employed,,PhD,Education,Urban,Medium,,,5/14/2025
+unemployed,18 to 24,Masters, Fintech,Urban,Low,1,105700,5/15/2025
+Unemployed,25-34,Ph.D,Education,,low,8,42200,5/16/2025
+,,Ph.D,Education,Delhi,moderate,,88300,5/17/2025
+UNEMPLOYED,25_34,Diploma,Health,Bangalore,moderate,7,68600,5/18/2025
+employed,25_34,High School,Retail,suburban,,15,53800,5/19/2025
+Employed,55+,Diploma,Healthcare,Delhi,High,,102000,5/20/2025
+Unemployed,55+,,Healthcare,Hyderabad,low,29,37800,5/21/2025
+,35 - 44,high school,Finance,rural,low,,,5/22/2025
+EMPLOYED,18-24,Bachelors, Fintech,suburban,High,22,120200,5/23/2025
+EMPLOYED,45-54,Bachelors, Fintech,Delhi,Low,,28600,5/24/2025
+unemployed,35 - 44,high school, Fintech,Mumbai,Low,,105900,5/25/2025
+Unemployed,,Ph.D, Fintech,Delhi,low,5,91400,5/26/2025
+EMPLOYED,55+,Bachelor's,Education,,,3,80800,5/27/2025
+,55+,Bachelor's,Healthcare,Delhi,Low,,43200,5/28/2025
+employed,35 - 44,Bachelors,Retail,suburban,low,4,77600,5/29/2025
+employed,25_34,High School, Fintech,Bangalore,High,,94100,5/30/2025
+employed,25_34,High School,Health,Delhi,HIGH,,6400,5/31/2025
+unemployed,25-34,Bachelor's,,urban,HIGH,,46400,06-01-2025
+UNEMPLOYED,25-34,Ph.D,Technology,rural,low,4,145700,06-02-2025
+Unemployed,45-54,,Healthcare,Delhi,Low,,56000,06-03-2025
+Employed,45-54,high school,,Mumbai,Medium,,73500,06-04-2025
+Unemployed,35 - 44,Master,Finance,Urban,low,26,108400,06-05-2025
+EMPLOYED,25-34,,,Urban,moderate,7,79300,06-06-2025
+Unemployed,45-54,Bachelor's,,,Medium,,35900,06-07-2025
+employed,18 to 24,,Healthcare,rural,,,,06-08-2025
+EMPLOYED,,Bachelor's,Health,urban,Medium,,69700,06-09-2025
+Unemployed,18 to 24,high school,Finance,suburban,low,10,24700,06-10-2025
+UNEMPLOYED,,Ph.D,Tech ,rural,High,,9700,06-11-2025
+employed,35 - 44,,Health,Bangalore,,,,06-12-2025
+EMPLOYED,35 - 44,High School,Retail,Hyderabad,HIGH,,,6/13/2025
+UNEMPLOYED,55+,Masters,Retail,Bangalore,High,,117800,6/14/2025
+,45-54,Master,Technology,Urban,moderate,,145700,6/15/2025
+unemployed,55+,Masters,Healthcare,suburban,low,20,25000,6/16/2025
+UNEMPLOYED,45-54,Masters, Fintech,Bangalore,moderate,8,43400,6/17/2025
+Unemployed,25_34,Diploma,Retail,Mumbai,Low,,121600,6/18/2025
+Employed,25_34,Diploma,Healthcare,,Medium,,82400,6/19/2025
+EMPLOYED,25-34,, Fintech,urban,low,,16200,6/20/2025
+Employed,45-54,,Finance,suburban,,26,,6/21/2025
+UNEMPLOYED,18 to 24,,Finance,suburban,,19,71300,6/22/2025
+UNEMPLOYED,55+,Masters,Retail,suburban,Low,,87600,6/23/2025
+employed,,PhD, Fintech,Bangalore,low,,122900,6/24/2025
+unemployed,45-54,PhD,Healthcare,,HIGH,,102100,6/25/2025
+,45-54,Bachelor's, Fintech,Bangalore,Medium,13,,6/26/2025
+EMPLOYED,25_34,Ph.D,Finance,rural,moderate,,,6/27/2025
+EMPLOYED,55+,High School,,Urban,,,107900,6/28/2025
+UNEMPLOYED,25-34,Masters,Retail,,,,25100,6/29/2025
+EMPLOYED,25-34,,Health,Bangalore,moderate,,,6/30/2025
+Unemployed,18 to 24,Masters, Fintech,Hyderabad,low,,43700,07-01-2025
+,25_34,Diploma,Tech ,Urban,low,,70600,07-02-2025
+,35 - 44,Diploma,Health,urban,Medium,,137900,07-03-2025
+employed,25-34,Diploma,Finance,Bangalore,High,21,39700,07-04-2025
+unemployed,55+,Diploma,Healthcare,Hyderabad,low,,22900,07-05-2025
+EMPLOYED,18-24,Masters,Finance,rural,High,,6400,07-06-2025
+Employed,35 - 44,Ph.D,Retail,suburban,High,,60700,07-07-2025
+Employed,45-54,Masters,Finance,urban,,,,07-08-2025
+,55+,Bachelors,Education,,HIGH,,,07-09-2025
+EMPLOYED,45-54,Ph.D,Health,Delhi,Medium,10,146200,07-10-2025
+UNEMPLOYED,18 to 24,Bachelor's,Retail,Mumbai,High,9,,07-11-2025
+EMPLOYED,25-34,high school,Retail,Urban,Medium,21,28100,07-12-2025
+UNEMPLOYED,55+,, Fintech,Hyderabad,moderate,,142800,7/13/2025
+employed,25-34,Bachelor's,Retail,,Medium,,107400,7/14/2025
+Employed,45-54,Bachelor's, Fintech,Delhi,,9,52600,7/15/2025
+Employed,45-54,Bachelors, Fintech,Mumbai,moderate,12,32900,7/16/2025
+Employed,55+,Masters,,Hyderabad,Low,,,7/17/2025
+Unemployed,25-34,high school,Technology,Mumbai,Low,,,7/18/2025
+Unemployed,35 - 44,Bachelor's,Education,urban,moderate,20,78600,7/19/2025
+unemployed,55+,,Retail,Delhi,High,27,47600,7/20/2025
+employed,35 - 44,PhD,Technology,suburban,,,56200,7/21/2025
+Employed,35 - 44,Bachelors,Retail,suburban,HIGH,,56700,7/22/2025
+unemployed,25_34,PhD,Retail,rural,Low,,18300,7/23/2025
+Unemployed,35 - 44,Bachelors,Retail,,HIGH,,124400,7/24/2025
+,35 - 44,PhD,Finance,Urban,,2,41900,7/25/2025
+Unemployed,,PhD,Healthcare,Delhi,HIGH,7,26100,7/26/2025
+UNEMPLOYED,35 - 44,Ph.D,Retail,Bangalore,Medium,,41800,7/27/2025
+EMPLOYED,35 - 44,Diploma,,rural,High,,141200,7/28/2025
+Employed,25-34,High School,,Delhi,Low,,132100,7/29/2025
+EMPLOYED,45-54,PhD, Fintech,Hyderabad,Low,26,110600,7/30/2025
+UNEMPLOYED,18 to 24,Bachelor's,Retail,Bangalore,,,94400,7/31/2025
+unemployed,,,Health,urban,Medium,30,81600,08-01-2025
+Employed,18 to 24,,Finance,Mumbai,HIGH,8,115800,08-02-2025
+employed,25_34,Bachelors,Healthcare,Delhi,moderate,,125000,08-03-2025
+Employed,55+,Masters,Healthcare,Hyderabad,low,,145400,08-04-2025
+employed,18 to 24,High School,Health,Bangalore,Low,5,108300,08-05-2025
+unemployed,25_34,High School,Tech ,Mumbai,low,30,64500,08-06-2025
+Unemployed,18-24,PhD,Retail,urban,Low,17,71300,08-07-2025
+UNEMPLOYED,55+,PhD,Tech ,urban,High,,69400,08-08-2025
+EMPLOYED,35 - 44,Master, Fintech,Hyderabad,Medium,,92500,08-09-2025
+UNEMPLOYED,18-24,high school, Fintech,suburban,,6,135000,08-10-2025
+EMPLOYED,35 - 44,high school,,Urban,High,,36300,08-11-2025
+EMPLOYED,18-24,Masters,Healthcare,Mumbai,Medium,23,98700,08-12-2025
+Employed,45-54,High School, Fintech,rural,moderate,,67400,8/13/2025
+,25-34,Ph.D,Technology,Delhi,Low,20,115700,8/14/2025
+Unemployed,18-24,Diploma,Retail,Mumbai,Low,17,12400,8/15/2025
+Unemployed,18-24,Bachelor's,,Mumbai,HIGH,,,8/16/2025
+EMPLOYED,55+,Masters,Retail,suburban,,,,8/17/2025
+,18-24,High School,Retail,urban,High,1,90000,8/18/2025
+Unemployed,25-34,Masters,,suburban,Medium,21,60800,8/19/2025
+UNEMPLOYED,18-24,Master, Fintech,Bangalore,,,55300,8/20/2025
+Unemployed,25-34,,Healthcare,,moderate,6,18000,8/21/2025
+unemployed,25_34,Ph.D,Healthcare,urban,High,2,13100,8/22/2025
+Unemployed,25_34,Bachelor's,Healthcare,Urban,Low,,114700,8/23/2025
+Employed,,PhD,Education,Hyderabad,Medium,,57300,8/24/2025
+UNEMPLOYED,25_34,Masters,,rural,Low,,122000,8/25/2025
+EMPLOYED,18 to 24,Diploma,Retail,suburban,HIGH,,7900,8/26/2025
+,,Diploma,Healthcare,,low,0,,8/27/2025
+unemployed,25-34,Ph.D,Health,rural,Low,20,118600,8/28/2025
+Unemployed,55+,high school,Healthcare,urban,Low,9,,8/29/2025
+UNEMPLOYED,25-34,Bachelor's,Finance,Mumbai,Low,,72200,8/30/2025
+unemployed,25-34,Bachelors,Education,Mumbai,,26,35500,8/31/2025
+Unemployed,18 to 24,Ph.D,Health,Urban,High,,129300,09-01-2025
+Employed,55+,Diploma,Retail,Delhi,moderate,,126500,09-02-2025
+employed,25-34,Masters,Healthcare,rural,Low,,36900,09-03-2025
+employed,35 - 44,Bachelor's,Retail,,low,2,,09-04-2025
+Unemployed,18 to 24,Bachelors,Healthcare,urban,,,47100,09-05-2025
+,45-54,Masters,Tech ,Urban,Medium,,,09-06-2025
+,18 to 24,Ph.D,Technology,Delhi,HIGH,2,10800,09-07-2025
+Unemployed,18-24,high school,Technology,Mumbai,Medium,10,89900,09-08-2025
+EMPLOYED,18-24,Bachelor's,Education,Hyderabad,HIGH,,147900,09-09-2025
+unemployed,,Master, Fintech,suburban,moderate,19,,09-10-2025
+Unemployed,45-54,Ph.D,Tech ,Delhi,High,9,32300,09-11-2025
+employed,55+,Ph.D,Education,Urban,HIGH,,66800,09-12-2025
+unemployed,25_34,Diploma,Retail,rural,Low,28,70600,9/13/2025
+UNEMPLOYED,35 - 44,High School,Education,Delhi,,13,138600,9/14/2025
+Employed,35 - 44,Ph.D,Retail,Bangalore,HIGH,,51800,9/15/2025
+EMPLOYED,25-34,Masters,Healthcare,Bangalore,moderate,,119000,9/16/2025
+employed,18-24,high school,Healthcare,Urban,Low,,8100,9/17/2025
+,18 to 24,Ph.D,Health,Mumbai,Medium,5,112300,9/18/2025
+employed,18 to 24,High School,Retail,rural,,14,33700,9/19/2025
+,,Ph.D,Education,,low,,67300,9/20/2025
+unemployed,55+,Masters,Retail,,Medium,11,107800,9/21/2025
+unemployed,25-34,Bachelors,Education,rural,low,25,137200,9/22/2025
+Unemployed,25_34,, Fintech,Bangalore,Medium,10,148600,9/23/2025
+employed,,Diploma,Healthcare,suburban,,25,88500,9/24/2025
+employed,18 to 24,Ph.D,Finance,Mumbai,Medium,0,133700,9/25/2025
+unemployed,55+,Ph.D,Education,rural,Medium,,112100,9/26/2025
+unemployed,45-54,Diploma, Fintech,suburban,High,,115500,9/27/2025
+employed,18 to 24,PhD,Technology,Urban,low,30,122500,9/28/2025
+UNEMPLOYED,18-24,High School,Education,suburban,HIGH,,,9/29/2025
+UNEMPLOYED,18-24,Master,Retail,Urban,High,7,,9/30/2025
+employed,18 to 24,high school,Finance,Bangalore,,,137700,10-01-2025
+Employed,,,Education,Urban,Low,,23600,10-02-2025
+unemployed,18 to 24,high school,Retail,Urban,High,,114600,10-03-2025
+UNEMPLOYED,25-34,Bachelor's,Healthcare,Hyderabad,Medium,,145500,10-04-2025
+UNEMPLOYED,18 to 24,High School, Fintech,suburban,Low,,65700,10-05-2025
+Employed,25-34,Master,Education,Delhi,Medium,,,10-06-2025
+EMPLOYED,18-24,Bachelors,Retail,suburban,HIGH,,123700,10-07-2025
+unemployed,45-54,High School,Retail,suburban,,25,140300,10-08-2025
+Employed,18 to 24,,Healthcare,suburban,,,42400,10-09-2025
+unemployed,25-34,,,rural,low,,,10-10-2025
+employed,35 - 44,Ph.D,Technology,,Medium,,141100,10-11-2025
+employed,25-34,Diploma,Education,Bangalore,,17,43000,10-12-2025
+UNEMPLOYED,18-24,Bachelor's,,Bangalore,High,,,10/13/2025
+Unemployed,18 to 24,Masters, Fintech,rural,High,,44500,10/14/2025
+UNEMPLOYED,25_34,PhD,Health,urban,High,,107300,10/15/2025
+unemployed,25_34,Diploma, Fintech,urban,Low,,110800,10/16/2025
+,25-34,Master,Finance,Mumbai,moderate,,70000,10/17/2025
+Employed,25_34,Bachelors,Health,Delhi,moderate,,132300,10/18/2025
+,55+,Masters,Education,rural,High,15,109400,10/19/2025
+Employed,25-34,High School,Finance,Delhi,moderate,16,122400,10/20/2025
+,45-54,,,Hyderabad,Low,,90400,10/21/2025
+,25_34,Bachelors,,Mumbai,High,22,142400,10/22/2025
+unemployed,,Bachelor's,Healthcare,Delhi,low,24,148100,10/23/2025
+unemployed,35 - 44,Ph.D,,rural,High,26,12500,10/24/2025
+UNEMPLOYED,25-34,Master,Healthcare,Delhi,moderate,8,16300,10/25/2025
+Unemployed,45-54,Masters,Healthcare,suburban,low,,,10/26/2025
+employed,55+,Bachelor's,Retail,Mumbai,High,,46400,10/27/2025
+UNEMPLOYED,55+,Diploma,Health,suburban,High,24,59800,10/28/2025
+unemployed,45-54,Ph.D,Finance,rural,,,,10/29/2025
+UNEMPLOYED,45-54,Diploma,Retail,Delhi,low,,58600,10/30/2025
+Unemployed,35 - 44,Bachelors,Finance,Bangalore,,,142000,10/31/2025
+unemployed,45-54,PhD,Technology,,HIGH,,58300,11-01-2025
+employed,55+,PhD,Retail,urban,moderate,,126700,11-02-2025
+,35 - 44,Ph.D,,Bangalore,,1,85500,11-03-2025
+Unemployed,45-54,Masters,Healthcare,Hyderabad,low,23,116900,11-04-2025
+,25_34,high school,,urban,Medium,28,115300,11-05-2025
+employed,45-54,High School,Health,suburban,moderate,,10300,11-06-2025
+Employed,18 to 24,high school,Retail,Bangalore,,,55500,11-07-2025
+,55+,Bachelor's,Retail,Bangalore,low,26,105500,11-08-2025
+Employed,35 - 44,PhD,,urban,HIGH,19,,11-09-2025
+unemployed,45-54,,Retail,,Low,,,11-10-2025
+,25_34,high school,Healthcare,suburban,HIGH,13,120700,11-11-2025
+,18-24,Diploma,Retail,Bangalore,moderate,2,28100,11-12-2025
+Employed,,Masters,Technology,Urban,HIGH,8,105800,11/13/2025
+Unemployed,45-54,high school,Health,Urban,low,6,63900,11/14/2025
+Employed,25_34,Masters,Retail,urban,Low,3,,11/15/2025
+,25_34,,Technology,Delhi,moderate,20,37300,11/16/2025
+UNEMPLOYED,55+,Master,Health,Mumbai,low,25,,11/17/2025
+UNEMPLOYED,25_34,Bachelor's,Technology,Hyderabad,HIGH,4,103700,11/18/2025
+employed,18-24,PhD,Retail,Bangalore,HIGH,,89400,11/19/2025
+unemployed,55+,Master,Healthcare,urban,Low,21,102000,11/20/2025
+Unemployed,,High School,Retail,urban,Medium,3,5500,11/21/2025
+Employed,35 - 44,Diploma,Technology,rural,Low,,28100,11/22/2025
+unemployed,35 - 44,Master,Retail,,HIGH,,132100,11/23/2025
+unemployed,45-54,Bachelor's, Fintech,Urban,,,58300,11/24/2025
+Employed,,Masters,Healthcare,Urban,High,,88600,11/25/2025
+Unemployed,18-24,Master,Retail,Urban,moderate,5,,11/26/2025
+unemployed,18 to 24,Master,Healthcare,Urban,Medium,,61700,11/27/2025
+Employed,25_34,,Retail,Bangalore,low,26,91000,11/28/2025
+UNEMPLOYED,18 to 24,Master,Tech ,Urban,,,133500,11/29/2025
+EMPLOYED,55+,Diploma,Healthcare,suburban,HIGH,,137300,11/30/2025
+,35 - 44,PhD,Retail,rural,Low,,31300,12-01-2025
+Employed,18 to 24,,Health,urban,High,,5100,12-02-2025
+unemployed,35 - 44,Diploma,Retail,Hyderabad,HIGH,29,121700,12-03-2025
+Employed,18 to 24,Bachelors,Education,Mumbai,low,,53800,12-04-2025
+Unemployed,18-24,Bachelors, Fintech,suburban,HIGH,16,17700,12-05-2025
+Employed,25-34,high school,Technology,urban,moderate,29,,12-06-2025
+,18-24,,,Mumbai,Medium,,7800,12-07-2025
+,35 - 44,High School,Healthcare,rural,Low,,125500,12-08-2025
+,25_34,Master,Retail,Mumbai,moderate,19,29900,12-09-2025
+employed,18-24,Diploma,Finance,urban,HIGH,,,12-10-2025
+,45-54,Diploma,Retail,suburban,Medium,,,12-11-2025
+,55+,Bachelor's,Healthcare,Bangalore,HIGH,,62500,12-12-2025
+UNEMPLOYED,45-54,Masters,Finance,rural,Low,,109900,12/13/2025
+employed,18 to 24,Master, Fintech,Bangalore,low,29,37800,12/14/2025
+Unemployed,18-24,Masters,Retail,Urban,High,3,53400,12/15/2025
+UNEMPLOYED,25-34,high school,Retail,Urban,Medium,25,100600,12/16/2025
+,45-54,Bachelors,Tech ,Hyderabad,Medium,,94600,12/17/2025
+,18 to 24,PhD,,rural,low,,32500,12/18/2025
+unemployed,25_34,Ph.D,Technology,,HIGH,11,,12/19/2025
+Unemployed,35 - 44,Diploma,Finance,Bangalore,Medium,2,34200,12/20/2025
+,,PhD,Finance,Mumbai,Medium,,7300,12/21/2025
+UNEMPLOYED,,Ph.D,Retail,,moderate,,130700,12/22/2025
+Employed,35 - 44,Master,Health,Mumbai,Medium,,66100,12/23/2025
+,55+,High School,Technology,Bangalore,Low,,48500,12/24/2025
+Employed,55+,High School,Health,Urban,Medium,,127100,12/25/2025
+employed,18-24,Ph.D,Retail,Bangalore,Medium,9,46700,12/26/2025
+Unemployed,25_34,high school,Tech ,rural,,,24400,12/27/2025
+UNEMPLOYED,,Masters,Health,,Low,27,29800,12/28/2025
+UNEMPLOYED,45-54,Master,Technology,Urban,low,18,41900,12/29/2025
+employed,25_34,,Technology,rural,HIGH,20,8800,12/30/2025
+Employed,25_34,Master,Tech ,Hyderabad,Low,,,12/31/2025
+unemployed,45-54,Masters,Retail,suburban,low,11,39400,01-01-2026
+,25-34,High School,Finance,suburban,low,,121700,01-02-2026
+Unemployed,25-34,Bachelors,Technology,suburban,Low,28,,01-03-2026
+UNEMPLOYED,25_34,Bachelors,Healthcare,Mumbai,low,23,128500,01-04-2026
+Employed,25_34,Ph.D,Finance,rural,low,22,48400,01-05-2026
+unemployed,,Diploma,Retail,urban,HIGH,23,83500,01-06-2026
+UNEMPLOYED,55+,Bachelor's,Retail,Bangalore,Low,,98800,01-07-2026
+Employed,45-54,Masters,Retail,Delhi,Low,,34300,01-08-2026
+UNEMPLOYED,25-34,high school,Finance,Bangalore,High,,118100,01-09-2026
+,,,Tech ,Bangalore,low,23,,01-10-2026
+,55+,Ph.D, Fintech,rural,moderate,16,,01-11-2026
+EMPLOYED,25-34,PhD,Technology,suburban,moderate,,48400,01-12-2026
+UNEMPLOYED,45-54,High School,Retail,,moderate,,96000,1/13/2026
+EMPLOYED,25_34,Masters,Retail,Urban,,,79900,1/14/2026
+employed,25-34,Master,Finance,urban,HIGH,13,14500,1/15/2026
+Employed,25_34,Diploma, Fintech,Mumbai,Medium,16,31900,1/16/2026
+,25_34,Ph.D,Retail,urban,High,2,59500,1/17/2026
+,35 - 44,High School,Tech ,urban,HIGH,15,,1/18/2026
+unemployed,25-34,Master,Retail,Hyderabad,Low,,14100,1/19/2026
+unemployed,35 - 44,Bachelors,Technology,Urban,low,23,7600,1/20/2026
+unemployed,18-24,Diploma,Healthcare,rural,Medium,13,57500,1/21/2026
+,25_34,Bachelors, Fintech,Delhi,Medium,,36900,1/22/2026
+employed,18-24,Ph.D,Health,Hyderabad,Low,,130100,1/23/2026
+unemployed,18-24,Masters,Tech ,suburban,High,,45200,1/24/2026
+UNEMPLOYED,25_34,PhD,,Mumbai,Low,16,93400,1/25/2026
+UNEMPLOYED,35 - 44,Diploma,Finance,rural,HIGH,,149900,1/26/2026
+employed,35 - 44,High School,Retail,Delhi,HIGH,,47800,1/27/2026
+Unemployed,18 to 24,High School, Fintech,Mumbai,low,,76800,1/28/2026
+Employed,,Ph.D,Finance,Hyderabad,,21,63800,1/29/2026
+employed,25-34,Master, Fintech,Mumbai,,,121900,1/30/2026
+employed,45-54,Master,Technology,Mumbai,High,19,75900,1/31/2026
+unemployed,18 to 24,Bachelor's,Retail,Hyderabad,Medium,22,82600,02-01-2026
+EMPLOYED,45-54,Bachelors,Technology,Bangalore,moderate,26,69200,02-02-2026
+Unemployed,25-34,PhD,Health,Hyderabad,High,,128300,02-03-2026
+Unemployed,,Ph.D,Health,Mumbai,Low,,148400,02-04-2026
+Unemployed,,Diploma,,Urban,Low,,146500,02-05-2026
+unemployed,25-34,High School,Health,,moderate,,,02-06-2026
+Unemployed,45-54,high school,Healthcare,Hyderabad,,,,02-07-2026
+EMPLOYED,25-34,high school,Retail,rural,HIGH,30,78100,02-08-2026
+UNEMPLOYED,55+,Diploma,Health,Bangalore,low,22,36800,02-09-2026
+Employed,25-34,Ph.D,Tech ,Delhi,High,29,84500,02-10-2026
+EMPLOYED,25_34,PhD,Healthcare,urban,High,,100900,02-11-2026
+Unemployed,18 to 24,High School,Healthcare,Mumbai,Medium,,,02-12-2026
+Unemployed,35 - 44,Bachelors,Tech ,urban,Medium,,13300,2/13/2026
+EMPLOYED,18-24,Masters, Fintech,rural,Low,11,65100,2/14/2026
+UNEMPLOYED,25_34,Master, Fintech,Hyderabad,Low,,139900,2/15/2026
+Employed,25-34,Master,Healthcare,urban,,27,137500,2/16/2026
+Unemployed,,Bachelor's,Technology,Hyderabad,High,,79400,2/17/2026
+UNEMPLOYED,35 - 44,PhD,Health,,moderate,3,,2/18/2026
+,,Bachelors,Finance,Urban,Medium,12,,2/19/2026
+Unemployed,35 - 44,,Education,Mumbai,low,,86900,2/20/2026
+unemployed,18 to 24,,Health,Delhi,low,,21700,2/21/2026
+EMPLOYED,55+,Master,Health,rural,Medium,,,2/22/2026
+,45-54,Masters,Retail,Bangalore,moderate,,,2/23/2026
+unemployed,,PhD,,Bangalore,Medium,0,79200,2/24/2026
+Employed,18-24,Ph.D,Tech ,Hyderabad,low,,62700,2/25/2026
+Unemployed,45-54,Bachelor's,Technology,urban,HIGH,,141400,2/26/2026
+employed,25_34,Bachelors,,suburban,,,,2/27/2026
+unemployed,55+,,Education,Hyderabad,Low,22,44000,2/28/2026
+unemployed,55+,Bachelor's,Tech ,rural,High,,,03-01-2026
+Unemployed,18-24,Masters,Technology,,low,0,80400,03-02-2026
+unemployed,55+,,Finance,Bangalore,,,106300,03-03-2026
+employed,18 to 24,Bachelor's,Retail,Delhi,Medium,,120600,03-04-2026
+Employed,25-34,,Technology,suburban,Medium,26,38900,03-05-2026
+employed,45-54,,Tech ,Bangalore,High,,,03-06-2026
+unemployed,55+,Bachelor's,Retail,urban,High,16,53200,03-07-2026
+employed,18-24,Diploma,Retail,Delhi,,,22300,03-08-2026
+Employed,18 to 24,Master,Education,Urban,High,,76500,03-09-2026
+unemployed,35 - 44,Bachelors, Fintech,suburban,moderate,27,65100,03-10-2026
+Unemployed,18-24,Master,Education,Mumbai,HIGH,24,107300,03-11-2026
+unemployed,18 to 24,Ph.D,Tech ,Urban,Medium,5,122000,03-12-2026
+Unemployed,35 - 44,Master,Healthcare,Bangalore,Medium,,60800,3/13/2026
+employed,35 - 44,Ph.D,Education,Mumbai,low,19,,3/14/2026
+Employed,35 - 44,Masters,Retail,urban,HIGH,,,3/15/2026
+employed,25-34,Masters,,Mumbai,High,,63800,3/16/2026
+UNEMPLOYED,18 to 24,,Healthcare,suburban,HIGH,,148400,3/17/2026
+EMPLOYED,45-54,Diploma,Education,urban,HIGH,15,98600,3/18/2026
+unemployed,,PhD,Health,urban,High,1,99000,3/19/2026
+employed,45-54,,Healthcare,rural,moderate,,,3/20/2026
+Employed,25_34,Bachelors,Tech ,urban,,,69100,3/21/2026
+,18 to 24,,Finance,Hyderabad,Medium,,41300,3/22/2026
+Employed,25_34,High School,Healthcare,Delhi,HIGH,,7900,3/23/2026
+Unemployed,55+,Master,Healthcare,Delhi,HIGH,,34400,3/24/2026
+Unemployed,55+,Masters,Health,rural,High,17,73200,3/25/2026
+employed,45-54,Masters,Technology,Delhi,High,,107100,3/26/2026
+UNEMPLOYED,25_34,Master,Technology,urban,Low,,11500,3/27/2026
+Unemployed,18 to 24,Ph.D,Technology,Hyderabad,Low,,,3/28/2026
+,25-34,Diploma,Healthcare,suburban,High,,93800,3/29/2026
+UNEMPLOYED,18 to 24,Diploma,,,moderate,6,122100,3/30/2026
+EMPLOYED,25-34,Masters,Retail,suburban,low,,33400,3/31/2026
+UNEMPLOYED,55+,Ph.D,Tech ,Delhi,High,18,42700,04-01-2026
+,25_34,Ph.D,Retail,urban,Low,23,149100,04-02-2026
+,45-54,high school,Education,rural,low,,132300,04-03-2026
+UNEMPLOYED,,Bachelors,,urban,High,,,04-04-2026
+unemployed,25_34,PhD, Fintech,Hyderabad,moderate,12,,04-05-2026
+EMPLOYED,18-24,Ph.D, Fintech,,low,,18700,04-06-2026
+EMPLOYED,,,Technology,rural,Medium,,127200,04-07-2026
+Employed,55+,Ph.D,Technology,suburban,low,30,129400,04-08-2026
+Unemployed,,high school,,Bangalore,low,16,72300,04-09-2026
+employed,25-34,Bachelors,Retail,Bangalore,,,34400,04-10-2026
+Employed,18 to 24,High School,Retail,Mumbai,High,,,04-11-2026
+EMPLOYED,55+,PhD, Fintech,Mumbai,moderate,14,40600,04-12-2026
+EMPLOYED,,Bachelors,Tech ,Delhi,HIGH,2,147900,4/13/2026
+Unemployed,18-24,high school,Education,rural,moderate,,77800,4/14/2026
+UNEMPLOYED,35 - 44,PhD,Healthcare,rural,Low,5,43100,4/15/2026
+employed,,Ph.D,Retail,Hyderabad,moderate,1,,4/16/2026
+,25_34,Masters,Technology,,low,28,109600,4/17/2026
+EMPLOYED,,Diploma,,rural,low,23,61700,4/18/2026
+Employed,35 - 44,Master,Retail,Bangalore,moderate,,,4/19/2026
+EMPLOYED,18-24,Masters,,urban,moderate,9,148500,4/20/2026
+employed,18-24,Master,Technology,Bangalore,moderate,20,54400,4/21/2026
+,35 - 44,Masters,,Delhi,Low,,81000,4/22/2026
+Employed,,Bachelor's,Retail,Delhi,Low,,78300,4/23/2026
+employed,35 - 44,high school,Finance,rural,HIGH,7,137000,4/24/2026
+unemployed,45-54,Diploma,Health,suburban,moderate,14,144900,4/25/2026
+EMPLOYED,35 - 44,Ph.D,Technology,suburban,moderate,30,149800,4/26/2026
+Employed,55+,Bachelors,Retail,Bangalore,moderate,,81300,4/27/2026
+Employed,25_34,Ph.D,Health,Mumbai,Medium,,,4/28/2026
+EMPLOYED,18 to 24,Ph.D,Retail,Mumbai,HIGH,,134900,4/29/2026
+EMPLOYED,35 - 44,Master,Healthcare,rural,High,,100000,4/30/2026
+,18 to 24,Ph.D,Finance,urban,HIGH,,18100,05-01-2026
+,55+,PhD,Tech ,Urban,Medium,16,110600,05-02-2026
+,25_34,Ph.D,Retail,Urban,low,22,148400,05-03-2026
+Employed,55+,high school,Tech ,Urban,HIGH,,27500,05-04-2026
+UNEMPLOYED,35 - 44,Ph.D,Tech ,rural,High,,102500,05-05-2026
+Employed,18-24,High School, Fintech,,Low,7,117100,05-06-2026
+unemployed,45-54,Masters, Fintech,Mumbai,HIGH,25,,05-07-2026
+Unemployed,45-54,Ph.D,,Hyderabad,High,7,39300,05-08-2026
+Unemployed,18 to 24,PhD,Tech ,Mumbai,Medium,,93000,05-09-2026
+EMPLOYED,45-54,PhD,,urban,moderate,16,70500,05-10-2026
+unemployed,25-34,Masters,Retail,Bangalore,Low,26,28900,05-11-2026
+UNEMPLOYED,35 - 44,Bachelor's,Health,Hyderabad,HIGH,28,52200,05-12-2026
+UNEMPLOYED,18 to 24,High School,Retail,,High,29,6300,5/13/2026
+,25-34,Bachelor's,Retail,suburban,Low,7,89400,5/14/2026
+UNEMPLOYED,,PhD,Finance,suburban,low,,5800,5/15/2026
+Unemployed,18 to 24,Bachelors,Retail,,low,20,141800,5/16/2026
+Unemployed,45-54,Bachelor's,Health,Bangalore,High,,125800,5/17/2026
+,18 to 24,high school,,Delhi,HIGH,20,54800,5/18/2026
+EMPLOYED,25-34,Bachelors,Health,Bangalore,moderate,,65800,5/19/2026
+Unemployed,45-54,High School, Fintech,suburban,,,55800,5/20/2026
+employed,35 - 44,Master,Tech ,Delhi,Low,6,15200,5/21/2026
+unemployed,25-34,High School,Retail,,High,,72500,5/22/2026
+Unemployed,25-34,Master,Education,Urban,Low,11,,5/23/2026
+,35 - 44,Master, Fintech,Delhi,Low,1,119900,5/24/2026
+EMPLOYED,18 to 24,PhD,Tech ,Mumbai,,11,140400,5/25/2026
+employed,18-24,High School,Healthcare,rural,Low,6,105600,5/26/2026
+Unemployed,18 to 24,Bachelor's,Retail,Mumbai,High,29,139800,5/27/2026
+employed,18 to 24,Master,,Bangalore,Medium,25,52400,5/28/2026
+employed,18 to 24,Diploma, Fintech,,High,,,5/29/2026
+employed,18 to 24,,,rural,,2,18400,5/30/2026
+employed,35 - 44,PhD,Retail,,Medium,8,78000,5/31/2026
+EMPLOYED,45-54,Diploma,Education,Urban,Medium,1,85400,06-01-2026
+,18 to 24,high school,Education,Mumbai,Medium,,48000,06-02-2026
+UNEMPLOYED,18-24,Bachelor's,Retail,urban,Low,17,58300,06-03-2026
+EMPLOYED,55+,Bachelor's,Education,Bangalore,,,,06-04-2026
+UNEMPLOYED,,Masters,Retail,suburban,Low,26,,06-05-2026
+unemployed,25_34,high school,Health,Mumbai,Medium,,66100,06-06-2026
+,45-54,Master,Retail,Bangalore,Medium,28,48200,06-07-2026
+Employed,45-54,Masters,Tech ,rural,HIGH,,,06-08-2026
+Unemployed,,Masters,Health,suburban,Low,5,78700,06-09-2026
+,18-24,Ph.D,Retail,Urban,Low,4,87500,06-10-2026
+Unemployed,35 - 44,Ph.D,,Delhi,Medium,,,06-11-2026
+EMPLOYED,18 to 24,High School,Healthcare,Hyderabad,low,6,,06-12-2026
+UNEMPLOYED,35 - 44,Masters,,Delhi,moderate,1,70300,6/13/2026
+,,Bachelors,,suburban,High,1,128000,6/14/2026
+Employed,18 to 24,high school,Retail,urban,,,137700,6/15/2026
+,35 - 44,Diploma,Education,Delhi,,2,96500,6/16/2026
+Unemployed,25_34,High School,Finance,,HIGH,,99400,6/17/2026
+EMPLOYED,35 - 44,,Tech ,Bangalore,low,,,6/18/2026
+employed,,high school,Retail,Bangalore,High,17,12100,6/19/2026
+Employed,,Masters,Retail,Hyderabad,Medium,27,56700,6/20/2026
+Employed,25_34,Masters,,Mumbai,High,,95300,6/21/2026
+Unemployed,45-54,High School,Retail,rural,HIGH,,15000,6/22/2026
+,18 to 24,Masters, Fintech,,High,,58800,6/23/2026
+Employed,55+,high school,Healthcare,Delhi,HIGH,4,6100,6/24/2026
+EMPLOYED,18-24,high school,Retail,,,,146800,6/25/2026
+EMPLOYED,55+,High School,Technology,Urban,moderate,10,,6/26/2026
+Employed,25-34,,Finance,rural,Low,,33600,6/27/2026
+EMPLOYED,55+,Masters,Healthcare,Hyderabad,low,4,69300,6/28/2026
+employed,25_34,High School, Fintech,urban,Low,18,,6/29/2026
+employed,,Bachelor's,Health,Bangalore,moderate,,,6/30/2026
+Employed,25_34,Bachelors,,Delhi,,23,28500,07-01-2026
+UNEMPLOYED,25_34,,Healthcare,urban,Medium,21,30500,07-02-2026
+,18 to 24,Bachelors,Retail,Bangalore,High,,,07-03-2026
+UNEMPLOYED,45-54,Diploma,Health,urban,High,,137200,07-04-2026
+EMPLOYED,,Diploma,,Mumbai,HIGH,19,,07-05-2026
+unemployed,18-24,Diploma,Health,urban,HIGH,,,07-06-2026
+,25_34,,Education,Bangalore,HIGH,,59000,07-07-2026
+Unemployed,25_34,Master, Fintech,Mumbai,low,,143000,07-08-2026
+EMPLOYED,35 - 44,Bachelors,Education,rural,High,,9600,07-09-2026
+Unemployed,25-34,Bachelors,Education,,Medium,19,68200,07-10-2026
+UNEMPLOYED,25-34,PhD, Fintech,Urban,Medium,1,,07-11-2026
+unemployed,18-24,PhD,Retail,Mumbai,High,,81700,07-12-2026
+UNEMPLOYED,18-24,Diploma,Education,Mumbai,Medium,5,104700,7/13/2026
+EMPLOYED,45-54,high school,Retail,suburban,Medium,,36000,7/14/2026
+unemployed,35 - 44,Masters,Health,urban,HIGH,,,7/15/2026
+Employed,25_34,Diploma,,rural,,,,7/16/2026
+UNEMPLOYED,45-54,PhD,Healthcare,rural,,,50500,7/17/2026
+Employed,,Diploma,,suburban,HIGH,6,55000,7/18/2026
+UNEMPLOYED,18-24,,,urban,,13,113500,7/19/2026
+unemployed,25-34,Diploma,Education,Delhi,moderate,25,101200,7/20/2026
+,45-54,Diploma,Education,Hyderabad,Low,25,6100,7/21/2026
+EMPLOYED,45-54,Diploma,Retail,urban,HIGH,4,,7/22/2026
+employed,18-24,High School,Tech ,rural,HIGH,,10700,7/23/2026
+unemployed,25-34,Bachelors,Retail,Urban,HIGH,2,56700,7/24/2026
+,,Bachelor's,Education,Hyderabad,moderate,11,,7/25/2026
+,18-24,Diploma,,,HIGH,,146800,7/26/2026
+UNEMPLOYED,25-34,Masters,Retail,Delhi,HIGH,2,87600,7/27/2026
+employed,45-54,Master,,Delhi,High,9,131600,7/28/2026
+UNEMPLOYED,35 - 44,PhD,Healthcare,Bangalore,High,,49000,7/29/2026
+UNEMPLOYED,25_34,Ph.D,Finance,Delhi,low,16,49200,7/30/2026
+,18-24,PhD,Finance,Hyderabad,low,18,31700,7/31/2026
+EMPLOYED,18 to 24,High School,Technology,Delhi,moderate,,,08-01-2026
+EMPLOYED,45-54,Masters,Tech ,Urban,High,25,,08-02-2026
+employed,25-34,High School,Tech ,urban,low,11,126300,08-03-2026
+employed,25-34,,Finance,Delhi,,,120300,08-04-2026
+Unemployed,55+,Ph.D,Retail,Hyderabad,Low,7,65800,08-05-2026
+Employed,55+,,Health,suburban,Medium,10,,08-06-2026
+,18 to 24,Master,Health,Mumbai,Medium,,,08-07-2026
+EMPLOYED,18 to 24,PhD,Technology,suburban,High,,100300,08-08-2026
+,35 - 44,Bachelors,Finance,urban,moderate,,74300,08-09-2026
+employed,35 - 44,Masters,Technology,,moderate,,77100,08-10-2026
+,,high school,Retail,Delhi,Medium,,91200,08-11-2026
+Employed,18-24,high school,Technology,Mumbai,Low,10,51800,08-12-2026
+Unemployed,45-54,Master,Technology,Mumbai,,,90700,8/13/2026
+Employed,18 to 24,Master,Finance,Delhi,,25,103400,8/14/2026
+Unemployed,35 - 44,Masters,Health,Delhi,low,,24500,8/15/2026
+,35 - 44,Bachelor's,Retail,rural,Medium,,42200,8/16/2026
+UNEMPLOYED,25-34,Ph.D,Retail,,low,20,6700,8/17/2026
+EMPLOYED,18-24,,Health,Bangalore,Medium,,137000,8/18/2026
+Unemployed,18 to 24,Masters,Finance,suburban,,14,97800,8/19/2026
+employed,35 - 44,PhD,Tech ,Mumbai,Low,,69800,8/20/2026
+employed,35 - 44,Master,Healthcare,rural,,,39000,8/21/2026
+unemployed,,Bachelor's,Retail,urban,moderate,,85800,8/22/2026
+EMPLOYED,55+,Diploma,Retail,rural,,15,56400,8/23/2026
+unemployed,25_34,High School,Retail,urban,Low,10,78100,8/24/2026
+EMPLOYED,18-24,Masters,,rural,,,46100,8/25/2026
+unemployed,45-54,, Fintech,,,,36400,8/26/2026
+Unemployed,35 - 44,Bachelors,Technology,Delhi,HIGH,,12500,8/27/2026
+UNEMPLOYED,18-24,Masters,,Delhi,moderate,18,91800,8/28/2026
+unemployed,,Master,Healthcare,Bangalore,low,,83800,8/29/2026
+Employed,55+,Diploma,Education,Mumbai,Low,,,8/30/2026
+Employed,25-34,High School,Education,,,,64900,8/31/2026
+UNEMPLOYED,18-24,Bachelors, Fintech,urban,High,21,100700,09-01-2026
+employed,18-24,high school,Healthcare,rural,,,66400,09-02-2026
+Unemployed,25_34,Bachelor's,Tech ,Mumbai,moderate,11,92000,09-03-2026
+UNEMPLOYED,,Ph.D,Education,suburban,moderate,,55500,09-04-2026
+UNEMPLOYED,55+,Ph.D,Education,rural,moderate,18,12700,09-05-2026
+Employed,45-54,Diploma,Technology,suburban,High,18,44400,09-06-2026
+UNEMPLOYED,18 to 24,Master,Healthcare,rural,Low,8,116200,09-07-2026
+EMPLOYED,18 to 24,PhD,Finance,,moderate,,73900,09-08-2026
+EMPLOYED,,high school,,,,,85700,09-09-2026
+Unemployed,35 - 44,Diploma,Education,Mumbai,HIGH,,,09-10-2026
+,18 to 24,high school,Finance,,High,,,09-11-2026
+,,Masters,,Bangalore,Low,,85300,09-12-2026
+,55+,,Retail,suburban,,,93500,9/13/2026
+Unemployed,35 - 44,Master,Retail,Delhi,High,3,88100,9/14/2026
+EMPLOYED,25_34,Ph.D, Fintech,Bangalore,HIGH,,,9/15/2026
+Employed,45-54,Masters,,Urban,HIGH,18,,9/16/2026
+unemployed,45-54,Bachelor's,Healthcare,rural,moderate,13,72700,9/17/2026
+EMPLOYED,45-54,Masters,Healthcare,Delhi,HIGH,16,27300,9/18/2026
+UNEMPLOYED,18-24,Bachelors,Retail,Urban,High,26,127000,9/19/2026
+unemployed,25_34,high school, Fintech,Urban,Low,,57900,9/20/2026
+,,Masters,Healthcare,Mumbai,Medium,,11000,9/21/2026
+Unemployed,45-54,High School,Healthcare,Bangalore,Medium,8,42200,9/22/2026
+unemployed,18-24,,Healthcare,Delhi,moderate,20,,9/23/2026
+Unemployed,18-24,High School,Retail,Urban,,,49000,9/24/2026
+Employed,25-34,Masters,Retail,Mumbai,Low,9,19100,9/25/2026
+UNEMPLOYED,18 to 24,Ph.D,Education,Delhi,moderate,,,9/26/2026
+Employed,55+,Diploma, Fintech,Bangalore,low,,,9/27/2026
+UNEMPLOYED,18-24,PhD,Retail,Delhi,Medium,18,75900,9/28/2026
+employed,25_34,Bachelors,,rural,,,118400,9/29/2026
+UNEMPLOYED,,Master,Tech ,Urban,low,,,9/30/2026
+Employed,25-34,Ph.D,Retail,Mumbai,Low,,131100,10-01-2026
+unemployed,18 to 24,Diploma, Fintech,Delhi,Medium,,,10-02-2026
+Unemployed,18 to 24,,,suburban,Low,,126100,10-03-2026
+employed,25_34,Master,Finance,Delhi,HIGH,22,71500,10-04-2026
+,,high school,Education,,moderate,6,45400,10-05-2026
+employed,45-54,,Healthcare,Mumbai,Medium,5,75400,10-06-2026
+unemployed,45-54,Ph.D,Retail,Delhi,,,92500,10-07-2026
+unemployed,18 to 24,Bachelor's,Tech ,Delhi,Low,28,39500,10-08-2026
+employed,18-24,Bachelor's,,rural,Low,,45200,10-09-2026
+unemployed,25_34,Bachelor's,Education,rural,low,24,,10-10-2026
+EMPLOYED,55+,Bachelor's,Retail,Mumbai,low,,135200,10-11-2026
+employed,,Diploma,Education,Delhi,Low,,44600,10-12-2026
+employed,18-24,Diploma,Education,rural,Low,20,96900,10/13/2026
+unemployed,18 to 24,Bachelors,Technology,,,20,94400,10/14/2026
+,25_34,Master,Health,Hyderabad,,25,9800,10/15/2026
+Employed,55+,Bachelors,Technology,Hyderabad,,,,10/16/2026
+Employed,55+,PhD, Fintech,Mumbai,Low,,114400,10/17/2026
+EMPLOYED,18 to 24,Diploma,Health,Urban,High,,118000,10/18/2026
+unemployed,18-24,High School,Finance,Bangalore,Medium,,,10/19/2026
+Employed,55+,,Retail,suburban,Medium,,19900,10/20/2026
+,45-54,,,Mumbai,High,2,,10/21/2026
+Employed,25_34,High School,Retail,Mumbai,low,5,133700,10/22/2026
+unemployed,25_34,PhD,Retail,urban,Medium,,,10/23/2026
+Employed,,Bachelors,,Urban,low,3,62000,10/24/2026
+EMPLOYED,25_34,,Tech ,Urban,,19,,10/25/2026
+unemployed,,PhD,Retail,,Low,21,141000,10/26/2026
+Unemployed,18-24,Bachelor's,Technology,Urban,,,58500,10/27/2026
+EMPLOYED,18 to 24,high school,Retail,Urban,moderate,20,15600,10/28/2026
+Employed,45-54,Master,Health,Hyderabad,High,,12600,10/29/2026
+UNEMPLOYED,45-54,High School,,,Medium,26,39400,10/30/2026
+Unemployed,18 to 24,high school,Technology,suburban,moderate,30,52100,10/31/2026
+unemployed,55+,Bachelors,Education,Bangalore,HIGH,,18500,11-01-2026
+UNEMPLOYED,18 to 24,Bachelors,Health,Bangalore,Low,,95300,11-02-2026
+employed,18 to 24,Masters, Fintech,urban,,30,68900,11-03-2026
+unemployed,,Ph.D,Finance,urban,Medium,0,80500,11-04-2026
+Employed,35 - 44,Bachelor's,Health,rural,low,10,,11-05-2026
+,25_34,High School,Finance,urban,Low,,52500,11-06-2026
+unemployed,18 to 24,Diploma, Fintech,urban,,20,80400,11-07-2026
+Unemployed,45-54,Master,Health,Delhi,High,,74800,11-08-2026
+employed,,High School,,Bangalore,HIGH,,141700,11-09-2026
+Unemployed,25-34,,Tech ,suburban,High,,,11-10-2026
+Unemployed,35 - 44,High School,Retail,Hyderabad,,,14000,11-11-2026
+unemployed,,Diploma,Education,rural,Medium,,,11-12-2026
+employed,55+,Bachelors,Retail,,moderate,,,11/13/2026
+employed,25-34,PhD,Healthcare,suburban,High,8,45700,11/14/2026
+UNEMPLOYED,18-24,High School, Fintech,urban,low,,44000,11/15/2026
+unemployed,18 to 24,Master,Technology,Mumbai,Medium,,126100,11/16/2026
+unemployed,18-24,high school,Finance,suburban,low,,,11/17/2026
+Unemployed,18 to 24,Ph.D,,Mumbai,moderate,,141500,11/18/2026
+Unemployed,18-24,Master,Healthcare,urban,Medium,,9700,11/19/2026
+unemployed,35 - 44,Bachelor's,Retail,Urban,,,30500,11/20/2026
+Unemployed,35 - 44,high school,Retail,rural,low,5,63300,11/21/2026
+,55+,Diploma,Technology,Hyderabad,,24,100000,11/22/2026
+unemployed,25_34,Diploma,,Bangalore,HIGH,,145200,11/23/2026
+UNEMPLOYED,18-24,High School, Fintech,Mumbai,low,,,11/24/2026
+EMPLOYED,45-54,PhD, Fintech,,HIGH,24,22000,11/25/2026
+,18-24,High School,Health,Urban,,12,,11/26/2026
+UNEMPLOYED,18 to 24,Bachelor's,Tech ,suburban,High,,116100,11/27/2026
+Unemployed,18-24,PhD,Health,rural,Low,24,122900,11/28/2026
+unemployed,18-24,,,suburban,High,22,19800,11/29/2026
+UNEMPLOYED,,Masters,Healthcare,Hyderabad,Low,,,11/30/2026
+employed,18-24,PhD,Health,rural,,,123600,12-01-2026
+employed,,,Finance,suburban,Medium,,27300,12-02-2026
+Employed,25_34,Masters, Fintech,Hyderabad,moderate,,11500,12-03-2026
+employed,55+,Master,Retail,Bangalore,,23,76200,12-04-2026
+unemployed,25_34,high school,Tech ,Bangalore,Low,30,103900,12-05-2026
+UNEMPLOYED,55+,High School,Technology,Mumbai,,13,58900,12-06-2026
+employed,18 to 24,Ph.D,Tech ,Hyderabad,High,,44900,12-07-2026
+UNEMPLOYED,25-34,Bachelors,Healthcare,,,18,122600,12-08-2026
+Unemployed,25_34,High School,Finance,suburban,Low,30,19300,12-09-2026
+employed,25_34,Diploma, Fintech,Delhi,moderate,,11700,12-10-2026
+,,Ph.D,Retail,rural,moderate,,117200,12-11-2026
+Unemployed,18-24,Ph.D,Education,Hyderabad,Medium,,143100,12-12-2026
+EMPLOYED,25-34,Bachelors,,urban,Medium,,98200,12/13/2026
+EMPLOYED,45-54,Diploma,Technology,Bangalore,HIGH,30,109500,12/14/2026
+Employed,18-24,Diploma,Finance,Mumbai,High,28,124100,12/15/2026
+Unemployed,18-24,High School,Retail,Delhi,,1,10700,12/16/2026
+Employed,55+,Ph.D,Healthcare,Urban,HIGH,,58300,12/17/2026
+Unemployed,18 to 24,Master,Education,Bangalore,low,5,,12/18/2026
+UNEMPLOYED,55+,Diploma,Retail,Mumbai,moderate,,132200,12/19/2026
+Unemployed,18 to 24,Ph.D,Tech ,suburban,High,,,12/20/2026
+Employed,35 - 44,Masters,,rural,Low,3,141500,12/21/2026
+unemployed,35 - 44,,Healthcare,urban,moderate,10,142300,12/22/2026
+EMPLOYED,18 to 24,Bachelors,Tech ,Bangalore,moderate,,,12/23/2026
+Employed,18-24,,Tech ,Bangalore,HIGH,7,107400,12/24/2026
+Employed,25_34,Bachelors,,Mumbai,low,6,31200,12/25/2026
+UNEMPLOYED,,PhD,Finance,Hyderabad,low,25,76500,12/26/2026
+Employed,,Masters,Education,Hyderabad,Low,,72700,12/27/2026
+,45-54,Master,Health,rural,Low,6,60300,12/28/2026
+Employed,45-54,high school,Retail,Urban,low,12,113500,12/29/2026
+unemployed,,,Tech ,Hyderabad,moderate,28,51000,12/30/2026
+EMPLOYED,25-34,Bachelor's,Technology,Delhi,low,29,146700,12/31/2026
+Unemployed,18-24,PhD,Finance,Urban,,,34300,01-01-2027
+employed,25_34,Masters,Tech ,Hyderabad,High,24,27900,01-02-2027
+employed,45-54,PhD,Healthcare,Urban,low,4,,01-03-2027
+Employed,45-54,Master,,Delhi,HIGH,1,51500,01-04-2027
+UNEMPLOYED,35 - 44,Masters,Retail,Bangalore,low,,32800,01-05-2027
+employed,25-34,Master,Retail,Bangalore,moderate,4,97900,01-06-2027
+unemployed,18-24,Masters, Fintech,rural,,,104200,01-07-2027
+Employed,35 - 44,Ph.D,Education,Hyderabad,,,,01-08-2027
+employed,18 to 24,Master, Fintech,rural,low,27,61300,01-09-2027
+unemployed,25-34,Bachelor's,Retail,Bangalore,HIGH,18,,01-10-2027
+Unemployed,18-24,Bachelor's, Fintech,suburban,HIGH,14,119300,01-11-2027
+Unemployed,,Ph.D,Health,Urban,moderate,25,22100,01-12-2027
+,18 to 24,Ph.D,Tech ,rural,Low,,46100,1/13/2027
+unemployed,55+,High School,Healthcare,Urban,low,16,,1/14/2027
+Unemployed,25_34,high school,,suburban,High,,28700,1/15/2027
+EMPLOYED,,Bachelor's,,urban,Low,26,62700,1/16/2027
+UNEMPLOYED,,high school,Retail,suburban,Medium,,93000,1/17/2027
+employed,18-24,,Health,suburban,Medium,,52300,1/18/2027
+UNEMPLOYED,45-54,Diploma,Retail,Urban,Low,,147000,1/19/2027
+Unemployed,25-34,Master,Finance,urban,Low,14,,1/20/2027
+employed,55+,Ph.D,Retail,urban,High,,78600,1/21/2027
+Unemployed,18 to 24,,Tech ,Mumbai,Low,,,1/22/2027
+Unemployed,25_34,high school,Retail,suburban,High,22,114600,1/23/2027
+,55+,Diploma,Tech ,Bangalore,High,,94400,1/24/2027
+,35 - 44,,Tech ,suburban,High,13,53300,1/25/2027
+unemployed,,High School,Retail,Bangalore,Medium,,21400,1/26/2027
+UNEMPLOYED,35 - 44,Bachelors,Finance,Urban,Low,,135700,1/27/2027
+UNEMPLOYED,45-54,Ph.D,Technology,Bangalore,HIGH,21,112400,1/28/2027
+UNEMPLOYED,25-34,High School,Healthcare,Mumbai,Low,18,20700,1/29/2027
+UNEMPLOYED,,Bachelor's,Retail,Hyderabad,Medium,,,1/30/2027
+employed,45-54,high school,Tech ,suburban,HIGH,,50100,1/31/2027
+,,Bachelors,Technology,Hyderabad,Medium,,113000,02-01-2027
+UNEMPLOYED,35 - 44,High School,,Mumbai,,,,02-02-2027
+EMPLOYED,35 - 44,Diploma,Retail,Bangalore,,16,20900,02-03-2027
+Employed,18 to 24,Bachelors,Finance,rural,High,26,113400,02-04-2027
+UNEMPLOYED,25-34,Diploma, Fintech,rural,,8,126000,02-05-2027
+EMPLOYED,18-24,Bachelor's,Retail,Delhi,moderate,27,136600,02-06-2027
+Employed,18 to 24,Bachelors, Fintech,suburban,Medium,,8400,02-07-2027
+Employed,25-34,Bachelors,Retail,Urban,low,18,143900,02-08-2027
+employed,35 - 44,Bachelors,Tech ,Hyderabad,HIGH,30,9400,02-09-2027
+UNEMPLOYED,18-24,Diploma,,,Medium,5,,02-10-2027
+EMPLOYED,18 to 24,High School, Fintech,,,9,80800,02-11-2027
+unemployed,25_34,Masters,Retail,Urban,High,11,66000,02-12-2027
+,25_34,Master,Healthcare,Delhi,Low,17,30000,2/13/2027
+unemployed,55+,Master,Retail,urban,Low,,99200,2/14/2027
+UNEMPLOYED,55+,Master,Technology,urban,,18,146000,2/15/2027
+,35 - 44,PhD, Fintech,rural,,,57600,2/16/2027
+employed,,Diploma,Retail,urban,HIGH,13,95200,2/17/2027
+unemployed,45-54,Ph.D,Retail,rural,low,20,36100,2/18/2027
+UNEMPLOYED,18-24,high school,Technology,Hyderabad,High,,47300,2/19/2027
+unemployed,18-24,Master,Education,urban,HIGH,29,103200,2/20/2027
+UNEMPLOYED,35 - 44,High School,Retail,urban,High,26,,2/21/2027
+EMPLOYED,45-54,Bachelor's,Finance,Hyderabad,Medium,,94000,2/22/2027
+employed,55+,Diploma,,rural,moderate,,35100,2/23/2027
+UNEMPLOYED,55+,Bachelor's,Finance,suburban,,,104700,2/24/2027
+UNEMPLOYED,35 - 44,Bachelor's,Tech ,Mumbai,moderate,0,118800,2/25/2027
+Employed,,High School, Fintech,Urban,Medium,19,114300,2/26/2027
+employed,55+,Diploma,Finance,rural,moderate,,,2/27/2027
+EMPLOYED,35 - 44,Ph.D,Technology,,Medium,24,,2/28/2027
+UNEMPLOYED,,Ph.D,Finance,Bangalore,moderate,29,,03-01-2027
+Employed,,Diploma,Healthcare,Mumbai,,,95200,03-02-2027
+Employed,18-24,Bachelor's,Retail,Delhi,High,,123900,03-03-2027
+EMPLOYED,25-34,Bachelor's,Retail,Hyderabad,,29,136500,03-04-2027
+UNEMPLOYED,18-24,,Retail,urban,Medium,12,105100,03-05-2027
+Employed,18-24,high school,Retail,Bangalore,Medium,7,85100,03-06-2027
+EMPLOYED,18-24,PhD,Health,rural,High,7,100800,03-07-2027
+employed,18-24,Bachelors,,Urban,,,27200,03-08-2027
+UNEMPLOYED,18-24,Diploma,Technology,Mumbai,moderate,0,51100,03-09-2027
+UNEMPLOYED,55+,Bachelors, Fintech,rural,High,7,79200,03-10-2027
+unemployed,45-54,Bachelors,Technology,Hyderabad,HIGH,,10700,03-11-2027
+employed,,Diploma,Retail,Hyderabad,Medium,8,91300,03-12-2027
+Unemployed,45-54,Bachelors,Health,Delhi,Low,,65200,3/13/2027
+employed,55+,Masters,,urban,,13,98700,3/14/2027
+employed,55+,Bachelors,Technology,Delhi,Medium,,59500,3/15/2027
+unemployed,55+,PhD,Tech ,Hyderabad,Low,1,138300,3/16/2027
+Employed,18-24,high school,Retail,rural,,9,43500,3/17/2027
+,25_34,Ph.D,Finance,Bangalore,moderate,,9400,3/18/2027
+Unemployed,18 to 24,,Tech ,Delhi,Medium,1,34800,3/19/2027
+,45-54,Bachelors,Healthcare,Mumbai,Low,24,126400,3/20/2027
+UNEMPLOYED,,High School,Education,Hyderabad,,,,3/21/2027
+unemployed,45-54,Bachelor's,Healthcare,Urban,HIGH,25,79900,3/22/2027
+unemployed,,Diploma,Education,Hyderabad,High,,69000,3/23/2027
+EMPLOYED,25_34,Ph.D,Healthcare,,High,,101400,3/24/2027
+unemployed,25-34,High School,Technology,Hyderabad,High,2,46000,3/25/2027
+unemployed,35 - 44,high school,Healthcare,Urban,low,,131800,3/26/2027
+UNEMPLOYED,18 to 24,High School,Tech ,Mumbai,low,,149100,3/27/2027
+Unemployed,,Bachelors,Finance,Mumbai,,,35600,3/28/2027
+,25_34,PhD, Fintech,rural,,27,77100,3/29/2027
+UNEMPLOYED,18 to 24,Bachelors,Healthcare,suburban,Medium,,56400,3/30/2027
+Unemployed,25_34,Bachelor's,Retail,Mumbai,High,18,83000,3/31/2027
+employed,18 to 24,Diploma,Tech ,suburban,HIGH,10,21400,04-01-2027
+Employed,,High School,Tech ,Mumbai,,20,82600,04-02-2027
+Employed,55+,Ph.D,Finance,urban,low,,106100,04-03-2027
+Employed,18 to 24,Diploma,Retail,Bangalore,HIGH,17,,04-04-2027
+Employed,25_34,High School, Fintech,Hyderabad,low,24,29900,04-05-2027
+unemployed,25_34,Bachelors,Finance,Hyderabad,moderate,,125600,04-06-2027
+employed,45-54,Bachelors, Fintech,Mumbai,moderate,,,04-07-2027
+Unemployed,55+,Diploma,Health,Hyderabad,Medium,,22700,04-08-2027
+unemployed,18-24,High School, Fintech,Hyderabad,HIGH,6,138500,04-09-2027
+EMPLOYED,18-24,high school,Education,Bangalore,HIGH,25,12100,04-10-2027
+employed,45-54,Master,,rural,low,6,,04-11-2027
+unemployed,,high school,Finance,rural,High,1,19800,04-12-2027
+EMPLOYED,25-34,High School,Technology,,HIGH,16,119600,4/13/2027
+Unemployed,45-54,,,Delhi,low,,22500,4/14/2027
+,35 - 44,Bachelor's,Retail,rural,,,149300,4/15/2027
+,25-34,High School,Retail,urban,Low,12,109300,4/16/2027
+Employed,18-24,Bachelors,Education,,HIGH,,112600,4/17/2027
+Employed,25-34,Diploma,Technology,Mumbai,low,15,132900,4/18/2027
+EMPLOYED,25-34,PhD,Health,urban,Medium,,,4/19/2027
+unemployed,18 to 24,Ph.D, Fintech,Mumbai,HIGH,,57400,4/20/2027
+EMPLOYED,35 - 44,,Retail,Mumbai,moderate,1,54900,4/21/2027
+unemployed,45-54,high school,Retail,Mumbai,Medium,,,4/22/2027
+unemployed,25_34,Ph.D,Healthcare,suburban,Medium,7,68300,4/23/2027
+EMPLOYED,35 - 44,High School,Retail,Bangalore,Low,17,68700,4/24/2027
+unemployed,25_34,PhD,Healthcare,urban,low,10,90800,4/25/2027
+,45-54,Master,Retail,Urban,,,91400,4/26/2027
+Unemployed,18 to 24,Master,,suburban,Low,29,115000,4/27/2027
+EMPLOYED,18-24,Bachelor's,Retail,Urban,High,5,87200,4/28/2027
+Unemployed,35 - 44,, Fintech,rural,HIGH,,100100,4/29/2027
+UNEMPLOYED,25-34,Bachelor's, Fintech,urban,,,58000,4/30/2027
+UNEMPLOYED,35 - 44,Diploma,Technology,suburban,Low,,,05-01-2027
+UNEMPLOYED,55+,Bachelor's,Finance,Mumbai,moderate,21,123600,05-02-2027
+Unemployed,35 - 44,Diploma,Retail,,High,21,141100,05-03-2027
+unemployed,45-54,Diploma,Retail,urban,moderate,,,05-04-2027
+Employed,25-34,Masters,Retail,Delhi,HIGH,,80700,05-05-2027
+Unemployed,45-54,Bachelors,Healthcare,rural,Low,,47100,05-06-2027
+,25-34,Diploma,Healthcare,Delhi,HIGH,6,,05-07-2027
+employed,18-24,Bachelors,Finance,Bangalore,HIGH,,,05-08-2027
+EMPLOYED,35 - 44,Bachelor's,Health,,Low,,50500,05-09-2027
+employed,,high school,Finance,rural,HIGH,,,05-10-2027
+UNEMPLOYED,35 - 44,,Health,Mumbai,HIGH,,,05-11-2027
+unemployed,25_34,High School,Education,urban,HIGH,13,43000,05-12-2027
+,,,Retail,Urban,High,12,41900,5/13/2027
+,18 to 24,High School,Retail,,low,19,5800,5/14/2027
+employed,18-24,Diploma,Finance,Delhi,low,,149300,5/15/2027
+employed,18 to 24,Bachelor's,Health,Delhi,low,,6500,5/16/2027
+employed,25-34,Masters,Tech ,Bangalore,Low,4,122500,5/17/2027
+EMPLOYED,25_34,Masters,Retail,Mumbai,moderate,,140800,5/18/2027
+EMPLOYED,18 to 24,Bachelors,Education,Hyderabad,Low,,,5/19/2027
+,45-54,Master,Finance,Delhi,,,27100,5/20/2027
+EMPLOYED,25_34,High School,Technology,Mumbai,HIGH,,110800,5/21/2027
+UNEMPLOYED,25-34,High School,Tech ,rural,Low,,18800,5/22/2027
+Unemployed,25_34,Bachelor's,Retail,Delhi,Low,20,,5/23/2027
+unemployed,25_34,High School,Retail,suburban,Low,19,,5/24/2027
+Unemployed,25_34,PhD,Retail,Delhi,Low,29,34700,5/25/2027
+UNEMPLOYED,18-24,High School,,Hyderabad,Medium,,64100,5/26/2027
+UNEMPLOYED,,Masters,Healthcare,Bangalore,moderate,2,,5/27/2027
+,45-54,,Technology,rural,,,16400,5/28/2027
+Employed,,Masters,Retail,Hyderabad,Low,14,14100,5/29/2027
+Employed,25-34,Bachelor's,Technology,Hyderabad,HIGH,3,82900,5/30/2027
+employed,35 - 44,PhD,,Delhi,low,,49700,5/31/2027
+Employed,25_34,PhD,Health,urban,Medium,0,,06-01-2027
+,25_34,Bachelors,Tech ,Bangalore,Medium,,118600,06-02-2027
+EMPLOYED,18-24,Bachelors,Retail,Urban,Medium,,,06-03-2027
+UNEMPLOYED,25-34,Masters,,,HIGH,,,06-04-2027
+Employed,18 to 24,High School,Finance,Bangalore,HIGH,,88600,06-05-2027
+Employed,45-54,Ph.D,Health,suburban,,,110000,06-06-2027
+Employed,45-54,Bachelors,Health,rural,High,2,20200,06-07-2027
+Employed,45-54,Diploma,Retail,Hyderabad,moderate,27,54800,06-08-2027
+unemployed,25-34,PhD,Retail,Bangalore,Low,22,,06-09-2027
+unemployed,25-34,Diploma,Education,Hyderabad,Medium,,,06-10-2027
+unemployed,25-34,Ph.D,,urban,High,16,53100,06-11-2027
+,18 to 24,Masters,Retail,urban,low,,39600,06-12-2027
+UNEMPLOYED,25_34,Bachelor's,Health,Urban,HIGH,,,6/13/2027
+Employed,25-34,PhD,Finance,Bangalore,Medium,22,60300,6/14/2027
+UNEMPLOYED,18 to 24,Bachelors,Tech ,Delhi,,15,,6/15/2027
+Employed,55+,Master, Fintech,urban,,,,6/16/2027
+Unemployed,,Diploma,Healthcare,suburban,moderate,,50600,6/17/2027
+Unemployed,45-54,High School, Fintech,Delhi,,10,,6/18/2027
+EMPLOYED,,Masters,Retail,Hyderabad,Medium,,115300,6/19/2027
+employed,18-24,High School,Finance,Hyderabad,High,,70900,6/20/2027
+Employed,25-34,high school,Retail,rural,low,16,26200,6/21/2027
+unemployed,25-34,, Fintech,Urban,HIGH,,145300,6/22/2027
+UNEMPLOYED,45-54,Bachelors,Tech ,,Medium,18,,6/23/2027
+Unemployed,55+,Diploma,Retail,urban,Medium,3,,6/24/2027
+EMPLOYED,45-54,Bachelor's,Technology,Mumbai,HIGH,14,16400,6/25/2027
+Employed,18-24,PhD,Technology,Bangalore,,2,88000,6/26/2027
+EMPLOYED,25_34,Ph.D,Education,rural,low,,,6/27/2027
+EMPLOYED,25-34,high school,Education,,High,0,98500,6/28/2027
+EMPLOYED,18 to 24,Masters,Tech ,Mumbai,HIGH,,,6/29/2027
+EMPLOYED,35 - 44,high school,Health,urban,HIGH,,59000,6/30/2027
+Unemployed,35 - 44,Master,Healthcare,Hyderabad,low,,119600,07-01-2027
+Unemployed,35 - 44,PhD,Retail,rural,Medium,3,142800,07-02-2027
+UNEMPLOYED,25-34,PhD, Fintech,rural,High,27,28500,07-03-2027
+employed,18-24,High School,Healthcare,Mumbai,Medium,6,37900,07-04-2027
+UNEMPLOYED,35 - 44,high school,Retail,Hyderabad,Low,4,32100,07-05-2027
+employed,45-54,Diploma,Finance,Delhi,Medium,9,89800,07-06-2027
+UNEMPLOYED,,Master,Health,rural,low,,103100,07-07-2027
+UNEMPLOYED,,Bachelors,Health,Bangalore,HIGH,,119700,07-08-2027
+Employed,18 to 24,PhD,Healthcare,Urban,,,,07-09-2027
+UNEMPLOYED,35 - 44,Master,Technology,suburban,HIGH,26,72100,07-10-2027
+employed,45-54,Ph.D, Fintech,,,,,07-11-2027
+employed,55+,Ph.D,Tech ,,Medium,12,59400,07-12-2027
+Employed,55+,Bachelors,Finance,rural,High,,100400,7/13/2027
+EMPLOYED,,Ph.D,Retail,,Low,,91200,7/14/2027
+UNEMPLOYED,25-34,Masters,Education,Mumbai,Low,22,89300,7/15/2027
+EMPLOYED,18 to 24,Bachelor's,Healthcare,rural,Medium,,45200,7/16/2027
+Employed,18-24,Diploma,,suburban,moderate,28,132100,7/17/2027
+Employed,25-34,Diploma,Healthcare,,low,,83300,7/18/2027
+Employed,,Master,Health,Mumbai,HIGH,,40200,7/19/2027
+UNEMPLOYED,45-54,Ph.D, Fintech,Urban,High,9,132200,7/20/2027
+Unemployed,18-24,Masters,Retail,Bangalore,HIGH,8,139200,7/21/2027
+UNEMPLOYED,55+,Master,Healthcare,Bangalore,low,11,34300,7/22/2027
+UNEMPLOYED,18-24,high school,Retail,Delhi,low,10,133700,7/23/2027
+unemployed,35 - 44,high school,,Bangalore,,,108500,7/24/2027
+,35 - 44,Diploma,Finance,Bangalore,low,,61700,7/25/2027
+UNEMPLOYED,18-24,Ph.D,Health,,High,,79900,7/26/2027
+Unemployed,55+,PhD,Retail,suburban,moderate,22,125000,7/27/2027
+Unemployed,18-24,high school,Tech ,urban,,12,95200,7/28/2027
+EMPLOYED,55+,,,Delhi,,,124800,7/29/2027
+Employed,25-34,Bachelor's,,Hyderabad,moderate,7,104200,7/30/2027
+,,Masters,Technology,urban,Low,22,136300,7/31/2027
+employed,25_34,High School,Retail,Delhi,Low,,,08-01-2027
+employed,35 - 44,Masters,,Bangalore,Medium,,,08-02-2027
+Employed,18-24,Bachelors,,rural,High,,113400,08-03-2027
+EMPLOYED,45-54,high school,Technology,,low,26,,08-04-2027
+unemployed,45-54,Bachelor's,Health,rural,Low,24,54900,08-05-2027
+,18-24,Bachelors,Tech ,Delhi,moderate,9,103000,08-06-2027
+UNEMPLOYED,25-34,Bachelors,Tech ,Delhi,moderate,,86400,08-07-2027
+Employed,18-24,Ph.D,Technology,urban,low,26,76300,08-08-2027
+,18 to 24,High School,Retail,suburban,low,25,139000,08-09-2027
+unemployed,18-24,,Retail,Urban,Medium,27,58600,08-10-2027
+EMPLOYED,18 to 24,Master,Retail,suburban,low,,135500,08-11-2027
+Employed,18 to 24,Diploma,Healthcare,Urban,,22,68300,08-12-2027
+Unemployed,55+,Bachelor's,Retail,Delhi,Low,1,51700,8/13/2027
+Employed,35 - 44,Masters,Finance,Delhi,Medium,,,8/14/2027
+Unemployed,,PhD,Retail,rural,low,0,126100,8/15/2027
+,18 to 24,Diploma,Finance,Urban,,14,93400,8/16/2027
+EMPLOYED,55+,Masters,,Hyderabad,Low,29,,8/17/2027
+,25-34,Masters,Health,Delhi,High,,25200,8/18/2027
+UNEMPLOYED,25-34,Master,Health,Mumbai,moderate,16,114200,8/19/2027
+,25-34,High School,Retail,Hyderabad,,12,103700,8/20/2027
+Employed,18-24,Bachelors,Education,suburban,moderate,,76200,8/21/2027
+EMPLOYED,,PhD,,Urban,moderate,3,147900,8/22/2027
+Unemployed,35 - 44,high school,Finance,Urban,Medium,30,65500,8/23/2027
+,25-34,Bachelors,Health,urban,HIGH,28,149300,8/24/2027
+unemployed,25-34,Diploma,Health,suburban,low,,,8/25/2027
+EMPLOYED,25-34,Diploma,Technology,Bangalore,High,23,,8/26/2027
+EMPLOYED,,High School,Technology,rural,HIGH,,107700,8/27/2027
+UNEMPLOYED,45-54,High School,Technology,Hyderabad,Low,,,8/28/2027
+Employed,55+,PhD,,Bangalore,low,5,142800,8/29/2027
+unemployed,25-34,Ph.D, Fintech,urban,low,,77200,8/30/2027
+employed,35 - 44,Bachelors,Tech ,Bangalore,,,8200,8/31/2027
+Employed,,Diploma, Fintech,Delhi,HIGH,,,09-01-2027
+,35 - 44,Diploma,,,High,,38200,09-02-2027
+UNEMPLOYED,25_34,Diploma,Education,,HIGH,,,09-03-2027
+unemployed,25_34,Bachelors,Retail,Urban,High,2,15200,09-04-2027
+employed,55+,Diploma,,suburban,High,,,09-05-2027
+UNEMPLOYED,55+,Master,Finance,Delhi,moderate,23,33200,09-06-2027
+UNEMPLOYED,18 to 24,high school,Retail,Mumbai,Low,29,25900,09-07-2027
+unemployed,35 - 44,PhD,Health,,Medium,,28800,09-08-2027
+Employed,25-34,High School,Finance,Hyderabad,HIGH,,,09-09-2027
+Unemployed,18-24,high school,Retail,Delhi,low,,41600,09-10-2027
+unemployed,,Bachelor's,Health,Hyderabad,,16,,09-11-2027
+employed,25_34,,Retail,Urban,Medium,4,,09-12-2027
+,55+,high school,Retail,Delhi,moderate,,16900,9/13/2027
+EMPLOYED,25-34,Master,Health,Urban,HIGH,25,133500,9/14/2027
+UNEMPLOYED,25-34,Bachelor's,Retail,urban,,,105500,9/15/2027
+EMPLOYED,35 - 44,Masters, Fintech,Delhi,,,25500,9/16/2027
+Employed,45-54,High School,Healthcare,,High,7,105400,9/17/2027
+,25-34,High School,Technology,Mumbai,,12,34000,9/18/2027
+UNEMPLOYED,45-54,High School, Fintech,Mumbai,Low,,113200,9/19/2027
+Employed,,Ph.D,Finance,rural,low,27,83600,9/20/2027
+employed,25-34,Masters,Health,suburban,,3,147900,9/21/2027
+employed,18-24,Ph.D, Fintech,suburban,,4,17200,9/22/2027
+UNEMPLOYED,35 - 44,high school,Finance,suburban,low,27,,9/23/2027
+UNEMPLOYED,35 - 44,Masters, Fintech,Hyderabad,Low,,7000,9/24/2027
+employed,25-34,PhD,Retail,suburban,Medium,21,,9/25/2027
+employed,18-24,Bachelor's, Fintech,Delhi,HIGH,,,9/26/2027
+UNEMPLOYED,55+,Master,Healthcare,,HIGH,11,77200,9/27/2027
+employed,18 to 24,Bachelors,Technology,rural,moderate,,137500,9/28/2027
+UNEMPLOYED,45-54,Diploma,Retail,suburban,Medium,28,12600,9/29/2027
+EMPLOYED,25_34,Bachelor's,Finance,Bangalore,High,18,142900,9/30/2027
+unemployed,18 to 24,Bachelors,Tech ,Bangalore,low,21,,10-01-2027
+UNEMPLOYED,25_34,,,Mumbai,moderate,14,,10-02-2027
+Employed,18-24,high school,Education,urban,HIGH,,,10-03-2027
+Employed,35 - 44,Ph.D,Technology,Mumbai,low,23,129200,10-04-2027
+,25_34,PhD,Retail,Urban,HIGH,8,,10-05-2027
+,25-34,High School,Retail,Bangalore,low,,68800,10-06-2027
+EMPLOYED,18 to 24,Diploma,Tech ,Urban,High,6,103300,10-07-2027
+Unemployed,25-34,high school,Education,urban,Medium,14,63800,10-08-2027
+,,,,suburban,HIGH,11,140300,10-09-2027
+Employed,55+,Bachelors, Fintech,rural,Low,,73000,10-10-2027
+unemployed,25_34,high school,Healthcare,Hyderabad,moderate,9,114500,10-11-2027
+Employed,18-24,Diploma,Finance,Delhi,low,13,59500,10-12-2027
+Unemployed,18-24,,Retail,Hyderabad,Medium,25,43400,10/13/2027
+employed,,Bachelor's,Finance,suburban,Medium,,17800,10/14/2027
+EMPLOYED,45-54,High School,Health,Delhi,,,14100,10/15/2027
+EMPLOYED,,Master,Healthcare,Urban,Medium,9,,10/16/2027
+EMPLOYED,,Master, Fintech,Hyderabad,,,,10/17/2027
+employed,25_34,,Health,Urban,High,,119400,10/18/2027
+,55+,Master, Fintech,Delhi,Low,,101200,10/19/2027
+employed,,Ph.D,Technology,rural,,,96900,10/20/2027
+unemployed,,,Finance,Hyderabad,HIGH,7,,10/21/2027
+,18-24,Masters,Finance,rural,moderate,7,80700,10/22/2027
+,25_34,Diploma,Education,rural,moderate,,30000,10/23/2027
+UNEMPLOYED,25-34,Bachelor's,Tech ,suburban,Medium,,38400,10/24/2027
+UNEMPLOYED,55+,,,Hyderabad,HIGH,11,122000,10/25/2027
+EMPLOYED,35 - 44,,Tech ,Urban,Medium,,41000,10/26/2027
+Unemployed,25_34,Bachelors,Technology,Hyderabad,Medium,16,34600,10/27/2027
+EMPLOYED,25-34,Masters,Healthcare,,moderate,,,10/28/2027
+EMPLOYED,18-24,Masters,Retail,Hyderabad,,7,148200,10/29/2027
+UNEMPLOYED,35 - 44,High School,Finance,Bangalore,moderate,,88000,10/30/2027
+employed,45-54,Bachelor's,Retail,,low,26,60000,10/31/2027
+employed,55+,Bachelors,Education,,HIGH,,78300,11-01-2027
+employed,35 - 44,Master, Fintech,,High,22,38900,11-02-2027
+,25-34,Master,,,High,15,67800,11-03-2027
+unemployed,25-34,Bachelors,Retail,suburban,,,,11-04-2027
+,18 to 24,Bachelor's,Tech ,Delhi,,17,44000,11-05-2027
+,18-24,High School,,urban,moderate,,111900,11-06-2027
+unemployed,35 - 44,, Fintech,suburban,Medium,19,11500,11-07-2027
+EMPLOYED,25_34,Bachelor's,Education,Mumbai,High,,41600,11-08-2027
+EMPLOYED,45-54,,Retail,,High,,28100,11-09-2027
+employed,25_34,Bachelors, Fintech,,Low,,97500,11-10-2027
+Employed,25-34,Master,Technology,,Low,19,43100,11-11-2027
+UNEMPLOYED,18 to 24,Bachelors,Finance,suburban,HIGH,,128400,11-12-2027
+unemployed,45-54,Bachelors,Retail,Bangalore,,17,127000,11/13/2027
+EMPLOYED,18-24,Bachelors,Finance,Mumbai,HIGH,7,,11/14/2027
+,25_34,Bachelors,Finance,Urban,,21,106900,11/15/2027
+UNEMPLOYED,45-54,High School,Retail,,moderate,,15800,11/16/2027
+UNEMPLOYED,35 - 44,Diploma,Retail,Bangalore,High,,122700,11/17/2027
+EMPLOYED,35 - 44,Ph.D,Tech ,urban,,21,18100,11/18/2027
+employed,55+,Bachelor's,Technology,urban,HIGH,20,75100,11/19/2027
+Unemployed,55+,PhD,Retail,Hyderabad,Medium,27,83600,11/20/2027
+EMPLOYED,55+,high school,Health,Urban,Low,,,11/21/2027
+UNEMPLOYED,18-24,Master,Healthcare,Mumbai,Medium,,120600,11/22/2027
+UNEMPLOYED,35 - 44,Bachelors,Health,rural,,8,40700,11/23/2027
+employed,25_34,Bachelors,Education,,moderate,,16300,11/24/2027
+UNEMPLOYED,18 to 24,Bachelors, Fintech,Mumbai,moderate,29,146300,11/25/2027
+Unemployed,18 to 24,PhD, Fintech,urban,low,10,7200,11/26/2027
+,45-54,high school,Retail,rural,moderate,0,28900,11/27/2027
+unemployed,25-34,High School,Education,suburban,Medium,,37100,11/28/2027
+employed,45-54,high school,Retail,,low,,,11/29/2027
+Unemployed,35 - 44,,Healthcare,Urban,HIGH,5,104200,11/30/2027
+employed,45-54,,Healthcare,urban,High,,35500,12-01-2027
+unemployed,45-54,High School,Technology,Hyderabad,HIGH,25,,12-02-2027
+UNEMPLOYED,45-54,Masters,Health,urban,HIGH,,39500,12-03-2027
+unemployed,18 to 24,Ph.D,Finance,suburban,HIGH,,104500,12-04-2027
+employed,55+,Diploma, Fintech,Urban,High,,148900,12-05-2027
+Employed,18-24,PhD,Healthcare,Delhi,,8,83200,12-06-2027
+Employed,25-34,Masters,Technology,,low,,20000,12-07-2027
+employed,18 to 24,High School, Fintech,urban,HIGH,,124500,12-08-2027
+EMPLOYED,18 to 24,,Finance,Mumbai,Low,,124600,12-09-2027
+Unemployed,18-24,Master,Health,urban,HIGH,9,,12-10-2027
+employed,18 to 24,High School,Healthcare,Bangalore,low,,,12-11-2027
+Unemployed,18 to 24,Diploma,Retail,Urban,moderate,5,,12-12-2027
+UNEMPLOYED,45-54,High School,Finance,Urban,low,16,77300,12/13/2027
+unemployed,45-54,,Technology,Bangalore,moderate,,45300,12/14/2027
+Employed,18 to 24,,Healthcare,suburban,Medium,20,,12/15/2027
+Employed,18-24,High School,Technology,,High,,38600,12/16/2027
+EMPLOYED,35 - 44,High School,,Mumbai,HIGH,,127700,12/17/2027
+unemployed,55+,High School, Fintech,suburban,,28,43800,12/18/2027
+employed,25_34,Master,Retail,Bangalore,HIGH,30,97500,12/19/2027
+EMPLOYED,25-34,Ph.D,Retail,,moderate,,90800,12/20/2027
+Employed,18 to 24,Ph.D,Retail,rural,Low,,76000,12/21/2027
+EMPLOYED,18-24,Masters,Health,suburban,HIGH,,,12/22/2027
+unemployed,25_34,High School,,rural,low,17,10300,12/23/2027
+EMPLOYED,,Bachelors,Technology,,moderate,,,12/24/2027
+EMPLOYED,55+,Bachelors,,Bangalore,moderate,,52500,12/25/2027
+employed,18-24,Bachelor's,Technology,Bangalore,,22,145500,12/26/2027
+employed,25_34,Bachelors,Tech ,,,,39200,12/27/2027
+Unemployed,45-54,High School,Education,Urban,moderate,,124400,12/28/2027
+unemployed,25-34,Bachelors,Technology,Hyderabad,low,10,,12/29/2027
+UNEMPLOYED,18-24,Bachelors, Fintech,,moderate,13,13000,12/30/2027
+EMPLOYED,18 to 24,PhD,Healthcare,suburban,Medium,,97900,12/31/2027
+UNEMPLOYED,55+,PhD,Technology,Mumbai,Medium,,,01-01-2028
+Unemployed,35 - 44,Masters,Health,urban,HIGH,,,01-02-2028
+,55+,Ph.D, Fintech,Delhi,High,,17100,01-03-2028
+employed,45-54,Bachelor's,Education,Bangalore,High,3,133900,01-04-2028
+Unemployed,,Master,,Delhi,moderate,,96500,01-05-2028
+unemployed,,high school,Tech ,Delhi,HIGH,15,64500,01-06-2028
+EMPLOYED,45-54,Bachelors,Retail,Mumbai,HIGH,3,58500,01-07-2028
+Unemployed,45-54,Bachelors,Retail,Bangalore,HIGH,3,34200,01-08-2028
+Employed,25-34,Masters,Education,suburban,moderate,10,10700,01-09-2028
+UNEMPLOYED,55+,Ph.D,Finance,Hyderabad,moderate,0,46600,01-10-2028
+unemployed,35 - 44,High School,Technology,Hyderabad,,,119200,01-11-2028
+employed,25_34,Ph.D,Finance,,Medium,,123900,01-12-2028
+UNEMPLOYED,18-24,High School,Retail,Hyderabad,low,,10900,1/13/2028
+EMPLOYED,,high school,Retail,urban,Low,13,67800,1/14/2028
+Unemployed,25-34,Masters,,Mumbai,High,,,1/15/2028
+,18 to 24,Masters,,Mumbai,HIGH,,135400,1/16/2028
+employed,,Master,Retail,,HIGH,,65400,1/17/2028
+Unemployed,35 - 44,Bachelor's,Technology,,HIGH,10,75600,1/18/2028
+EMPLOYED,25_34,high school,Education,suburban,Medium,,,1/19/2028
+,45-54,Masters,Technology,Bangalore,High,20,,1/20/2028
+UNEMPLOYED,35 - 44,Ph.D,Education,suburban,moderate,,72800,1/21/2028
+employed,,PhD,Healthcare,Urban,low,1,54000,1/22/2028
+EMPLOYED,,Ph.D,Education,Mumbai,High,22,68700,1/23/2028
+unemployed,25-34,Master, Fintech,Delhi,,17,,1/24/2028
+unemployed,25-34,Masters,Health,Hyderabad,High,25,140800,1/25/2028
+unemployed,18 to 24,Ph.D,Retail,suburban,low,,113400,1/26/2028
+Employed,35 - 44,Diploma,Tech ,,,,54400,1/27/2028
+Unemployed,18-24,Diploma,,Delhi,HIGH,,,1/28/2028
+employed,35 - 44,Bachelor's,Healthcare,rural,Medium,,54000,1/29/2028
+,25_34,Diploma,Health,urban,moderate,,58000,1/30/2028
+employed,55+,PhD,Technology,suburban,moderate,,,1/31/2028
+UNEMPLOYED,45-54,,Healthcare,suburban,HIGH,25,87300,02-01-2028
+employed,35 - 44,PhD,Health,Hyderabad,low,21,,02-02-2028
+UNEMPLOYED,35 - 44,Diploma,Finance,urban,moderate,,,02-03-2028
+UNEMPLOYED,35 - 44,high school,Tech ,rural,Low,9,64600,02-04-2028
+EMPLOYED,55+,Diploma,Retail,urban,Medium,27,,02-05-2028
+employed,35 - 44,Master, Fintech,Bangalore,High,,148400,02-06-2028
+unemployed,,,Tech ,Bangalore,High,,,02-07-2028
+Employed,25-34,PhD,Finance,Mumbai,low,19,91700,02-08-2028
+,25_34,PhD,Health,suburban,low,13,,02-09-2028
+UNEMPLOYED,35 - 44,Master,Health,urban,Low,24,,02-10-2028
+EMPLOYED,45-54,Master,Healthcare,rural,low,,115200,02-11-2028
+unemployed,18-24,Masters,Health,rural,Medium,,38500,02-12-2028
+unemployed,18 to 24,Bachelor's,Retail,urban,HIGH,24,104600,2/13/2028
+,55+,High School,Health,Mumbai,Low,16,90500,2/14/2028
+employed,,PhD,Healthcare,Hyderabad,,,77400,2/15/2028
+UNEMPLOYED,18-24,Bachelors,Retail,Mumbai,HIGH,,33800,2/16/2028
+UNEMPLOYED,,PhD,Education,,Medium,2,42700,2/17/2028
+,18 to 24,,Tech ,Bangalore,low,3,141800,2/18/2028
+Employed,45-54,,Education,Hyderabad,HIGH,8,50900,2/19/2028
+Employed,,,Technology,rural,moderate,,89900,2/20/2028
+EMPLOYED,45-54,High School,Healthcare,Mumbai,,,,2/21/2028
+EMPLOYED,45-54,PhD,Healthcare,suburban,HIGH,,17800,2/22/2028
+,18 to 24,Bachelor's,,Bangalore,moderate,,22700,2/23/2028
+,18 to 24,Bachelors,Tech ,suburban,,,46700,2/24/2028
+Unemployed,25_34,PhD,Retail,,,16,50900,2/25/2028
+Unemployed,25_34,Master,Healthcare,Delhi,Medium,10,,2/26/2028
+Unemployed,35 - 44,High School,Retail,suburban,Low,2,145300,2/27/2028
+employed,18-24,Master,Technology,rural,Low,,63500,2/28/2028
+EMPLOYED,18-24,Diploma,Finance,suburban,Low,,16100,2/29/2028
+unemployed,35 - 44,PhD,Retail,suburban,moderate,,105600,03-01-2028
+Employed,35 - 44,Master,Retail,Bangalore,,,,03-02-2028
+EMPLOYED,55+,Diploma,Technology,Bangalore,High,8,51100,03-03-2028
+employed,45-54,Bachelors,Retail,rural,,,6400,03-04-2028
+employed,18 to 24,Ph.D, Fintech,Urban,low,24,,03-05-2028
+UNEMPLOYED,55+,high school,Health,rural,HIGH,,7600,03-06-2028
+UNEMPLOYED,55+,Masters,Education,suburban,moderate,,122800,03-07-2028
+UNEMPLOYED,18-24,PhD,Finance,rural,moderate,8,61500,03-08-2028
+unemployed,55+,high school,Healthcare,Delhi,,3,,03-09-2028
+EMPLOYED,35 - 44,Diploma,Retail,Bangalore,High,2,56700,03-10-2028
+,25-34,High School,,urban,,,42400,03-11-2028
+,55+,Bachelors,Retail,,HIGH,,69700,03-12-2028
+UNEMPLOYED,,Bachelors,Retail,urban,moderate,1,149600,3/13/2028
+Unemployed,35 - 44,Masters,Retail,urban,,22,49600,3/14/2028
+Unemployed,55+,Master,Retail,Bangalore,low,,,3/15/2028
+UNEMPLOYED,25_34,Bachelors, Fintech,Delhi,Medium,7,24100,3/16/2028
+unemployed,25_34,Ph.D,Technology,Mumbai,HIGH,,,3/17/2028
+Employed,35 - 44,Masters, Fintech,Bangalore,High,,32900,3/18/2028
+unemployed,25_34,Diploma,Retail,rural,HIGH,,114500,3/19/2028
+Employed,25_34,PhD,Finance,Urban,HIGH,28,124800,3/20/2028
+Unemployed,18 to 24,PhD,Education,urban,Medium,14,,3/21/2028
+,,Bachelors,Technology,Mumbai,low,,,3/22/2028
+employed,45-54,Masters,Retail,Urban,Low,27,,3/23/2028
+employed,,Bachelors,Healthcare,urban,Medium,1,,3/24/2028
+Employed,18 to 24,Bachelors,Education,Bangalore,low,,25900,3/25/2028
+,35 - 44,Master,Retail,,Medium,,32600,3/26/2028
+,18 to 24,High School,Tech ,rural,Medium,,98400,3/27/2028
+EMPLOYED,25-34,,,Mumbai,High,20,102300,3/28/2028
+UNEMPLOYED,18 to 24,Bachelors,Health,,low,,96200,3/29/2028
+Employed,25-34,Ph.D,Tech ,Mumbai,Low,7,,3/30/2028
+,18-24,Diploma,Retail,suburban,Low,26,71700,3/31/2028
+Employed,35 - 44,High School,Retail,,HIGH,20,146600,04-01-2028
+Unemployed,18 to 24,high school,,Urban,low,,53400,04-02-2028
+,35 - 44,Bachelor's,Technology,Hyderabad,Low,27,,04-03-2028
+Unemployed,,Bachelor's, Fintech,Hyderabad,HIGH,18,133500,04-04-2028
+employed,45-54,Bachelor's,Retail,Bangalore,low,,78200,04-05-2028
+UNEMPLOYED,18-24,Diploma,Retail,urban,Low,,48400,04-06-2028
+Employed,18 to 24,,Retail,Mumbai,low,21,15000,04-07-2028
+,18 to 24,Bachelor's,Retail,Bangalore,,16,77400,04-08-2028
+Unemployed,25_34,Masters,Retail,urban,low,,147300,04-09-2028
+,55+,Bachelors,Finance,Delhi,,7,14300,04-10-2028
+unemployed,18-24,Ph.D,Healthcare,Urban,Low,,63800,04-11-2028
+employed,18 to 24,PhD,Technology,Urban,Low,,88000,04-12-2028
+Unemployed,,PhD,Technology,suburban,Low,,70700,4/13/2028
+EMPLOYED,,PhD,Finance,urban,Low,2,,4/14/2028
+EMPLOYED,25-34,Bachelors,,Hyderabad,,,,4/15/2028
+Unemployed,45-54,Bachelor's,Technology,urban,HIGH,5,,4/16/2028
+,18-24,,Health,Urban,Medium,26,,4/17/2028
+employed,18 to 24,Bachelors,Tech ,,Low,28,,4/18/2028
+UNEMPLOYED,25_34,Ph.D,Health,urban,High,24,26900,4/19/2028
+employed,18 to 24,PhD,Retail,Delhi,,1,59700,4/20/2028
+Unemployed,35 - 44,PhD,Technology,Delhi,,9,24900,4/21/2028
+,25_34,,Retail,urban,HIGH,16,50200,4/22/2028
+UNEMPLOYED,,PhD,Tech ,Urban,low,,28100,4/23/2028
+employed,18 to 24,Masters,Tech ,Bangalore,moderate,,35900,4/24/2028
+unemployed,25_34,Diploma, Fintech,Urban,moderate,29,45100,4/25/2028
+employed,55+,High School,Health,,HIGH,,,4/26/2028
+,18-24,Masters,Retail,Mumbai,low,0,63700,4/27/2028
+employed,55+,Masters,Finance,Bangalore,moderate,3,127700,4/28/2028
+UNEMPLOYED,,Masters,Education,Urban,,,55100,4/29/2028
+Unemployed,25-34,Bachelor's,,urban,,,120000,4/30/2028
+,25_34,Ph.D,Health,rural,High,15,,05-01-2028
+Unemployed,18-24,Ph.D, Fintech,urban,HIGH,20,34900,05-02-2028
+,,Masters,Retail,Delhi,,,17300,05-03-2028
+UNEMPLOYED,18 to 24,PhD,Health,Delhi,,,90700,05-04-2028
+employed,25_34,,Finance,Mumbai,High,,131900,05-05-2028
+UNEMPLOYED,55+,Bachelor's,Retail,urban,Low,5,74400,05-06-2028
+EMPLOYED,25_34,Ph.D,Education,urban,moderate,23,105600,05-07-2028
+Employed,25-34,Master,Retail,Urban,,,129100,05-08-2028
+Employed,55+,high school,Health,,Medium,,110400,05-09-2028
+Employed,55+,Ph.D,Finance,suburban,low,22,82800,05-10-2028
+Employed,35 - 44,high school,Technology,suburban,moderate,1,26000,05-11-2028
+unemployed,18 to 24,High School,Health,Bangalore,High,27,145000,05-12-2028
+Unemployed,35 - 44,high school,Healthcare,rural,moderate,20,,5/13/2028
+Unemployed,,Bachelors,Healthcare,rural,Low,,47400,5/14/2028
+unemployed,45-54,PhD,Retail,Delhi,low,21,43600,5/15/2028
+,,,Technology,Delhi,Low,,127400,5/16/2028
+employed,45-54,Bachelors,,Hyderabad,,,13400,5/17/2028
+Unemployed,18 to 24,Ph.D,Finance,,Medium,14,94300,5/18/2028
+unemployed,55+,Bachelor's,Education,Mumbai,moderate,28,97000,5/19/2028
+Unemployed,25-34,High School,,Mumbai,HIGH,13,62100,5/20/2028
+EMPLOYED,18-24,Bachelor's,Finance,,High,24,130100,5/21/2028
+UNEMPLOYED,18 to 24,Masters,Technology,Urban,low,17,92500,5/22/2028
+UNEMPLOYED,18 to 24,Ph.D,Education,Delhi,Medium,,140700,5/23/2028
+EMPLOYED,25-34,Master,Health,Bangalore,HIGH,,52700,5/24/2028
+employed,45-54,PhD,Finance,Delhi,High,10,74700,5/25/2028
+Employed,,Master,Education,Bangalore,moderate,,142800,5/26/2028
+employed,35 - 44,Diploma,Retail,,,13,118100,5/27/2028
+unemployed,25-34,Master,,suburban,HIGH,26,121500,5/28/2028
+Unemployed,18 to 24,Bachelor's,Tech ,suburban,High,28,27700,5/29/2028
+Employed,18-24,High School,Health,Bangalore,moderate,,126600,5/30/2028
+Employed,35 - 44,Master,Retail,rural,moderate,7,25500,5/31/2028
+Employed,45-54,Ph.D,Retail,suburban,High,18,143000,06-01-2028
+employed,18 to 24,PhD,Finance,Bangalore,moderate,16,106600,06-02-2028
+,18-24,Bachelors,Health,,HIGH,14,84900,06-03-2028
+,,high school,Healthcare,Mumbai,Low,21,,06-04-2028
+Unemployed,,High School,Finance,Hyderabad,HIGH,27,51100,06-05-2028
+,18-24,Bachelor's,Retail,Bangalore,High,11,86200,06-06-2028
+EMPLOYED,,PhD,Healthcare,Urban,moderate,,133400,06-07-2028
+,,Bachelor's,Retail,urban,Low,,132700,06-08-2028
+EMPLOYED,,,,Urban,Low,,26600,06-09-2028
+EMPLOYED,25-34,Bachelor's,Finance,suburban,,,100100,06-10-2028
+EMPLOYED,25-34,Ph.D,Healthcare,Mumbai,Medium,26,49200,06-11-2028
+,55+,Diploma,Retail,Hyderabad,moderate,,146000,06-12-2028
+Unemployed,18 to 24,PhD,Healthcare,rural,moderate,19,146200,6/13/2028
+Employed,,Masters, Fintech,Bangalore,Low,,51200,6/14/2028
+EMPLOYED,18-24,Ph.D,Retail,,Low,,15400,6/15/2028
+,25_34,Bachelors,Retail,Delhi,low,12,14900,6/16/2028
+Unemployed,55+,Bachelors,Education,urban,Low,,9000,6/17/2028
+employed,25-34,Ph.D,Finance,Hyderabad,Low,,113000,6/18/2028
+EMPLOYED,25-34,PhD,Tech ,,,22,102200,6/19/2028
+,35 - 44,Masters,Education,,low,,31600,6/20/2028
+EMPLOYED,25_34,high school,Retail,Mumbai,HIGH,22,92500,6/21/2028
+UNEMPLOYED,25_34,High School,,,moderate,,43300,6/22/2028
